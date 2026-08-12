@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>M&amp;A Dashboard</title>
+  <link rel="stylesheet" href="/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+  <header>
+    <h1>M&amp;A Dashboard</h1>
+    <p class="subtitle">Ticker prices for companies making waves in the market</p>
+  </header>
+
+  <main>
+    <section id="deals-section" class="panel">
+      <h2>Upcoming acquisitions</h2>
+      <div class="filter-bar">
+        <input id="filter-acquirer" placeholder="Filter by acquirer or company" autocomplete="off" />
+        <select id="filter-adviser">
+          <option value="">Any adviser</option>
+        </select>
+        <button id="apply-filters">Apply</button>
+        <button id="clear-filters" class="secondary">Clear</button>
+      </div>
+      <div id="deals-status" class="status"></div>
+      <ul id="deals-list"></ul>
+      <button id="deals-load-more" class="secondary" hidden>Show more</button>
+    </section>
+
+    <section id="chart-section" class="panel">
+      <div class="controls">
+        <label for="symbol">Ticker</label>
+        <input id="symbol" type="text" value="NVDA" autocomplete="off" />
+        <button id="load">Load</button>
+        <span id="status" class="status"></span>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-header">
+          <h2 id="chart-title">NVDA — last month</h2>
+          <span id="latest-price"></span>
+        </div>
+        <canvas id="price-chart" height="90"></canvas>
+      </div>
+    </section>
+
+    <section id="holders-section" class="panel">
+      <h2 id="holders-title">Institutional holders</h2>
+      <div id="holders-status" class="status"></div>
+      <div id="holders-summary" class="holders-summary"></div>
+      <table id="holders-table" hidden>
+        <thead>
+          <tr>
+            <th>Organization</th>
+            <th>% held</th>
+            <th>Shares</th>
+            <th>Report date</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <p class="disclaimer" id="holders-note"></p>
+    </section>
+  </main>
+
+  <script type="module" src="/main.js"></script>
+</body>
+</html>
