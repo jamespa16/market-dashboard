@@ -14,7 +14,7 @@
   </header>
 
   <main>
-    <section id="deals-section" class="panel">
+    <section id="deals-section" class="panel feed-panel">
       <h2>Upcoming acquisitions</h2>
       <div class="filter-bar">
         <input id="filter-acquirer" placeholder="Filter by acquirer or company" autocomplete="off" />
@@ -29,40 +29,42 @@
       <button id="deals-load-more" class="secondary" hidden>Show more</button>
     </section>
 
-    <section id="chart-section" class="panel">
-      <div class="controls">
-        <label for="symbol">Ticker</label>
-        <input id="symbol" type="text" value="NVDA" autocomplete="off" />
-        <button id="load">Load</button>
-        <span id="status" class="status"></span>
-      </div>
-
-      <div class="chart-card">
-        <div class="chart-header">
-          <h2 id="chart-title">NVDA — last month</h2>
-          <span id="latest-price"></span>
+    <div class="side-panel">
+      <section id="chart-section" class="panel">
+        <div class="controls">
+          <label for="symbol">Ticker</label>
+          <input id="symbol" type="text" value="NVDA" autocomplete="off" />
+          <button id="load">Load</button>
+          <span id="status" class="status"></span>
         </div>
-        <canvas id="price-chart" height="90"></canvas>
-      </div>
-    </section>
 
-    <section id="holders-section" class="panel">
-      <h2 id="holders-title">Institutional holders</h2>
-      <div id="holders-status" class="status"></div>
-      <div id="holders-summary" class="holders-summary"></div>
-      <table id="holders-table" hidden>
-        <thead>
-          <tr>
-            <th>Organization</th>
-            <th>% held</th>
-            <th>Shares</th>
-            <th>Report date</th>
-          </tr>
-        </thead>
-        <tbody></tbody>
-      </table>
-      <p class="disclaimer" id="holders-note"></p>
-    </section>
+        <div class="chart-card">
+          <div class="chart-header">
+            <h2 id="chart-title">NVDA — last month</h2>
+            <span id="latest-price"></span>
+          </div>
+          <canvas id="price-chart" height="90"></canvas>
+        </div>
+      </section>
+
+      <section id="holders-section" class="panel">
+        <h2 id="holders-title">Institutional holders</h2>
+        <div id="holders-status" class="status"></div>
+        <div id="holders-summary" class="holders-summary"></div>
+        <table id="holders-table" hidden>
+          <thead>
+            <tr>
+              <th>Organization</th>
+              <th>% held</th>
+              <th>Shares</th>
+              <th>Report date</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+        <p class="disclaimer" id="holders-note"></p>
+      </section>
+    </div>
   </main>
 
   <script type="module" src="/main.js"></script>

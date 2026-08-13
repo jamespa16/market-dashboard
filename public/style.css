@@ -35,7 +35,30 @@ h1 {
 
 main {
   padding: 16px 32px 48px;
-  max-width: 900px;
+  max-width: 1360px;
+  display: grid;
+  grid-template-columns: minmax(0, 1.3fr) minmax(340px, 1fr);
+  align-items: start;
+  gap: 24px;
+}
+
+.side-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: sticky;
+  top: 16px;
+}
+
+@media (max-width: 900px) {
+  main {
+    grid-template-columns: minmax(0, 1fr);
+    padding: 16px 20px 40px;
+  }
+
+  .side-panel {
+    position: static;
+  }
 }
 
 .controls {
@@ -80,7 +103,6 @@ main {
   border: 1px solid var(--border);
   border-radius: 10px;
   padding: 20px;
-  margin-bottom: 24px;
 }
 
 .panel > h2 {
