@@ -64,6 +64,7 @@ export function initDealsPanel({ onCompanyClick } = {}) {
           chip.classList.add("unresolved");
           chip.disabled = true;
           chip.title = "No ticker found for this company";
+          chip.textContent = `${name} — no ticker`;
         }
       });
     });
