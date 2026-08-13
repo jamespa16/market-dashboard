@@ -2,7 +2,9 @@ import { fetchPrices } from "./prices.js";
 import { getDeals } from "./feeds.js";
 import { ADVISER_FIRMS } from "./advisers.js";
 import { resolveTicker } from "./tickers.js";
-import { getInstitutionalHolders, NotFoundError } from "./holders.js";
+import { getInstitutionalHolders } from "./holders.js";
+import { getEarnings } from "./earnings.js";
+import { NotFoundError } from "./yahooSession.js";
 
 function sendJson(res, status, body) {
   res.writeHead(status, { "Content-Type": "application/json" });
@@ -54,12 +56,26 @@ async function handleHolders(req, res, url) {
   }
 }
 
+async function handleEarnings(req, res, url) {
+  const symbol = url.searchParams.get("symbol");
+  if (!symbol) return sendJson(res, 400, { error: "Missing required query param: symbol" });
+  try {
+    sendJson(res, 200, await getEarnings(symbol));
+  } catch (err) {
+    if (err instanceof NotFoundError) {
+      return sendJson(res, 404, { error: err.message });
+    }
+    sendJson(res, 502, { error: err.message });
+  }
+}
+
 const ROUTES = [
   { pathname: "/api/prices", handler: handlePrices },
   { pathname: "/api/deals", handler: handleDeals },
   { pathname: "/api/deals/advisers", handler: handleAdvisersList },
   { pathname: "/api/tickers/resolve", handler: handleTickerResolve },
   { pathname: "/api/holders", handler: handleHolders },
+  { pathname: "/api/earnings", handler: handleEarnings },
 ];
 
 export async function handleApi(req, res, url) {

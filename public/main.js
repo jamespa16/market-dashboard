@@ -2,11 +2,16 @@ import { getJSON } from "./api.js";
 import { initChartPanel } from "./chart.js";
 import { initDealsPanel } from "./deals.js";
 import { initHoldersPanel } from "./holders.js";
+import { initEarningsPanel } from "./earnings.js";
 
 const holders = initHoldersPanel();
+const earnings = initEarningsPanel();
 
 const chart = initChartPanel({
-  onSymbolLoaded: (symbol) => holders.loadHolders(symbol),
+  onSymbolLoaded: (symbol) => {
+    holders.loadHolders(symbol);
+    earnings.loadEarnings(symbol);
+  },
 });
 
 initDealsPanel({

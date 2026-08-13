@@ -51,7 +51,7 @@
         <h2 id="holders-title">Institutional holders</h2>
         <div id="holders-status" class="status"></div>
         <div id="holders-summary" class="holders-summary"></div>
-        <table id="holders-table" hidden>
+        <table id="holders-table" class="data-table" hidden>
           <thead>
             <tr>
               <th>Organization</th>
@@ -65,6 +65,36 @@
         <p class="disclaimer" id="holders-note"></p>
       </section>
     </div>
+
+    <section id="earnings-section" class="panel">
+      <h2 id="earnings-title">Earnings</h2>
+      <div id="earnings-status" class="status"></div>
+
+      <div class="earnings-callout">
+        <h3>Next earnings</h3>
+        <p id="earnings-next-date" class="earnings-callout-date">—</p>
+        <div id="earnings-next-estimates" class="earnings-estimates"></div>
+      </div>
+
+      <div class="earnings-callout">
+        <h3>Last earnings</h3>
+        <p id="earnings-last-date" class="earnings-callout-date">—</p>
+        <div id="earnings-last-details" class="earnings-estimates"></div>
+      </div>
+
+      <table id="earnings-table" class="data-table" hidden>
+        <thead>
+          <tr>
+            <th>Quarter</th>
+            <th>EPS actual</th>
+            <th>EPS est.</th>
+            <th>Surprise</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <p class="disclaimer" id="earnings-note"></p>
+    </section>
   </main>
 
   <script type="module" src="/main.js"></script>
