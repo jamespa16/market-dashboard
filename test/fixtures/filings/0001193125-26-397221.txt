@@ -1,0 +1,106 @@
+# source: https://www.sec.gov/Archives/edgar/data/1907108/000119312526397221/lxeo-ex99_1.htm (EX-99.1)
+EX-99.1 3 lxeo-ex99_1.htm EX-99.1
+
+Exhibit 99.1
+
+Lexeo Therapeutics Enters Into Agreement to Acquire Mantle Therapeutics and Announces Multiple New Strategic Collaborations to Expand Leadership in Friedreich Ataxia
+
+Acquisition of Mantle Therapeutics will add multiple new modalities designed to increase or replace frataxin in the brain
+
+Collaborations launched to evaluate gene therapy sequential dosing following treatment with LX2006 and explore cerebellar targeting to optimize outcomes in FA associated neurological disease
+
+SUNRISE-FA 2 pivotal study continues enrollment and remains the company's top priority development program;topline data on track for 2H 2027
+
+Disciplined capital allocation supports these strategic initiatives while maintaining cash runway into 2028
+
+Company to host webcast today at 8:00 AM ET
+
+NEW YORK - September 22, 2026 (GLOBE NEWSWIRE) - Lexeo Therapeutics, Inc. (Nasdaq: LXEO), a clinical stage company focused on reshaping the path of genetic diseases with high unmet need, today announced a series of strategic transactions to expand its presence in Friedreich ataxia (FA), including the signing of a definitive agreement to acquire Mantle Therapeutics Inc. and three new research collaborations supporting cerebellar-targeted development opportunities for frataxin gene therapy. Together, these transactions will simultaneously expand Lexeo's vision and capabilities beyond gene therapy, deepen the company's focus on the multisystem burden of FA, and add multiple therapeutic approaches designed to increase or restore frataxin in the brain. These transactions are being pursued within Lexeo's existing balance sheet capacity, with cash runway guidance unchanged into 2028 and future investment decisions guided by predefined milestones to identify and prioritize the most compelling central nervous system (CNS) opportunities.
+
+"Our objective is to build the best-in-class therapeutic platform for the treatment of Friedreich ataxia," said R. Nolan Townsend, Chief Executive Officer of Lexeo Therapeutics. "LX2006 remains our highest priority as the best-in-class treatment for FA cardiomyopathy, and the addition of Mantle's pipeline, combined with new research collaborations will broaden our technology platform with multiple complementary CNS-targeted therapeutic strategies designed to restore frataxin in the brain and further improve outcomes for individuals living with FA. Together, these initiatives will strengthen our leadership position in the disease category while supporting disciplined portfolio advancement and capital allocation."
+
+Acquisition of Mantle Therapeutics Will Establish Lexeo's Multimodal Friedreich Ataxia Platform
+
+On September 16, 2026, Lexeo entered into an agreement to acquire Mantle Therapeutics Inc. ("Mantle"), a private clinical stage company focused on developing multiple therapies for the treatment of FA. The acquisition will deepen Lexeo's focus on FA and strengthen its capabilities in addressing the neurologic aspects of disease.
+
+The acquired portfolio will include:
+
+•
+
+LX3010 (MTL-104): a clinical stage, oral combination therapy designed to increase frataxin expression while addressing mitochondrial function and oxidative stress through complementary mechanisms (HDAC inhibition and NRf2). Early clinical data includes an approximately 6-point improvement in mFARS scores at 16 weeks and a mean nine-fold increase in frataxin protein levels from baseline in muscle biopsies across 11 FA patients.
+
+1
+
+•
+
+LX3030 (MTL-707): a pre-clinical stage oral, tissue-penetrant true small molecule (sub-500Da) designed to increase production of endogenous frataxin in the central nervous system. LX3030 is a third-generation benzamide HDAC inhibitor that builds on published clinical work demonstrating oral benzamide HDACs increase frataxin in FA patients by epigenetic modulation and acetylation of chromatin. Preclinical studies of LX3030 have demonstrated robust increases in frataxin, supporting continued evaluation of LX3030 as a differentiated oral therapy.
+
+•
+
+LX3050 (MTL-501): a pre-clinical stage recombinant human frataxin fused to a proprietary anti-TfR1 Fab, intended to directly replace the deficient frataxin protein and utilize a TfR1-targeting brain shuttle designed to cross the blood-brain barrier and increase delivery of frataxin to the brain. In vitro studies have demonstrated dose-responsive improvements in measures of mitochondrial function, providing early support for the program's proposed mechanism.
+
+•
+
+LX3070 (MTL-801): a discovery stage ASO Fab conjugate program designed to stabilize FXN mRNA and thereby increase translation of endogenous frataxin protein. The program combines an RNA-targeted mechanism conjugated to a proprietary anti-TfR1 Fab. In vitro studies have demonstrated dose-responsive increases in frataxin.
+
+Under the terms of the agreement, Lexeo will pay Mantle shareholders $8.3 million in upfront consideration, consisting of a combination of cash and equity. The agreement also provides for up to $13.0 million in success-based milestone payments, payable in a combination of cash and equity upon the achievement of future clinical and regulatory milestones, bringing the total potential consideration to $21.3 million. Subject to customary closing conditions, the transaction is expected to close in the third quarter of 2026.
+
+Following closing, Lexeo will continue its evaluation of the acquired programs against predefined scientific, clinical, strategic and financial criteria and will prioritize investment in the opportunities demonstrating the strongest potential for clinical patient impact, regulatory success and shareholder value creation. The Company's cash runway guidance into 2028 includes plans to advance one of the acquired programs into clinical development. The Company expects to provide a program prioritization update in early 2027 and submit an IND for its next FA development candidate in 2027.
+
+Together with LX2006, the expanded portfolio provides Lexeo with the technology to evaluate multiple biologic theses for the treatment of FA in the brain. These complementary therapies will be evaluated both as standalone treatments and in concert with LX2006, and all future clinical trials are expected to include a treatment arm for patients previously treated with LX2006.
+
+Strategic Collaborations Supporting Sequential Dosing of CNS Targeted Frataxin Gene Therapy
+
+Lexeo has established three collaborations to evaluate cerebellar-targeted sequential dosing of frataxin gene therapy, all designed to be complementary to systemically administered LX2006.
+
+•
+
+Weill Cornell Medicine Cerebellar-Targeted Sequential Dosing Research: Lexeo entered into a Sponsored Research Agreement with Weill Cornell Medicine to evaluate intra-cisternal administration of LX2006 following systemic dosing in large animal models. The collaboration is intended to further the understanding and translation of cerebellar-targeted sequential dosing, and to evaluate dosing parameters and immune-suppression strategies that may support repeat administration.
+
+•
+
+Vivet Therapeutics IgG-Degrading VTX-PID Enzyme Option Agreement: Lexeo entered into an option agreement with Vivet Therapeutics providing the opportunity to secure an exclusive license to VTX-PID, an IgG-degrading enzyme intended to support immune-suppression strategies that may expand treatable population with immunization against AAV and facilitate repeat administration of LX2006.
+
+•
+
+Apertura Gene Therapy Novel CNS Capsid (CapX) Option Agreement: Lexeo entered into an option agreement with Apertura Gene Therapy providing the opportunity to secure a license to a novel, intravenously administered, blood-brain barrier-crossing capsid that is expected to enable a less invasive route of administration to the CNS following initial systemic administration of LX2006.
+
+2
+
+Similarly, Lexeo intends to evaluate the outcomes of these research collaborations against predefined scientific, clinical and financial criteria and prioritize investment in opportunities with the greatest potential to advance into clinical development and provide FA patients with a sequential CNS-dosing option to complement prior systemic administration of LX2006.
+
+Expanded Vision to Reflect Strategic Focus
+
+Lexeo is introducing an expanded vision reflecting the company's focus on the treatment of genetic diseases with high unmet need in both the cardiovascular and neurological space. The refreshed positioning aligns with Lexeo's growing Friedreich ataxia platform and expanded portfolio across multiple modalities outside of gene therapy.
+
+Continued Advancement of LX2006
+
+LX2006 continues to advance enrollment in the SUNRISE-FA 2 pivotal study, which remains Lexeo's highest operational and capital-allocation priority. The program remains on track to provide a topline data readout in the second half of 2027. The Company believes LX2006 has the potential to become the first disease-modifying therapy specifically targeting Friedreich ataxia cardiomyopathy.
+
+Corporate Webcast Details
+
+Lexeo Therapeutics will host a webcast at 8:00 AM ET today, September 22, 2026. Analysts and investors can participate by accessing the webcast live on the Events & Presentations page in the Investors section of Lexeo's website, www.lexeotx.com. The webcast will be archived on the company's website following the call.
+
+About Lexeo Therapeutics
+
+Lexeo Therapeutics is a New York City-based, clinical stage company dedicated to reshaping the path of genetic disease. By advancing pioneering science, Lexeo seeks to set a new standard in the treatment of cardiovascular and neurological genetic diseases, charting the path to patient outcomes once thought out of reach. The Company is advancing a portfolio of therapeutic candidates designed to address the underlying genetic causes of disease, including LX2006 for Friedreich ataxia (FA), LX2020 for plakophilin-2 (PKP2) arrhythmogenic cardiomyopathy, and others in devastating diseases with high unmet need.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+Certain statements in this press release may constitute "forward-looking statements" within the meaning of the federal securities laws, including, but not limited to, Lexeo's expectations and plans regarding its current product candidates and programs, the anticipated benefits of its current product candidates, the timing for receipt and announcement of data from its clinical trials, the timing and likelihood of potential regulatory developments, trial design changes and approval, expectations regarding the time period over which Lexeo's capital resources will be sufficient to fund its anticipated operations and estimates regarding Lexeo's financial condition, the expected closing of the proposed acquisition of Mantle Therapeutics Inc. and the satisfaction of the conditions thereto, the anticipated benefits of the proposed acquisition and the acquired programs, the timing and outcome of Lexeo's evaluation of the acquired programs and research collaborations against predefined criteria, the expected timing of a program prioritization update, the expected submission of an IND for Lexeo's next Friedreich ataxia development candidate, and the potential achievement of future clinical and regulatory milestones. Words such as "may," "might," "will," "objective," "intend," "should," "could," "can," "would," "expect," "believe," "design," "estimate," "predict," "potential," "develop," "plan" or the negative of these terms, and similar expressions, or statements regarding intent, belief, or current expectations, are forward-looking statements. While Lexeo believes these forward-looking statements are reasonable, undue reliance should not be placed on any such forward-looking statements. These forward-looking statements are based upon current information available to the company as well as certain estimates and assumptions and are subject to various risks and uncertainties (including, without limitation, those set forth in Lexeo's filings with the U.S. Securities and Exchange Commission (SEC)), many of which are beyond the company's control and subject to change. Actual results could be materially different from those indicated by such forward-looking statements as a result of many factors, including but not limited to: risks and uncertainties related to global macroeconomic conditions and related volatility; expectations regarding the initiation, progress, and expected results of Lexeo's preclinical studies, clinical trials and research and development programs; the unpredictable relationship between preclinical study results and clinical study results; delays in submission of regulatory filings or failure to receive regulatory approval; liquidity and capital resources; and other risks and uncertainties identified in
+
+3
+
+Lexeo's Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2026, filed with the SEC on August 12, 2026, and subsequent future filings Lexeo may make with the SEC. New risks and uncertainties may emerge from time to time, and it is not possible to predict all risks and uncertainties. Lexeo claims the protection of the Safe Harbor contained in the Private Securities Litigation Reform Act of 1995 for forward-looking statements. Lexeo expressly disclaims any obligation to update or alter any statements whether as a result of new information, future events or otherwise, except as required by law.
+
+Media Response:
+
+Media@lexeotx.com
+
+Investor Response:
+
+Ashley Kaplowitz
+
+akaplowitz@lexeotx.com
+
+4

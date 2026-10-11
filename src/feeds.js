@@ -1,137 +1,110 @@
-import { createHash } from "node:crypto";
+// Deal feed orchestration: discovery (SEC EDGAR + Google News) -> SEC enrichment -> pure pipeline.
+// The grouping/merging logic lives in src/pipeline.js; this file is the I/O around it.
+
 import { createCache } from "./cache.js";
 import { parseRssItems, stripHtml } from "./xml.js";
-import {
-  cleanGoogleTitle,
-  extractCompanyPair,
-  looksLikeCompanyName,
-  cleanSecDisplayName,
-  extractTickerFromSecName,
-  buildSecFilingUrl,
-} from "./dealParsing.js";
-import { detectAdvisers } from "./advisers.js";
+import { cleanGoogleTitle } from "./dealParsing.js";
 import { fetchWithRetry } from "./http.js";
-import { secUserAgent } from "./config.js";
-import { dedupeAndMerge, filterDeals, googleDedupeKey } from "./dedupe.js";
+import { filterDeals } from "./dedupe.js";
+import { discoverDealFilings } from "./sec/search.js";
+import { getTickerMap, buildTickerMap } from "./sec/tickerMap.js";
+import { defaultEnricher } from "./sec/enrich.js";
+import { buildDeals, googleObservation, secObservation } from "./pipeline.js";
 
 const GOOGLE_NEWS_URL =
-  "https://news.google.com/rss/search?q=%22to+acquire%22+OR+%22merger+agreement%22+OR+%22acquisition+agreement%22+when:7d&hl=en-US&gl=US&ceid=US:en";
+  "https://news.google.com/rss/search?q=%22to+acquire%22+OR+%22merger+agreement%22+OR+%22acquisition+agreement%22+when:30d&hl=en-US&gl=US&ceid=US:en";
 
 const GOOGLE_USER_AGENT = "Mozilla/5.0 (compatible; ma-dashboard/0.1)";
+
+export const ENRICH_MAX_FILINGS = 60;
+export const ENRICH_BUDGET_MS = 8000;
 
 const dealsCache = createCache({ ttlMs: 10 * 60_000, maxEntries: 20 });
 const DEALS_CACHE_KEY = "deals:merged";
 
-function makeId(key) {
-  return createHash("sha1").update(key).digest("hex").slice(0, 16);
+/** Maps one parsed RSS item to the raw headline record the pipeline consumes. */
+export function googleItemToRaw(item) {
+  const publishedAt = item.pubDate ? Date.parse(item.pubDate) : null;
+  return {
+    title: cleanGoogleTitle(item.title),
+    summary: stripHtml(item.descriptionHtml),
+    link: item.link,
+    sourceName: item.sourceName,
+    publishedAt: Number.isNaN(publishedAt) ? null : publishedAt,
+  };
 }
 
-async function fetchGoogleNewsDeals() {
+async function fetchGoogleNews() {
   const res = await fetchWithRetry(GOOGLE_NEWS_URL, { headers: { "User-Agent": GOOGLE_USER_AGENT } });
   if (!res.ok) throw new Error(`Google News RSS failed: ${res.status}`);
-  const xml = await res.text();
-  return parseRssItems(xml).map(googleItemToDeal);
+  return parseRssItems(await res.text()).map(googleItemToRaw);
 }
 
-// Maps one parsed RSS item to a raw (pre-dedupe) deal. Exported for the fixture tests.
-export function googleItemToDeal(item) {
-  const title = cleanGoogleTitle(item.title);
-  const summary = stripHtml(item.descriptionHtml);
-  const { acquirer, target } = extractCompanyPair(title);
-  const companies = [acquirer, target]
-    .filter(Boolean)
-    .filter(looksLikeCompanyName)
-    .map((name) => ({ name, ticker: null }));
-  const publishedAt = item.pubDate ? Date.parse(item.pubDate) : null;
-  const dedupeKey = googleDedupeKey({ acquirer, target, title });
+const emptyTickerMap = buildTickerMap({});
 
-  return {
-    _dedupeKey: dedupeKey,
-    id: makeId(dedupeKey),
-    title,
-    summary,
-    publishedAt: Number.isNaN(publishedAt) ? null : publishedAt,
-    sources: [{ type: "google-news", link: item.link, sourceName: item.sourceName }],
-    primaryLink: item.link,
-    parsedAcquirer: acquirer,
-    parsedTarget: target,
-    companies,
-    advisers: detectAdvisers(`${title} ${summary}`),
-    formTypes: [],
-    items: [],
-  };
-}
-
-async function fetchSecEdgarDeals() {
-  const end = new Date();
-  const start = new Date(end.getTime() - 14 * 24 * 60 * 60_000);
-  const fmt = (d) => d.toISOString().slice(0, 10);
-  const url =
-    `https://efts.sec.gov/LATEST/search-index?q=%22merger+agreement%22&forms=8-K` +
-    `&dateRange=custom&startdt=${fmt(start)}&enddt=${fmt(end)}`;
-
-  const res = await fetchWithRetry(url, { headers: { "User-Agent": secUserAgent() } });
-  if (!res.ok) throw new Error(`SEC EDGAR search failed: ${res.status}`);
-  const data = await res.json();
-  return (data?.hits?.hits ?? []).map(secHitToDeal);
-}
-
-// Maps one EDGAR full-text-search hit to a raw (pre-dedupe) deal. Exported for the fixture tests.
-export function secHitToDeal(hit) {
-  const s = hit._source;
-  const displayName = s.display_names?.[0] ?? "Unknown company";
-  const companyName = cleanSecDisplayName(displayName);
-  const ticker = extractTickerFromSecName(displayName);
-  const primaryDoc = hit._id?.split(":")[1];
-  const cik = s.ciks?.[0];
-  const primaryLink = cik && s.adsh && primaryDoc ? buildSecFilingUrl({ cik, adsh: s.adsh, primaryDoc }) : null;
-  const title = `${companyName} — ${s.form} filing (${(s.items ?? []).join(", ") || "no items listed"})`;
-  const summary = `Filed ${s.file_date}.`;
-  const publishedAt = s.file_date ? Date.parse(s.file_date) : null;
-
-  return {
-    _dedupeKey: `adsh:${s.adsh}`,
-    id: makeId(`adsh:${s.adsh}`),
-    title,
-    summary,
-    publishedAt: Number.isNaN(publishedAt) ? null : publishedAt,
-    sources: [{ type: "sec-edgar", link: primaryLink, sourceName: "SEC EDGAR" }],
-    primaryLink: primaryLink ?? "https://www.sec.gov/cgi-bin/browse-edgar",
-    parsedAcquirer: null,
-    parsedTarget: null,
-    companies: [{ name: companyName, ticker }],
-    advisers: detectAdvisers(title),
-    formTypes: [s.form],
-    items: s.items ?? [],
-  };
+/** Build all cards from discovery output + whatever filings are already enriched. Pure apart from cache reads. */
+export function assembleDeals({ headlines, hits, tickerMap, enriched = (adsh) => defaultEnricher.get(adsh) }) {
+  const observations = [];
+  for (const h of headlines) {
+    const o = googleObservation(h, tickerMap);
+    if (o) observations.push(o);
+  }
+  for (const hit of hits) {
+    const e = enriched(hit.adsh);
+    observations.push(secObservation({ hit, parsed: e?.parsed ?? null, link: e?.url ?? null }, tickerMap));
+  }
+  return buildDeals(observations).map((b) => b.card);
 }
 
 async function refreshAll() {
-  const [g, s] = await Promise.allSettled([fetchGoogleNewsDeals(), fetchSecEdgarDeals()]);
-  const sources = [
-    { name: "google-news", ok: g.status === "fulfilled", count: g.value?.length ?? 0, error: g.reason?.message },
-    { name: "sec-edgar", ok: s.status === "fulfilled", count: s.value?.length ?? 0, error: s.reason?.message },
-  ];
-  const raw = [...(g.value ?? []), ...(s.value ?? [])];
+  const [g, s, tm] = await Promise.allSettled([fetchGoogleNews(), discoverDealFilings({ days: 30 }), getTickerMap()]);
+  const headlines = g.value ?? [];
+  const hits = s.value?.hits ?? [];
+  const secErrors = s.status === "rejected" ? [s.reason] : (s.value?.errors ?? []).map((e) => e.error);
+  const tickerMap = tm.value ?? emptyTickerMap;
+  if (tm.status === "rejected") secErrors.push(new Error(`ticker map unavailable: ${tm.reason?.message}`));
 
-  if (raw.length === 0) {
+  const sources = [
+    { name: "google-news", ok: g.status === "fulfilled", count: headlines.length, error: g.reason?.message },
+    {
+      name: "sec-edgar",
+      ok: s.status === "fulfilled" && (hits.length > 0 || secErrors.length === 0),
+      count: hits.length,
+      error: secErrors.length ? secErrors.map((e) => e.message).join("; ") : undefined,
+    },
+  ];
+
+  if (headlines.length === 0 && hits.length === 0) {
     const stale = dealsCache.getStale(DEALS_CACHE_KEY);
     if (stale) return { ...stale, sources, stale: true };
     return { deals: [], sources, cachedAt: Date.now() };
   }
 
-  return { deals: dedupeAndMerge(raw), sources, cachedAt: Date.now() };
+  const recompute = () => ({
+    deals: assembleDeals({ headlines, hits, tickerMap }),
+    sources,
+    cachedAt: Date.now(),
+  });
+  const { attempted, pending } = await defaultEnricher.enrichWithin(hits, {
+    max: ENRICH_MAX_FILINGS,
+    budgetMs: ENRICH_BUDGET_MS,
+    // Filings that missed the time budget finished in the background: refresh the cached cards.
+    onLate: () => dealsCache.set(DEALS_CACHE_KEY, recompute()),
+  });
+  sources[1].enriched = attempted - pending;
+  sources[1].pending = pending;
+  return recompute();
 }
 
-export async function getDeals({ acquirer, adviser, limit = 30 } = {}) {
+export async function getDeals({ acquirer, adviser, limit = 30, unconfirmed = false } = {}) {
   const merged = await dealsCache.getOrSet(DEALS_CACHE_KEY, refreshAll);
-
   const deals = filterDeals(merged.deals, { acquirer, adviser });
-
+  const visible = unconfirmed ? deals : deals.filter((d) => d.confidence === "high");
   return {
-    deals: deals.slice(0, limit),
+    deals: visible.slice(0, limit),
     sources: merged.sources,
     cachedAt: merged.cachedAt,
     stale: merged.stale ?? false,
+    hiddenCount: deals.length - visible.length,
   };
 }

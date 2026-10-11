@@ -1,0 +1,156 @@
+# source: https://www.sec.gov/Archives/edgar/data/1466085/000143774926031071/irt20260921c_8k.htm (primary document)
+false 0001466085
+
+0001466085
+
+2026-09-22 2026-09-22
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported): September 22, 2026
+
+Independence Realty Trust, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Maryland
+
+001-36041
+
+26-4567130
+
+(State or other jurisdiction
+
+(Commission
+
+(I.R.S. Employer
+
+of incorporation)
+
+File Number)
+
+Identification No.)
+
+1835 Market Street, Suite 2601
+
+Philadelphia, Pennsylvania, 19103
+
+(Address of Principal Executive Office) (Zip Code)
+
+(267) 270-4800
+
+(Registrant's telephone number, including area code)
+
+N/A
+
+Former name or former address, if changed since last report
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☒
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock
+
+IRT
+
+NYSE
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01. Entry into a Material Definitive Agreement
+
+As previously disclosed, on September 8, 2026, Independence Realty Trust, Inc., a Maryland corporation ("IRT"), Independence Realty Operating Partnership, LP, a Delaware limited partnership and a subsidiary of IRT ("IRT OP"), and Islanders OP Sub, LLC, a Delaware limited liability company and direct wholly owned subsidiary of IRT OP ("IRT OP Merger Sub"), entered into an Agreement and Plan of Merger (the "Original Merger Agreement") with Centerspace, a North Dakota real estate investment trust ("CSR"), and Centerspace, LP, a North Dakota limited partnership ("CSR OP"), pursuant to which (i) a wholly owned subsidiary of IRT to be added to the Original Merger Agreement by joinder ("IRT Merger Sub") would merge with and into CSR (the "Company Merger"), with CSR surviving the Company Merger as a wholly owned subsidiary of IRT and (ii) following the Company Merger, IRT OP Merger Sub would merge with and into the Company OP (the "Partnership Merger"), with the CSR OP surviving the Partnership Merger as a subsidiary of IRT OP.
+
+As previously disclosed, prior to the date on which the definitive Form S-4 and joint proxy statement are filed with the Securities and Exchange Commission (the "SEC"), and subject to certain conditions being met, under the Original Merger Agreement, IRT had the right to elect to modify (i) the structure of the Company Merger so that CSR merges with and into IRT Merger Sub, with IRT Merger Sub surviving (rather than IRT Merger Sub merging with and into CSR), and/or (ii) the structure of the Partnership Merger so that the CSR OP merges with and into IRT OP, with IRT OP surviving (rather than IROP Merger Sub merging with and into the Company OP) (the "Alternative Structure").
+
+On September 22, 2026, (i) IRT Merger Sub was added to the Original Merger Agreement as a party by joinder and (ii) IRT, IRT OP, IRT Merger Sub, IRT OP Merger Sub, CSR and the CSR OP entered into that certain Amendment to the Merger Agreement (the "Amendment to the Merger Agreement"), pursuant to which IRT has elected to implement the Alternative Structure (solely with respect to the Company Merger). The Amendment to the Merger Agreement includes a waiver by IRT, IRT OP, IRT Merger Sub and IRT OP Merger Sub of any representation inaccuracy caused solely by the Alternative Structure.
+
+The foregoing summary description of the Amendment to the Merger Agreement is subject to and qualified in its entirety by reference to the Amendment to the Merger Agreement, a copy of which is attached hereto as Exhibit 2.1, the terms of which are incorporated herein by reference.
+
+Important Additional Information about the Proposed Transaction and Where to Find It
+
+In connection with the proposed transaction, IRT will file with the SEC a registration statement on Form S-4 that will include a joint proxy statement of CSR and IRT and a prospectus of IRT, as well as other relevant documents concerning the proposed transaction. The proposed transaction involving CSR and IRT will be submitted to CSR's shareholders and IRT's shareholders for their consideration. This filing does not constitute an offer to sell or the solicitation of an offer to buy any securities or a solicitation of any vote or approval, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. INVESTORS, SHAREHOLDERS OF CSR AND STOCKHOLDERS OF IRT ARE URGED TO READ THE REGISTRATION STATEMENT AND THE JOINT PROXY STATEMENT/PROSPECTUS REGARDING THE TRANSACTION WHEN IT BECOMES AVAILABLE AND ANY OTHER RELEVANT DOCUMENTS FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THOSE DOCUMENTS, BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION. Investors and stockholders will be able to obtain the registration statement and the definitive joint proxy statement/prospectus free of charge from the SEC's website or from CSR or IRT. The documents filed by CSR with the SEC may be obtained free of charge at CSR's website at www.centerspacehomes.com or at the SEC's website at www.sec.gov. The documents filed by IRT with the SEC may be obtained free of charge at IRT's website at www.irtliving.com or at the SEC's website at www.sec.gov. References to either of IRT's or CSR's websites do not constitute incorporation by reference of the information contained on the websites and is not, and should not be, deemed part of this filing.
+
+2
+
+Participants in the Solicitation
+
+CSR, IRT, and certain of their respective trustees or directors, as applicable, and executive officers may be deemed to be participants in the solicitation of proxies from the shareholders of CSR and stockholders of IRT in connection with the proposed transaction. Information regarding the interests of the trustees or directors, as applicable, and executive officers of CSR and IRT and other persons who may be deemed to be participants in the solicitation of shareholders of CSR and IRT in connection with the transaction and a description of their direct and indirect interests, by security holdings or otherwise, will be included in the definitive joint proxy statement/prospectus related to the transaction, which will be filed by CSR with the SEC. Information regarding CSR's trustees and executive officers is available in its definitive joint proxy statement relating to its 2026 Annual Meeting of Shareholders, which was filed with the SEC on April 3, 2026, and other documents filed by CSR with the SEC. Information regarding IRT's directors and executive officers is available in its definitive proxy statement relating to its 2026 Annual Meeting of Stockholders, which was filed with the SEC on March 19, 2026, and other documents filed by IRT with the SEC. Other information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by security holdings or otherwise, will be contained in the joint proxy statement/prospectus and other relevant materials filed with the SEC by CSR and IRT, respectively. Free copies of these documents may be obtained as described above under "Important Additional Information."
+
+No Offer or Solicitation
+
+This filing shall not constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the U.S. Securities Act of 1933, as amended.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+2.1
+
+Amendment to Agreement and Plan of Merger, dated as of September 22, 2026, by and among Independence Realty Trust, Inc., Independence Realty Operating Partnership, LP, Islanders Sub, LLC, Islanders OP Sub, LLC, Centerspace and Centerspace, LP.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Independence Realty Trust, Inc.
+
+September 23, 2026
+
+By:
+
+/s/ James J. Sebra
+
+Name:
+
+James J. Sebra
+
+Title:
+
+President and Chief Financial Officer
+
+4

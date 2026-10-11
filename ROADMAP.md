@@ -54,6 +54,7 @@ Four phases get the prototype to v1.0.0 in about 10 weeks of solo work, and the 
     - Parse EX-99.1 for value, price, consideration, close, advisers
     - SEC ticker map; dedupe rebuilt around CIK pairs + fixtures
     - **Gate:** 90%+ parse accuracy, under 5% duplicate cards on fixtures
+    - **Status (Oct 11, 2026): gate met.** On the fixture set, default cards have 94.3% acquirer+target accuracy, a 0% duplicate/non-deal rate, 0 cards merging distinct deals, and 92.1% of labeled deals shown. Headline-only parsing is 89.4%; EX-99.1 parsing is 91.9%. A cold refresh takes 10–15 s (about 80 SEC requests), which Phase 4's performance work must bring down
 3. **Product** (weeks 6–8)
     - Deal detail: charts since announcement, offer line, arb spread
     - Breakdowns by acquirer and adviser: counts, disclosed value
@@ -89,8 +90,8 @@ V1 ships when every box below is ticked. Each is checkable, so this list doubles
 **Correctness**
 
 - [x] A labeled set of 100 real headlines and filings, kept as fixtures, with expected acquirer, target and dedupe groups
-- [ ] Parser extracts acquirer and target correctly on 90%+ of the labeled set
-- [ ] Fewer than 1 in 20 cards on a typical day is a duplicate or a non-deal
+- [x] Parser extracts acquirer and target correctly on 90%+ of the labeled set
+- [ ] Fewer than 1 in 20 cards on a typical day is a duplicate or a non-deal (met on the fixture set; not yet measured on live days)
 - [x] Unit tests for `dealParsing`, `advisers`, dedupe and cache; run with built-in `node --test`, no new dependency
 
 **Reliability**
@@ -108,7 +109,7 @@ V1 ships when every box below is ticked. Each is checkable, so this list doubles
 
 - [x] Server binds to `127.0.0.1` by default; `--host` opts in to LAN access
 - [x] Static handler strips query strings and rejects paths outside `public/`
-- [ ] Deal links validated as `https:` and escaped before going into `href` (titles are escaped today; links are not)
+- [x] Deal links validated as `https:` and escaped before going into `href`
 - [ ] Chart.js vendored, or pinned to an exact version with an SRI hash (today it loads `chart.js@4`, any 4.x)
 
 **Polish**

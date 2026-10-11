@@ -1,0 +1,292 @@
+# source: https://www.sec.gov/Archives/edgar/data/1583107/000110465926109979/tm2625984d1_ex99-1.htm (EX-99.1)
+EX-99.1 4 tm2625984d1_ex99-1.htm EXHIBIT 99.1
+
+Exhibit 99.1
+
+CONTINGENT VALUE RIGHTS AGREEMENT
+
+THIS CONTINGENT VALUE RIGHTS AGREEMENT, dated as of September 22, 2026 (this "Agreement"), is entered into by and between Zymeworks Inc., a Delaware corporation ("Parent"), and Computershare Inc., a Delaware corporation ("Computershare"), and its affiliate, Computershare Trust Company, N.A., a federally chartered trust company ("Computershare Trust Company"), acting jointly with Computershare, as Rights Agent (as hereinafter defined).
+
+RECITALS
+
+WHEREAS, Parent, Theravance Biopharma, Inc., an exempted company with limited liability incorporated under the laws of the Cayman Islands (the "Company"), and Zymeworks Merger Sub I, an exempted company with limited liability incorporated under the laws of the Cayman Islands and a wholly owned subsidiary of Parent ("Merger Sub"), have entered into the Agreement and Plan of Merger, dated as of June 28, 2026 (as it may be amended or supplemented from time to time pursuant to the terms thereof, the "Merger Agreement"), pursuant to which Merger Sub will merge with and into the Company with the Company surviving (the "Merger") as a wholly owned subsidiary of Parent, on the terms and subject to the conditions set forth therein; and
+
+WHEREAS, as an integral part of the consideration of the Merger, pursuant to and subject to the terms and conditions set forth in the Merger Agreement, holders of Ordinary Shares issued and outstanding immediately prior to the Effective Time (other than Canceled Shares and the Dissenting Shares, in each case, as defined in the Merger Agreement), including holders of Company Options, Company RSU Awards and Company PSU Awards will be entitled to receive a right to contingent payments (as set forth in the Merger Agreement), subject to and in accordance with the terms of this Agreement.
+
+NOW, THEREFORE, in consideration of the foregoing and the consummation of the transactions referred to above, Parent and Rights Agent agree, for the equal and proportionate benefit of all Holders (as hereinafter defined), as follows:
+
+ARTICLE I
+
+DEFINITIONS; CERTAIN RULES OF CONSTRUCTION
+
+Section 1.1 Definitions. Capitalized terms used in and not otherwise defined in this Agreement will have the meanings given to such terms in the Merger Agreement. As used in this Agreement, the capitalized terms below have the following meanings:
+
+"Acting Holders" means, at the time of determination, Holders of not less than a majority of the outstanding CVRs, as set out in the CVR Register.
+
+"Affiliate" means, with respect to any Person, any other Person that is directly or indirectly, controlling, controlled by, or under common control with, such Person. For this purpose, "control" (including, with its correlative meanings, "controlled by" and "under common control with") means the possession, directly or indirectly, of the power to direct or cause the direction of management or policies of a Person, whether through the ownership of voting securities, by contract, or otherwise.
+
+"Assignee" has the meaning set forth in Section 6.3(a).
+
+"Business Day" means any day other than a Saturday or Sunday and other than a day on which banks are required or authorized to close in New York City, New York.
+
+"Change of Control" means, with respect to a Person, directly or indirectly, (a) a consolidation, merger or similar business combination involving such Person in which (i) such person is not the surviving entity or (ii) the holders of voting securities of such Person immediately prior thereto are holders of less than fifty percent (50%) of the voting securities of the surviving Person immediately after such transaction, (b) a sale or other disposition of all or substantially all of the assets of such Person on a consolidated basis in one transaction or a series of related transactions, or the (c) acquisition of beneficial ownership by any Person or group of more than fifty percent (50%) of the outstanding voting securities of such Person.
+
+"Cover" means, with respect to any Patent and the subject matter at issue, that, but for a license granted under such Patent Right, the manufacture, use, sale, offer for sale or importation of such subject matter would infringe a claim in such Patent, or, in the case of a Patent that has not issued, would infringe a claim in such Patent application if such application were to issue as a patent.
+
+"CVRs" means the rights of Holders to receive contingent cash payments pursuant to this Agreement.
+
+"CVR License Proceeds" means eighty percent (80%) of any Net License Proceeds.
+
+"CVR Payment Amount" means (a) in respect of any CVR License Proceeds to be paid by Parent or any of its Affiliates (including the Surviving Company) to any given Holder per CVR, the amount of (i) such CVR License Proceeds, divided by (ii) the total number of CVRs outstanding as of the close of business on the date of the applicable Payment Notice, (b) in respect of the First Commercial Sale Milestone, the First Commercial Sale Milestone Payment and (c) in respect of any Royalties to be paid by Parent or any of its Affiliates (including the Surviving Company) to any given Holder per CVR, the amount of (i) such Royalties, divided by (ii) the total number of CVRs outstanding as of the close of business on the date of the applicable Payment Notice; provided that, to the extent a CVR Payment Date will occur more than five (5) years after the Effective Time, the total number of CVRs outstanding as of the close of business on the relevant date for purposes of prong (a), (b) and (c) shall exclude any Equity Award CVRs that are ineligible for such payments due to the Section 409A Condition.
+
+"CVR Payment Date" means (a) with respect to any CVR License Proceeds, no later than thirty (30) days after (i) the Closing Date, if a CVR Product License has been executed prior to such date and License Proceeds were actually paid to Parent or its Affiliates (including the Surviving Company) prior to the Closing Date and (ii) the end of a calendar quarter in which Parent or any of its Affiliates were actually paid any License Proceeds, (b) with respect to the First Commercial Sale Milestone Payment, no later than thirty (30) days after the First Commercial Sale Milestone occurs, and (c) with respect to the Royalties, no later than thirty (30) days after the end of each calendar quarter during the Royalty Term.
+
+2
+
+"CVR Product" means any therapeutic product that contains ampreloxetine or any salt, ester, prodrug, metabolite, solvate, polymorph, free-base, hydrate, or isomer thereof, including all forms, presentations, doses, or formulations of the foregoing.
+
+"CVR Product License" means a license, sublicense, sale, transfer, divestiture, disposition or other monetization transaction of any CVR Product for use for any indication in any country, or any rights (including intellectual property) related thereto (a "Disposition"), entered into with a third party prior to the License Expiration Date; provided that a CVR Product License does not include any Contract providing for (a) the mere right to distribute or purchase the CVR Product from Parent or its Affiliates, (b) third-party subcontractors that act on behalf of Parent or its Affiliates in the supply chain or that perform discrete services on behalf of Parent or its Affiliates, (c) any license or sublicense granted by Parent or its Affiliates to settle any litigation or a dispute in connection with which no license fee royalty, upfront, milestone or other similar payments for rights to exploit the applicable Intellectual Property is paid or payable, or (d) compulsory licenses to the extent required by any Governmental Entity (it being understood with respect to the inclusion of a "sale" in this definition that in certain circumstances such a transaction could create financial concerns for Parent that may cause it to exercise its right not to consent to such transaction).
+
+"CVR Register" has the meaning set forth in Section 2.3(b).
+
+"DTC" means The Depository Trust Company or any successor thereto.
+
+"Equity Award CVR" means a CVR issued to a Holder in respect of a Company Equity Award.
+
+"Final Determination" means with respect to (a) United States federal income Taxes, a "determination" within the meaning of Section 1313(a) of the Code or execution of an Internal Revenue Service Form 870-AD and (b) Taxes other than United States federal income Taxes, any final determination of liability in respect of a Tax that, under applicable Law, is not subject to further appeal, review or modification through proceedings or otherwise (including the expiration of a statute of limitations or a period for the filing of claims for refunds, amended returns or appeals from adverse determinations).
+
+"First Commercial Sale" means, with respect to a CVR Product, the first bona fide sale in an arm's length transaction in a country to a third party by or on behalf of Parent or any of its Affiliates (but not by or on behalf of the counterparty to any CVR Product License or any of its Affiliates exercising rights under such CVR Product License) following receipt of approval from the applicable Governmental Authority to market and sell such CVR Product in such country, including, where required as a legal prerequisite to sale, applicable pricing and reimbursement approvals. For the avoidance of doubt, a first sale for compassionate use or named patient program sales, for use in clinical trials or other research and development activities, as samples, or for testing, validation or regulatory purposes, or supply that is made free of charge, by donation, or at or below cost, shall not constitute a First Commercial Sale for purposes of this Agreement.
+
+3
+
+"First Commercial Sale Milestone" means the First Commercial Sale of any CVR Product in any Major Market; provided that such sale occurs on or prior to the License Expiration Date.
+
+"First Commercial Sale Milestone Payment" means $0.93 per CVR.
+
+"Holder" means a Person in whose name a CVR is registered in the CVR Register at the applicable time.
+
+"License Expiration Date" means the date that is ten (10) years after the Closing Date.
+
+"Major Market" means any of the United States, United Kingdom, Spain, France, Germany and Italy.
+
+"Net License Proceeds" means any consideration that is actually paid to Parent or any of its Affiliates in connection with the CVR Product License, without duplication, including upfront, milestone, royalty, and other similar payments but excluding any consideration specifically identified by the counterparty to such CVR Product License or any of its Affiliates as payment to reimburse Parent or its Affiliates for costs incurred under the CVR Product License for research and development services or patent prosecution ("License Proceeds"), net of Permitted Deductions. For clarity, in no event will a Change of Control of Parent or its Affiliates be deemed to create or result in Net License Proceeds unless at the time of such Change of Control, the CVR Product represents all or substantially all of the assets or business of the Parent or the applicable Affiliate.
+
+"Net Sales" means, with respect to any CVR Product, the gross amount invoiced for such CVR Product by or on behalf of Parent or any of its Affiliates (but not by or on behalf of the counterparty to any CVR Product License or any of its Affiliates exercising rights under such CVR Product License) to a third party, less the following deductions actually incurred, allowed, paid and accrued, to the extent with respect to such CVR Product, in each case, by Parent or its applicable Affiliates as calculated in accordance with GAAP:
+
+(a) trade, cash and quantity discounts, cash and non-cash coupons, and chargeback payments and rebates granted to trade customers, managed health care organizations, pharmaceutical benefit managers, group purchasing organizations, or federal, state, or local Governmental Authorities;
+
+(b) credits, allowances and chargebacks for claims, spoiled, damaged or outdated goods, rejections or returns, including product returned in connection with recalls or withdrawals;
+
+(c) Taxes (other than income Taxes) levied directly or indirectly on the sale, export or import, including VAT (net of any reimbursement of VAT actually received);
+
+(d) actual freight and insurance costs incurred, but not reimbursed by customers, in transportation to customers;
+
+(e) any fees or other charges that become due in connection with any healthcare reform, change in government pricing or discounting schemes, or other action of a Governmental Authority, including that portion of the annual fee on prescription drug manufacturers imposed by the Patient Protection and Affordable Care Act, Pub. L. No. 111-148 or similar sales-based fees adopted in the future, in each case, to the extent reasonably allocable to sales of the applicable product; and
+
+4
+
+(f) amounts that are written off as uncollectible in accordance with the accounting procedures of the applicable Seller; provided that if any such written-off amounts are subsequently collected, such collected amounts shall be included in Net Sales in the period in which they are subsequently collected.
+
+For the avoidance of doubt, if a single item falls into more than one of the categories set forth in clauses (a)-(f) above, such item may not be deducted more than once. Unless otherwise specified herein, Net Sales shall be calculated in accordance with GAAP.
+
+Sales of the applicable CVR Product by a Parent to any of its Affiliates for subsequent resale by such Affiliate (or vice versa) to a third party will not be a sale for purposes of "Net Sales." Net Sales shall include any monetary damages from a third party in an action brought for such third party's infringement of any Patents that Cover any CVR Product, less any out-of-pocket, unreimbursed expenses incurred by the Parent or any of its Affiliates in bringing such action.
+
+The supply of CVR Product as samples for charitable or promotional purposes, for use in non-clinical studies or clinical trials or any test or other studies reasonably necessary to comply with any applicable Laws, or other instances that are otherwise normal and customary in the industry, including "treatment IND sales," "named patient sales," "compassionate use sales" and other sales as part of an expanded access program, shall not be included in the computation of Net Sales. In the case of any non-cash consideration received by Parent or its Affiliates (as applicable) for sale of a Product, the amount included in Net Sales shall be the fair market value of such non-cash consideration.
+
+"Officer's Certificate" means a certificate signed by the chief executive officer, president, chief financial officer, or other Person duly authorized to act on behalf of Parent for such purpose or for any general purpose.
+
+"Permitted Deductions" means the sum, without duplication, of the following costs or expenses:
+
+(a) any documented Ampreloxetine Royalty Payments (as defined in the RP Agreement) actually paid by Parent or any of its Affiliates (including the Surviving Company) to Royalty Pharma Investments 2019 ICAV or any successor or assignee thereof pursuant to the RP Agreement to the extent solely with respect to the CVR Product with respect to which the applicable License Proceeds are payable;
+
+(b) any applicable Taxes (including any applicable value added or sales Taxes) imposed on the CVR Product License or with respect to the License Proceeds (and which are either imposed on Parent, the Company or their Affiliates or otherwise reduce the amount of License Proceeds received by Parent, the Company or their Affiliates) that would not have been incurred by Parent, the Company or their Affiliates but for (i) the consummation of the CVR Product License, (ii) the License Proceeds having been received or accrued by the Company, the Surviving Company or its or their applicable subsidiaries or (iii) in connection with the distribution of the License Proceeds to Parent for the performance of its obligations under this Agreement (in each case, regardless of the due date of such Taxes); provided that for purposes of calculating income Taxes payable by Parent, the Company or their Affiliates in respect of the License Proceeds, such income Taxes shall be calculated without taking into account any net operating losses or other tax attributes (including Tax credits and capital loss carryovers) or any deductions generated by Parent, the Company or any of their Affiliates at any time before or following the Closing, other than, in each case, (x) any Tax basis that Parent, the Company or their Affiliates may have in the rights or assets licensed pursuant to a CVR Product License that is available for offset against the License Proceeds or (y) any Tax attributes generated by a Permitted Deduction otherwise taken into account under this Agreement;
+
+5
+
+(c) any reasonable and documented unreimbursed out-of-pocket costs and expenses directly incurred in good faith solely in the Disposition of such CVR Product and actually paid by Parent or any of its Affiliates (including the Surviving Company) to a third party during the term of this Agreement, including research and development costs for such CVR Product, costs of required technology transfer activities for such CVR Product pursuant to the CVR Product License, costs in respect of head licenses for sublicensed technology that claims, covers or is otherwise incorporated in such CVR Product, and prosecution, maintenance, or enforcement by Parent or any of its Affiliates of Intellectual Property that covers claims or is otherwise used with such CVR Product, but excluding any costs related to a breach of this Agreement by Parent or any of its Affiliates, including costs incurred in litigation in respect of the same;
+
+(d) any reasonable and documented unreimbursed out-of-pocket costs and expenses directly incurred in good faith solely in compliance with Parent's or its Affiliates' obligations under the CVR Product License in respect of such CVR Product and actually paid by Parent or any of its Affiliates (including the Surviving Company) to the counterparty to the applicable CVR Product License during the CVR Period; and
+
+(e) any reasonable and documented unreimbursed out-of-pocket costs and expenses directly incurred in good faith solely in negotiation of or entering into any CVR Product License with respect to such CVR Product and actually paid by Parent or any of its Affiliates to a third party including any representative's fee, rights agent fee, brokerage fee, finder's fee, opinion fee, success fee, transaction fee, service fee, legal fees, or other fee, commission or expense owed to any broker, finder, investment bank, auditor, accountant, counsel, advisor or other third party in relation thereto, but excluding any costs related to a breach of this Agreement by Parent or any of its Affiliates, including costs incurred in litigation in respect of the same.
+
+For the avoidance of doubt, notwithstanding anything to the contrary herein, Permitted Deductions shall not include, and no amount shall be deducted from License Proceeds in respect of, any (a) indirect, overhead, general or administrative costs or expenses; (b) internal costs of Parent or any of its Affiliates, including salaries, wages, benefits, bonuses or other compensation of any employee, officer or director; (c) allocated, apportioned or imputed costs of any kind; (d) depreciation, amortization or other non-cash charges; (e) cost or expense not actually paid in cash to a bona fide third party that is not an Affiliate of Parent; or (f) cost or expense incurred in connection with any product or service other than the applicable CVR Product.
+
+6
+
+"Permitted Transfer" means a transfer of CVRs (a) upon death of a Holder by will or intestacy; (b) made by instrument to an inter vivos or testamentary trust in which the CVRs are to be passed to beneficiaries upon the death of the trustee; (c) made pursuant to a court order; (d) made by operation of law (including by consolidation or merger) or without consideration in connection with the dissolution, liquidation or termination of any corporation, limited liability company, partnership or other entity; or (e) in the case of CVRs held in book-entry or other similar nominee form, from a nominee to a beneficial owner and, if applicable, through an intermediary, or from such nominee to another nominee for the same beneficial owner, to the extent allowable by DTC.
+
+"Regulatory Authority" means, with respect to a particular country, the Governmental Authority(ies) responsible for granting approval for the commercial marketing and sale (including pricing and reimbursement approval) of a drug product, including U.S. Food and Drug Administration (or any successor thereto) in the U.S.
+
+"Regulatory Exclusivity" means any exclusive marketing rights or data exclusivity rights conferred by any Regulatory Authority with respect to a CVR Product other than Patents, including rights conferred in the U.S. under the Hatch-Waxman Act or the FDA Modernization Act of 1997 (including pediatric exclusivity), and rights similar thereto outside the U.S.
+
+"Rights Agent" means, collectively Computershare and Computershare Trust Company, until a successor Rights Agent will have become such pursuant to the applicable provisions of this Agreement, and thereafter "Rights Agent" will mean such successor Rights Agent.
+
+"Royalties" means the product obtained by multiplying (a) ten percent (10%) by (b) the aggregate amount of Net Sales of the CVR Products during the applicable period.
+
+"Royalty Term" means, on a country-by-country basis and CVR Product-by-CVR Product basis, the period commencing on the First Commercial Sale of such CVR Product in such country and continuing until the later of (a) the expiration of the last-to-expire Patent (which has not been held invalid or unenforceable by a patent office, court or other Governmental Authority of competent jurisdiction in an unappealable decision or unappealed decision within the time allowed for appeal) that Covers such CVR Product in such country; (b) the expiration of any Regulatory Exclusivity for such CVR Product in such country; or (c) the tenth (10th) anniversary of the First Commercial Sale of such CVR Product in such country.
+
+"RP Agreement" means that certain Equity Purchase and Funding Agreement, dated as of July 13, 2022, by and between Theravance Biopharma, Inc. and Royalty Pharma Investments 2019 ICAV, as amended, modified, or supplemented.
+
+"Section 409A Condition" has the meaning ascribed to it in Section 2.1 of this Agreement.
+
+"United States" means the United States of America and its territories and possessions.
+
+7
+
+Section 1.2 Interpretation. When reference is made in this Agreement to an Article, Exhibit, Schedule or Section, such reference shall be to an Article, Exhibit, Schedule or Section of this Agreement unless otherwise indicated. Whenever the words "include," "includes" or "including" are used in this Agreement, they shall be deemed to be followed by the words "without limitation." The words "hereof," "herein," "hereby" and "hereunder" and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement. All terms defined in this Agreement shall have the defined meanings when used in any certificate or other document made or delivered pursuant thereto unless otherwise defined therein. Words of any gender include each other gender and neuter genders and words using the singular or plural number also include the plural or singular number, respectively. Any Contract or Law defined or referred to herein means such Contract or Law as from time to time amended, modified or supplemented, including (in the case of Contracts) by waiver or consent and (in the case of Laws) by succession or comparable successor statutes and references to all attachments thereto and instruments incorporated therein. The word "or" shall not be exclusive. With respect to the determination of any period of time, "from" means "from and including." The word "will" shall be construed to have the same meaning as the word "shall." Whenever this Agreement refers to a number of days, such number shall refer to calendar days unless Business Days are specified. The word "to the extent" shall mean the degree to which a subject or other thing extends, and such phrase shall not mean simply "if." References to "dollars" or "$" are to United States dollars. Any deadline or time period set forth in this Agreement that by its terms ends on a day that is not a Business Day shall be automatically extended to the next succeeding Business Day. References to written consent of a party in this Agreement shall include email.
+
+ARTICLE II
+
+CONTINGENT VALUE RIGHTS
+
+Section 2.1 CVRs; Appointment.
+
+(a) In accorda
+
+[...]
+
+egister, setting forth such amendment.
+
+21
+
+Section 5.2 Amendments with Consent of Holders.
+
+(a) Subject to Section 5.1 (which amendments pursuant to Section 5.1 may be made without the consent of the Holders), with the consent of the Acting Holders, whether evidenced in writing or taken at a meeting of the Holders, Parent, when authorized by a Parent Board Resolution, and the Rights Agent may enter into one or more amendments hereto for the purpose of adding, eliminating or changing any provisions of this Agreement, even if such addition, elimination or change is materially adverse to the interest of the Holders; provided, however, that no such amendment shall, without the consent of the Holders of not less than sixty-six percent (66%) of the outstanding CVRs:
+
+(i) modify in a manner adverse to the Holders (A) any provision contained herein with respect to the termination of this Agreement or the CVRs, (B) the time for, or amount of, any payment to be made to the Holders pursuant to this Agreement, or (C) the definition of CVR License Proceeds, CVR Product, CVR Product License, First Commercial Sale, First Commercial Sale Milestone, First Commercial Sale Milestone Amount, CVR Payment Amount, Net Sales, Royalty Term or Royalties;
+
+(ii) reduce the number of CVRs; or
+
+(iii) modify any provisions of this Section 5.2, except to increase the percentage of Holders from whom consent is required or to provide that certain provisions of this Agreement cannot be modified or waived without the consent of the Holder of each outstanding CVR affected thereby.
+
+No amendment pursuant to this Section 5.2 shall adversely affect the interest of a Holder (in its capacity as a Holder) relative to the interests of all other Holders, without the prior written consent of the affected Holder.
+
+(b) Promptly after the execution by Parent and the Rights Agent of any amendment pursuant to the provisions of this Section 5.2, Parent will mail (or cause the Rights Agent to mail at the expense of Parent) a notice thereof by first class mail to the Holders at their addresses as they appear on the CVR Register, setting forth such amendment.
+
+Section 5.3 Execution of Amendments. In executing any amendment permitted by this Article V, the Rights Agent will be entitled to receive, and will be fully protected in relying upon, an opinion of counsel selected by Parent stating that the execution of such amendment is authorized or permitted by this Agreement. The Rights Agent may, but is not obligated to, enter into any such amendment that affects the Rights Agent's own rights, privileges, covenants or duties under this Agreement or otherwise. Each amendment to this Agreement shall be evidenced by a writing signed by the Rights Agent and Parent. Any purported amendment to this Agreement not made in accordance with this Article V shall be void ab initio and be of no force or effect.
+
+Section 5.4 Effect of Amendments. Upon the execution of any amendment under this Article V, this Agreement will be modified in accordance therewith, such amendment will form a part of this Agreement for all purposes and every Holder will be bound thereby.
+
+22
+
+ARTICLE VI
+
+OTHER PROVISIONS OF GENERAL APPLICATION
+
+Section 6.1 Notices to Rights Agent and Parent. Any notice or other communication required or permitted hereunder shall be in writing and shall be deemed given when delivered in person, by overnight courier, by facsimile transmission (with receipt confirmed by telephone or by automatic transmission report) or by electronic mail, or two (2) Business Days after being sent by registered or certified mail (postage prepaid, return receipt requested), as follows:
+
+If to the Rights Agent, to it at:
+
+Computershare Inc.
+
+Computershare Trust Company, N.A.
+
+150 Royall Street
+
+Canton, MA 02021
+
+Attention: Client Services
+
+If to Parent, to it at:
+
+Zymeworks Inc.
+
+114 East 4th Avenue, Suite 800
+
+Vancouver, BC, Canada V5T 1G4
+
+Attention: Scott Platshon
+
+Kristin Stafford
+
+Paul Schneider
+
+Email: [***]
+
+[***]
+
+[***]
+
+with a copy to:
+
+Kirkland & Ellis LLP
+
+200 Clarendon Street
+
+Boston, MA 02116
+
+Attention: Graham Robinson
+
+Rachael G. Coffey
+
+Dan Li
+
+Email: [***]
+
+[***]
+
+[***]
+
+23
+
+The Rights Agent or Parent may specify a different address or facsimile number by giving notice in accordance with this Section 6.1.
+
+Section 6.2 Notice to Holders. Where this Agreement provides for notice to Holders, such notice will be sufficiently given (unless otherwise herein expressly provided) if in writing and mailed, first-class postage prepaid, to each Holder affected by such event, at the Holder's address as it appears in the CVR Register, not later than the latest date, and not earlier than the earliest date, if any, prescribed for the giving of such notice. In any case where notice to Holders is given by mail, neither the failure to mail such notice, nor any defect in any notice so mailed, to any particular Holder will affect the sufficiency of such notice with respect to other Holders.
+
+Section 6.3 Parent Successors and Assigns; Change of Control. Parent may assign, in its sole discretion and without the consent of any other party, any or all of its rights, interests and obligations hereunder to one or more Affiliate(s) of Parent or to any purchaser or exclusive licensee of all or substantially all rights to the CVR Product, including in connection with a Change of Control of Parent (each, an "Assignee"); provided that the Assignee agrees to assume and be bound by all of the terms of this Agreement. Any such Assignee may thereafter assign, in its sole discretion and without the consent of any other party, any or all of its rights, interests and obligations hereunder to one or more additional Assignees in compliance with this Section 6.3. This Agreement will be binding upon, inure to the benefit of and be enforceable by and against each Assignee, and this Agreement shall not restrict Parent's or any of its Affiliates' or Assignee's ability to merge or consolidate, subject to compliance with this Section 6.3 to the extent there is an applicable assignment in connection with such merger or consolidation. Each of Parent's non-Affiliate Assignees shall expressly assume by an instrument supplemental hereto, executed and delivered to the Rights Agent, the due and punctual payment of the CVRs and the due and punctual performance and observance of all of the covenants and obligations of this Agreement to be performed or observed by Parent. Any attempted assignment of this Agreement or any transfer of its rights in violation of this Section 6.3 shall be void and of no effect.
+
+Section 6.4 Benefits of Agreement. Nothing in this Agreement, express or implied, will give to any Person (other than the Rights Agent, Parent, Parent's successors and Assignees, the Holders and the Holders' successors and assigns pursuant to a Permitted Transfer) any benefit or any legal or equitable right, remedy or claim under this Agreement or under any covenant or provision herein contained, all such covenants and provisions being for the sole benefit of the foregoing. The rights of Holders and their successors and assigns pursuant to Permitted Transfers are limited to those expressly provided in this Agreement and the Merger Agreement. Notwithstanding anything to the contrary contained herein, any Holder or Holder's successor or assign pursuant to a Permitted Transfer may agree to renounce, in whole or in part, its rights under this Agreement by written notice to the Rights Agent and Parent, which notice, if given, shall be irrevocable.
+
+24
+
+Section 6.5 Governing Law.
+
+(a) This Agreement, the CVRs and all actions arising under or in connection therewith shall be governed by and construed in accordance with the laws of the State of Delaware, regardless of the laws that might otherwise govern under applicable principles of conflicts of law thereof.
+
+(b) Each of the parties (i) irrevocably and unconditionally consents and submits to the exclusive jurisdiction and venue of the Court of Chancery of the State of Delaware or, to the extent such court does not have subject matter jurisdiction, the Superior Court of the State of Delaware or the United States District Court for the District of Delaware, (ii) agrees that all claims in respect of such action or proceeding shall be heard and determined exclusively in accordance with Section 6.5(b)(i), (iii) waives any objection to laying venue in any such action or proceeding in such courts, (iv) waives any objection that such courts are an inconvenient forum or do not have jurisdiction over any party and (v) agrees that service of process in English upon such Party in any such action or proceeding shall be effective if notice is given in accordance with Section 6.1. Each of the parties hereto irrevocably agrees that, subject to any available appeal rights, any decision, order, or judgment issued by such above named courts shall be binding and enforceable, and irrevocably agrees to abide by any such decision, order, or judgment.
+
+(c) EACH PARTY HERETO HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY ACTION ARISING OUT OF THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT.
+
+Section 6.6 Severability. If any provision of this Agreement is held invalid or unenforceable by any court of competent jurisdiction, the other provisions of this Agreement shall remain in full force and effect. Any provision of this Agreement held invalid or unenforceable only in part or degree shall remain in full force and effect to the extent not held invalid or unenforceable. The parties hereto further agree to replace such invalid or unenforceable provision of this Agreement with a valid and enforceable provision that will achieve, to the extent possible, the economic, business and other purposes of such invalid or unenforceable provision; provided, however, that if such excluded term, provision, covenant or restriction shall materially and adversely affect the rights, immunities, liabilities, duties or obligations of the Rights Agent, the Rights Agent shall be entitled to resign immediately.
+
+Section 6.7 Counterparts and Signature. This Agreement may be executed in two or more counterparts (including by facsimile or by an electronic scan delivered by electronic mail), each of which shall be deemed an original but all of which together shall be considered one and the same agreement and shall become effective when counterparts have been signed by each of the parties hereto and delivered to the other party, it being understood that the parties need not sign the same counterpart.
+
+25
+
+Section 6.8 Termination. This Agreement will terminate and be of no force or effect (except for such provisions hereunder which expressly survive under their terms), the parties hereto will have no liability hereunder (other than with respect to monies due and owing by Parent to the Rights Agent prior to the effectiveness of such termination), and no payments will be required to be made to Holders, upon the earlier to occur of (a) the License Expiration Date, if no CVR Product License has been executed, and the First Commercial Sale Milestone has not occurred, as of or prior to such date and (b) the expiration or termination of all CVR Product Licenses executed as of or prior to the License Expiration Date. No termination shall affect the Holders' rights to any payment accrued prior to the effective date of such termination.
+
+Section 6.9 Further Assurance. Subject to the provisions of this Agreement, Parent and the Rights Agent will, from time to time, do all commercially reasonable acts and things and execute and deliver all such further documents and instruments, as Parent and the Rights Agent may reasonably require for the carrying out or performing by the Rights Agent of the provisions of this Agreement.
+
+Section 6.10 Force Majeure. Notwithstanding anything to the contrary contained herein, none of the Rights Agent, Parent or any of its Subsidiaries will be liable for any delays or failures in performance resulting from acts beyond its reasonable control including acts of God, pandemics, epidemics, terrorist acts, shortage of supply, breakdowns or malfunctions, interruptions or malfunctions of computer facilities, or loss of data due to power failures or mechanical difficulties with information storage or retrieval systems, labor disputes, strikes, or shortages (other than with respect to the affected party and its Affiliates), war or civil unrest, it being understood that such parties shall use commercially reasonable efforts to resume performance as soon as reasonably practicable under the circumstances.
+
+Section 6.11 Confidentiality. The Rights Agent and Parent agree that all books, records, information and data pertaining to the business of the other party that are exchanged or received pursuant to the negotiation or the carrying out of this Agreement, including the amount and terms of fees for services, any CVR Product License (or amendment thereto) or the RP Agreement (or amendment thereto), shall remain confidential and shall be used solely to perform their respective obligations under this Agreement, and shall not be voluntarily disclosed to any other Person, except as may be required by applicable Law. However, each party may disclose relevant aspects of the other party's confidential information to its officers, Affiliates, agents, subcontractors and employees to the extent reasonably necessary and to be used solely to perform its duties and obligations under this Agreement if such disclosure is not prohibited by applicable Law.
+
+Section 6.12 Entire Agreement. As to the Holders and the Company, this Agreement and the Merger Agreement (including the schedules, annexes and exhibits thereto and the documents and instruments referred to therein) contain the entire understanding of the parties hereto and thereto with reference to the transactions and matters contemplated hereby and thereby and supersedes all prior agreements, written or oral, among the parties with respect hereto and thereto. With respect to the duties, obligations and immunities of the Rights Agent and the obligations of the Company, this Agreement shall govern and control. If and to the extent that any provision of this Agreement is inconsistent or conflicts with the Merger Agreement, this Agreement will govern and be controlling with respect to the CVRs.
+
+26
+
+[Remainder of page intentionally left blank]
+
+27
+
+IN WITNESS WHEREOF, each of the parties has caused this Agreement to be executed on its behalf by its duly authorized officers as of the day and year first above written.
+
+ZYMEWORKS INC.
+
+By: /s/ Scott Platshon
+
+Name: Scott Platshon
+
+Title: Executive Vice President and Chief Business Officer
+
+COMPUTERSHARE TRUST COMPANY,
+
+N.A., and COMPUTERSHARE INC.,
+
+on behalf of both parties
+
+By: /s/ Collin Ekeogu
+
+Name: Collin Ekeogu
+
+Title: Director, Corporate Actions

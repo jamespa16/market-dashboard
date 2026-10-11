@@ -1,0 +1,284 @@
+# source: https://www.sec.gov/Archives/edgar/data/1425627/000147793226005700/sobr_ex21.htm (primary document)
+EX-2.1 2 sobr_ex21.htm MUTUAL TERMINATION AGREEMENT AND RELEASE
+
+EXHIBIT 2.1
+
+MUTUAL TERMINATION AGREEMENT AND RELEASE
+
+This Mutual Termination Agreement and Release, dated as of September 17, 2026 (this "Termination Agreement") is entered into by and among SOBR Safe, Inc., a Delaware corporation ("Parent"), SOBR Safe Merger Sub, Inc., a Nevada corporation and wholly-owned subsidiary of Parent ("Merger Sub"), Clean World Ventures, Inc., a Nevada corporation (the "Company"), and Roy DiBenerdini ("Principal"). Parent, Merger Sub, the Company and Principal are herein referred to individually as a "Party" and collectively as the "Parties." Principal executes this Termination Agreement in his individual capacity, subject to the limitations set forth in Section 14.
+
+WHEREAS, the Parties entered into that certain Agreement and Plan of Merger and Reorganization, dated as of April 24, 2026 (the "Merger Agreement"); and
+
+WHEREAS, the Parties wish to mutually terminate the Merger Agreement in accordance with the provisions thereof.
+
+NOW, THEREFORE, for good and valuable consideration, the receipt of which is hereby acknowledged, the Parties hereby agree as follows:
+
+1. Capitalized Terms. Capitalized terms used herein but not defined shall have the meaning set forth in the Merger Agreement, which definitions are incorporated herein by reference and shall survive the termination of the Merger Agreement solely for purposes of this Termination Agreement.
+
+2. Termination of Merger Agreement. The Merger Agreement is hereby terminated, effective immediately, pursuant to Section 10.1(a) of the Merger Agreement.
+
+3. Termination of Ancillary Documents. Effective immediately, and without any further action by any Person, each of the following is likewise terminated in its entirety, abandoned, revoked and of no further force or effect: (a) each Transaction Document and each other agreement, instrument, certificate, schedule or deliverable executed or delivered in connection with the Merger Agreement or the transactions contemplated thereby, including the Certificate of Merger (which has not been, and shall not be, filed with the Secretary of State of the State of Nevada), the Allocation Certificate, the Closing Certificate, the Company Disclosure Schedules, all letters of transmittal and exchange agent arrangements, all support, voting, lock-up and similar undertakings, and all director and officer questionnaires and related deliveries; (b) the Binding Term Sheet attached as an exhibit to the Merger Agreement, solely as among the Parties. No Party has filed, and no Party shall file, any certificate or articles of merger or other instrument effecting or purporting to effect the Merger. Without limiting the generality of the foregoing, each covenant, undertaking, restriction and obligation of Principal in his individual capacity arising under or in connection with the Merger Agreement or any Transaction Document, excluding the Non-Disclosure Agreement which for avoidance of doubt shall not be considered a "Transaction Document" for purposes of this Termination Agreement, including any lock-up, market standoff, support, voting, non-competition, non-solicitation, employment, retention, escrow, holdback or indemnification undertaking, if any, executed and to the extent Parent or Merger Sub were parties thereto, is hereby terminated in its entirety and shall be of no further force or effect, and no such covenant, undertaking, restriction or obligation shall survive the termination effected hereby.
+
+1
+
+4. Effect of Termination. Notwithstanding Section 10.2, or any other provision of the Merger Agreement that purports to survive termination, the Parties expressly agree that the Merger Agreement is null and void and has no further effect and that no provision of the Merger Agreement survives the termination effected hereby.
+
+5. Reserved.
+
+6. Financing Arrangements; No Interest in Counterparty Funds. Each Party acknowledges and agrees that it has no, and shall not assert any, right, title, interest, claim, lien or encumbrance of any kind in, to, upon or against any financing arranged, committed, funded or completed by any other Party in connection with or in contemplation of the Merger Agreement or the transactions contemplated thereby, or any proceeds, earnings or property of any of the foregoing. Without limiting the generality of the foregoing, neither Parent nor Merger Sub has, and neither shall assert, any right, title, interest, claim, lien or encumbrance in, to or against the Company Pre-Closing Financing, the proceeds thereof, or any reserve, escrow or segregated account established in connection therewith, including any portion of such proceeds that would have been designated for use by Parent following a Closing that will not occur; the Company is free to release, redeploy, distribute, invest or otherwise apply all such funds in its sole and absolute discretion without notice to or the consent of Parent or Merger Sub.
+
+7. Public Announcement. Parent shall file a Current Report on Form 8-K in the form attached hereto as Exhibit A no later than four (4) Business Days after the date hereof. Each press release, Current Report on Form 8-K and other public statement concerning the termination of the Merger Agreement shall state that the Merger Agreement was terminated by mutual agreement of the Parties, and shall not state or imply that the termination resulted from any breach, default, misrepresentation, failure of due diligence, dispute or deficiency on the part of any Party. The Parties acknowledge that the form of Current Report on Form 8-K attached hereto as Exhibit A has been agreed by the Parties in writing concurrently with the execution hereof. The absence of such agreed form, or any defect in the attachment thereof, shall not affect the validity, effectiveness or enforceability of this Termination Agreement or of any release granted herein. Thereafter, except for disclosure or communication required by applicable Law or stock exchange rule, or in response to any request by any Governmental Authority, no Party shall issue any press release with respect to the other Parties, the transactions contemplated by the Merger Agreement and/or this Termination Agreement without the prior written consent of such other Parties.
+
+8. Subsequent Statements and Filings. From and after the date hereof, no Party shall include in any registration statement, periodic or current report, proxy statement, press release, investor presentation or other public communication any financial statement, projection, technical description, business description or other information regarding any other Party, except as required by applicable Law or the rules of the SEC or any securities exchange. Each Party shall promptly notify the other Parties of any comment, inquiry, request or proceeding of the SEC, Nasdaq, OTC or any other Governmental Authority relating to the Form S-4, the Merger Agreement, the transactions contemplated thereby or any other Party.
+
+2
+
+9. Release by Parent and Merger Sub. Parent and Merger Sub, for themselves, and on behalf of each of their respective affiliates, equity holders, partners, joint venturers, lenders, administrators, representatives, shareholders, parents, subsidiaries, officers, directors, attorneys, agents, employees, legatees, devisees, executors, trustees, beneficiaries, insurers, predecessors, successors, heirs and assigns, hereby absolutely, forever and fully release and discharge the Company and Principal, and their affiliates and each of their respective present and former direct and indirect equity holders, directors, officers, employees, predecessors, partners, shareholders, joint venturers, administrators, representatives, affiliates, attorneys, agents, brokers, insurers, parent entities, subsidiary entities, successors, heirs, and assigns, and each of them, from all claims, contentions, rights, debts, liabilities, demands, accounts, reckonings, obligations, duties, promises, costs, expenses (including, without limitation, attorneys' fees and costs), liens, indemnification rights, damages, losses, actions, and causes of action, of any kind whatsoever, whether due or owing in the past, present or future and whether based upon contract, tort, statute or any other legal or equitable theory of recovery, and whether known or unknown, suspected or unsuspected, asserted or unasserted, fixed or contingent, matured or unmatured, with respect to, pertaining to, based on, arising out of, resulting from, or relating to the Merger Agreement, all ancillary documents related to the Merger Agreement, and the transactions contemplated by the Merger Agreement, including any claims based on the willful breach of Company's or Principal's representations, warranties, covenants or agreements contained in the Merger Agreement prior to such termination, but excluding any claims based on the fraud of Company (the "Parent Released Claims"). The release granted under this Section 9 extends to Principal in his individual capacity and to his spouse, heirs, executors, administrators, personal representatives, trustees and estate, and includes any claim arising out of or relating to any representation, warranty, covenant or undertaking made or given by Principal in his individual capacity in connection with the Merger Agreement or the transactions contemplated thereby. The release granted to Principal in his individual capacity under this Section 9 is granted in full and without exclusion for claims based on fraud. Notwithstanding the exclusion of or release of any claim by the Parent or Merger Sub against Principal individually for fraud in connection with the Merger Agreement, any action or inaction of the Principal as it relates to Parent or Merger Sub, the Merger Agreement, or this Termination Agreement, whether or not in his individual capacity or in his capacity as an officer or director of CWV shall be attributable to the Principal acting solely on behalf of CWV and not in his individual capacity.
+
+10. Release by the Company and Principal. The Company and the Principal, for themselves, and on behalf of each of their respective affiliates, equity holders, partners, joint venturers, lenders, administrators, representatives, shareholders, parents, subsidiaries, officers, directors, attorneys, agents, employees, legatees, devisees, executors, trustees, beneficiaries, insurers, predecessors, successors, heirs and assigns, hereby absolutely, forever and fully release and discharge Parent and Merger Sub, and their affiliates and each of their respective present and former direct and indirect equity holders, directors, officers, employees, predecessors, partners, shareholders, joint venturers, administrators, representatives, affiliates, attorneys, agents, brokers, insurers, parent entities, subsidiary entities, successors, heirs, and assigns, and each of them, from all claims, contentions, rights, debts, liabilities, demands, accounts, reckonings, obligations, duties, promises, costs, expenses (including, without limitation, attorneys' fees and costs), liens, indemnification rights, damages, losses, actions, and causes of action, of any kind whatsoever, whether due or owing in the past, present or future and whether based upon contract, tort, statute or any other legal or equitable theory of recovery, and whether known or unknown, suspected or unsuspected, asserted or unasserted, fixed or contingent, matured or unmatured, with respect to, pertaining to, based on, arising out of, resulting from, or relating to the Merger Agreement, all ancillary documents related to the Merger Agreement and the transactions contemplated by the Merger Agreement, including any claims based on the willful breach of Parent's or Merger Sub's representations, warranties, covenants or agreements contained in the Merger Agreement prior to such termination, but excluding any claims based on the fraud of Parent or Merger Sub (the "Company Released Claims" and together with the Parent Released Claims, the "Released Claims"). The release granted by Principal under this Section 10 is granted solely in his individual capacity and is no broader than the release granted to Principal under Section 9. As between Parent and Merger Sub, on the one hand, and Principal, on the other hand, the releases granted under Section 9 and this Section 10 are each granted in full and without exclusion for claims based on fraud, it being the intention of the Parties that Principal, on the one hand, and Parent and Merger Sub, on the other hand, be fully and mutually released from one another.
+
+3
+
+11. Exclusions. Notwithstanding anything contained in this Termination Agreement to the contrary, (i) it is the express intention of the Parties that the Released Claims released pursuant to Sections 9 and 10 of this Termination Agreement do not include claims, if any, based upon a breach of this Termination Agreement or a breach of the Non-Disclosure Agreement (as defined below), and (ii) nothing in this Termination Agreement releases, waives or otherwise limits any Party's obligations under this Termination Agreement or the right of any other Party to enforce the same in accordance with its terms. For the avoidance of doubt, neither the Released Claims nor the phrase "all ancillary documents related to the Merger Agreement" includes, and no Party (including Principal) releases, waives, discharges or covenants not to assert, any claim, right or remedy arising under, out of or relating to this Termination Agreement itself, including any claim to enforce the releases, covenants, representations or other promises made to such Party hereunder. This Termination Agreement is not an "ancillary document related to the Merger Agreement" or included in the term "Transaction Document" for any purpose hereof.
+
+12. Covenant Not to Sue. Each Party covenants and agrees, on behalf of itself and each of the Persons on whose behalf it grants a release under Section 9 or Section 10, that it shall not, directly or indirectly, commence, institute, prosecute, maintain, join in, fund, encourage, assist or voluntarily participate in (other than as required by subpoena, court order or applicable Law) any Released Claim against any Person released under Section 9 or Section 10, in any forum, including before any Governmental Authority, arbitral tribunal or self-regulatory organization. Any Party that breaches this Section 12 shall be liable to the affected released Persons for all costs and expenses (including reasonable attorneys' fees) incurred in defending against or otherwise responding to such Released Claim, in addition to all other remedies available at law or in equity.
+
+13. No Assignment of Released Claims. Each Party represents and warrants that it has not sold, assigned, transferred, conveyed, pledged, hypothecated or otherwise disposed of, in whole or in part, voluntarily or involuntarily, any Released Claim, and that no other Person has any right, title or interest in any Released Claim by way of subrogation, operation of law or otherwise.
+
+14. Limited Capacity of the Principal. Principal executes and delivers this Termination Agreement in his individual capacity and is bound solely by Section 9, Section 10, Section 11, Section 12, Section 13, Section 19, Section 20, Section 22, Section 24 (as limited below), Section 27 (as limited below) and this Section 14 (collectively, the "Principal Provisions"). The maximum aggregate liability of Principal arising out of or relating to this Termination Agreement shall not exceed the amount of actual, direct damages caused by his own breach of a Principal Provision. Nothing in this Section 14 limits Principal's right to receive, rely upon and enforce, as an intended beneficiary the release granted to him under Section 9 and each representation, covenant, indemnity and other benefit made to or for the benefit of Principal hereunder, including specific performance and other equitable relief under Section 28. Principal's signature page shall be captioned to reflect the limitations of this Section 14.
+
+4
+
+15. No Admission. This Termination Agreement, including the releases contained herein, is entered into in compromise and settlement of disputed and potential claims, and shall not be construed as, and does not constitute, an admission of any liability, wrongdoing, breach, deficiency or fault by any Party, each of which expressly denies the same. Neither this Termination Agreement nor any negotiation or proceeding relating hereto shall be offered or received in evidence in any proceeding for any purpose other than to enforce its terms.
+
+16. Withdrawal of Registration Statement. Promptly following the execution of this Termination Agreement, Parent shall take all actions reasonably necessary or advisable to withdraw the Form S-4 filed with the Securities and Exchange Commission ("SEC") in connection with the transactions contemplated by the Merger Agreement, including filing any withdrawal request or other submission required by the SEC in connection therewith, and the Parties each hereby consent to and agree with such withdrawal and shall reasonably cooperate in connection therewith. Such withdrawal application shall be filed no later than two (2) Business Days after the date hereof, shall request that the Form S-4 be withdrawn effective as of the date of filing or at the earliest practicable date thereafter. Parent shall provide the Company and its counsel with a draft of such application not less than one (1) Business Day prior to filing, and shall furnish the Company with a copy of the filing as made and of any SEC response thereto promptly upon receipt. Parent shall not file any further amendment or supplement to the Form S-4 and shall take no action to cause or permit the Form S-4 to be declared effective. Parent shall not, and shall cause its Affiliates and Representatives not to further distribute, republish, post, link to or otherwise disseminate the Form S-4, or any financial statement, projection, technical description or other information regarding the Company or Principal contained therein, except to the extent required by applicable Law.
+
+17. Withdrawal of Nasdaq Application. The Parties acknowledge that no Nasdaq Listing Application was filed.
+
+18. Non-Disparagement. Each Party hereby agrees that it shall not, and shall direct its directors and executive officers not to, (a) make, publish or communicate to any person or in any public or private forum or through any medium, any disparaging, damaging or demeaning statements about the other Parties or their respective affiliates, or any of their respective officers, directors, employees, or agents, or (b) otherwise engage, directly or indirectly, in any communications with any person that may be disparaging to the other Parties and their respective affiliates that may damage the reputation or goodwill of the other Parties or their respective affiliates, or that may place the other Parties or their respective affiliates in any false or negative light. Each Party hereby represents to the other Parties that, to its knowledge, none of its Representatives have, prior to the date hereof, made any public statement concerning any other Party that would have violated this Section 18 had it been in effect at the time such statement was made. Nothing in this Section 18 shall limit or restrict any Party or Principal from (a) making any statement required by applicable Law, subpoena, court order or the rules of the SEC or any securities exchange, or (b) communicating with, responding to any inquiry from, or providing testimony or information to any Governmental Authority with respect to any direct request or audit, including the SEC and any self-regulatory organization, and no such communication shall require prior notice to or the consent of any other Party. Principal is not bound by this Section 18 in his individual capacity. Notwithstanding the exclusion of Principal individually from the non-disparagement provision in this Section 18, any action or inaction of Mr. DiBenerdini as it relates to Parent or Merger Sub, the Merger Agreement, or this Termination Agreement, whether or not in his individual capacity or in his capacity as an officer or director of CWV shall be attributable to Mr. DiBenerdini acting solely on behalf of CWV and not in his individual capacity.
+
+5
+
+19. Subsequent Released Claims. Each Party acknowledges and understands that there is a risk that subsequent to the execution of this Termination Agreement, each Party may discover, incur or suffer Released Claims that were unknown or unanticipated at the time of the execution of this Termination Agreement, and which, if known on the date of the execution of this Termination Agreement, might have materially affected such Party's decision to enter into and execute this Termination Agreement. Each Party further agrees that by reason of the releases contained herein, each Party is assuming the risk of such unknown Released Claims and agrees that this Termination Agreement applies thereto.
+
+20. Non-Disclosure. The Parties hereby acknowledge and agree that each Party continues to be bound by the Mutual Non-Disclosure Agreement, dated as of April 6, 2026 (the "Non-Disclosure Agreement") by and among the parties thereto, and that all information obtained pursuant to the Merger Agreement shall be kept confidential in accordance with the Non-Disclosure Agreement. In addition, no later than ten (10) Business Days after the date hereof, each Party shall, and shall cause its Affiliates and Representatives to, return to the disclosing Party or destroy all Confidential Information of each other Party in its possession or control, including all due diligence materials, financial statements and projections, capitalization and stockholder information, technical, product and intellectual property information, investor and financing source information, and all director and officer questionnaires and other personal information of Principal, in each case together with all copies, extracts, notes, analyses and derivative materials; provided that a Party may retain (i) copies required to be retained by applicable Law or by bona fide internal document retention policies and (ii) copies stored on routine electronic backup systems not readily accessible in the ordinary course of business, in each case subject to the continuing confidentiality and non-use obligations of the Non-Disclosure Agreement, which shall survive with respect to any retained materials.
+
+21. Reserved.
+
+6
+
+22. Mutual Representations and Warranties. Each Party other than Principal (and, in the case of Principal, solely as to clauses (a), (b), (c), (e) and (f) below) represents and warrants to each other Party, as of the date hereof, that: (a) such Party, if an entity, is duly organized, validly existing and in good standing under the laws of its jurisdiction of organization, and such Party, if an individual, is of legal age and sound mind and has full legal capacity to execute, deliver and perform this Termination Agreement; (b) such Party has all requisite power and authority to execute, deliver and perform this Termination Agreement, and the execution, delivery and performance hereof, and the termination of the Merger Agreement and abandonment of the transactions contemplated thereby, have been duly authorized by all necessary corporate or other action, including, in the case of Parent, Merger Sub and the Company, the approval of its board of directors, and no vote, consent or approval of the stockholders of such Party is required or, to the extent any such vote, consent or approval is or was required, it has been duly obtained and remains in full force and effect, provided that, in the case of Principal, this clause (b) requires only that he have full legal capacity and have taken all action necessary on his part, and no corporate, board or stockholder authorization is or shall be deemed required of him; (c) this Termination Agreement has been duly executed and delivered by such Party and, assuming due execution and delivery by each other Party, constitutes the legal, valid and binding obligation of such Party, enforceable against it in accordance with its terms, except as limited by bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors' rights generally and by general principles of equity; (d) the execution, delivery and performance hereof does not and will not (i) conflict with or violate its Organizational Documents, (ii) violate any Law or Order applicable to it, or (iii) require any consent, approval, authorization of, or filing with, any Governmental Authority or other Person, other than the SEC and Nasdaq withdrawals expressly contemplated hereby; (e) there is no claim, action, suit, arbitration or proceeding pending or, to such Party's knowledge, threatened by such Party or any
+
+[...]
+
+ting to this Termination Agreement; provided that the foregoing shall not limit the recovery of any such damages to the extent actually awarded to, and paid to, a third party in respect of a claim brought by such third party against an indemnified Person for which indemnification is available hereunder.
+
+7
+
+25. Further Assurances. Each Party shall, at the requesting Party's expense, execute and deliver such further instruments and take such further actions as any other Party may reasonably request to give effect to the terminations, withdrawals, revocations and releases contemplated by this Termination Agreement.
+
+26. Severability. If any term or other provision of this Termination Agreement is invalid, illegal or incapable of being enforced by any rule of law, or public policy, all other conditions and provisions of this Termination Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated by this Termination Agreement are not affected in any manner materially adverse to any party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the Parties shall negotiate in good faith to modify this Termination Agreement so as to effect the original intent of the Parties as closely as possible in a mutually acceptable manner in order that the transactions contemplated by this Termination Agreement be consummated as originally contemplated to the fullest extent possible. Notwithstanding the foregoing, if any portion of the releases granted under Section 9 or Section 10 is held invalid or unenforceable as to any Released Claim, the releasing Party shall remain bound by the covenant not to sue in Section 12 with respect to such Released Claim to the fullest extent permitted by applicable Law; provided that if the release granted to Principal under Section 9 is held invalid or unenforceable in whole or in part, the release granted by Principal under Section 10 shall be void to the same extent.
+
+27. Choice of Law/Consent to Jurisdiction. This Termination Agreement shall be governed by, and construed in accordance with, the Laws of the State of Delaware applicable to contracts executed in and to be performed in such State. Any action, claim, suit, arbitration, mediation, proceeding, or hearing ("Action") arising out of or relating to this Termination Agreement shall, to the fullest extent permitted by applicable Law, be heard and determined exclusively in the Court of Chancery of the State of Delaware; provided that if jurisdiction is not available in such court, then any such Action may be brought in any federal court located in the State of Delaware or any other Delaware state court. To the fullest extent permitted by applicable Law, the Parties hereby (a) irrevocably submit to the exclusive jurisdiction of the aforesaid courts for themselves and with respect to their respective properties for the purpose of any Action arising out of or relating to this Termination Agreement brought by any Party and (b) agree not to commence any such Action except in the courts described above in Delaware, other than any Action in any court of competent jurisdiction to enforce any judgment, decree or award rendered by any such court in Delaware as described herein. To the fullest extent permitted by applicable Law, each of the Parties hereby irrevocably and unconditionally waives, and agrees not to assert, by way of motion or as a defense, counterclaim or otherwise, in any Action arising out of or relating to this Termination Agreement, (i) any claim that it is not personally subject to the jurisdiction of the courts in Delaware as described herein for any reason, (ii) that it or its property is exempt or immune from jurisdiction of any such court or from any legal process commenced in such courts (whether through service of notice, attachment prior to judgment, attachment in aid of execution of judgment, execution of judgment or otherwise) and (iii) that (A) the Action in any such court is brought in an inconvenient forum, (B) the venue of such Action is improper or (C) this Termination Agreement, or the subject matter hereof, may not be enforced in or by such courts. Each of the Parties hereby waives to the fullest extent permitted by applicable Law, any right it may have to a trial by jury with respect to any Action directly or indirectly arising out of or relating to this Termination Agreement. Each of the Parties (a) certifies that no Representative, agent or attorney of any other party has represented, expressly or otherwise, that such other party would not, in the event of any Action, seek to enforce that foregoing waiver and (b) acknowledges that it and the other Parties have been induced to enter into this Termination Agreement, as applicable, by, among other things, the mutual waivers and certifications in this Section 27. Principal consents to the jurisdiction and venue provisions of this Section 27; provided that Principal does not waive, and shall retain, any right he may have to a trial by jury in any Action in which a trial by jury is otherwise available.
+
+8
+
+28. Specific Performance. The Parties agree that irreparable damage would occur if any provision of this Termination Agreement were not performed in accordance with its terms, and that each Party shall be entitled to specific performance, injunctive relief and other equitable remedies to prevent breaches hereof and to enforce the terms hereof, in addition to any other remedy available at law or in equity, without any requirement to post a bond or other security or to prove the inadequacy of monetary damages.
+
+29. Entire Agreement. This Termination Agreement, together with the Exhibits hereto and the Non-Disclosure Agreement as preserved by Section 20 (which remains in full force and effect in accordance with its terms), constitutes the entire agreement among the Parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations and representations, written or oral, among the Parties with respect thereto, including the Merger Agreement and each other Transaction Document.
+
+30. Reserved.
+
+31. Notices. All notices, requests, consents and other communications hereunder shall be in writing and shall be deemed duly given (a) when delivered personally, (b) one (1) Business Day after deposit with a nationally recognized overnight courier, or (c) when sent by electronic mail (with confirmation of transmission and no bounce-back received), in each case to the address of the relevant Party set forth beneath its signature hereto, or to such other address as a Party may designate by notice given in accordance with this Section 31.
+
+32. Execution, Counterparts. This Termination Agreement may be executed and delivered (including transmission by .pdf or other form of electronic transmission) in one or more counterparts, and by the different Parties in separate counterparts, each of which when executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.
+
+33. Amendment; No Waiver. This Termination Agreement may be amended only by the execution and delivery of a written instrument by the Parent (on behalf of itself and Merger Sub), on the one hand, and the Company and Principal on the other hand. No waiver of any provision hereof shall be effective unless set forth in a writing signed by the Party against whom enforcement is sought, and no waiver shall constitute a waiver of any other provision or of the same provision on any other occasion. No failure or delay in exercising any right shall operate as a waiver thereof. Notwithstanding the foregoing, no amendment, modification or waiver shall amend or waive any Principal Provision, or impose any obligation or liability on Principal, without Principal's prior written consent.
+
+9
+
+34. Fees and Expenses. Each Party hereby agrees to pay the expenses (including the fees and expenses of counsel, accountants, investment bankers, experts and consultants) incurred by such Party in connection with the Merger Agreement and the transactions contemplated thereby, the Form S-4, and this Termination Agreement. No Party owes, or shall owe, any termination fee, break-up fee, expense reimbursement, topping fee, financing fee, indemnity or other payment of any kind to any other Party in connection with the Merger Agreement, the transactions contemplated thereby or their termination. Without limiting the foregoing, (a) neither the Company nor Principal shall have any obligation of any kind for any fees or expenses of Parent's or Merger Sub's counsel, auditors, consultants or advisors, or for any "tail," success, right-of-first-refusal or similar fee asserted by any placement agent, broker, finder or investment bank engaged by Parent or Merger Sub, including H.C. Wainwright & Co., LLC, and (b) neither Parent nor Merger Sub shall have any obligation for any fees or expenses of the Company's or Principal's counsel, auditors, consultants, advisors or placement agents, broker, finder or investment bank engaged by the Company or Principal.
+
+[Signature Page Follows]
+
+10
+
+IN WITNESS WHEREOF, the undersigned have executed this Termination Agreement as of the date written above.
+
+SOBR SAFE, INC.
+
+By: /s/ Chris Whitaker
+
+Christopher Whitaker, Chief Financial Officer
+
+Address: 6300 E. Hampden Ave., Suite C-308, Denver, CO 80222
+
+SOBR SAFE MERGER SUB, INC.
+
+By: /s/ Chris Whitaker
+
+Christopher Whitaker, President
+
+Address: 6300 E. Hampden Ave., Suite C-308, Denver, CO 80222
+
+CLEAN WORLD VENTURES, INC.
+
+By: /s/ Roy DiBenerdini
+
+Roy DiBenerdini, Chief Executive Officer
+
+Address:
+
+81 Ocean State Drive
+
+North Kingstown, RI 02852
+
+PRINCIPAL
+
+Executing in his individual capacity, subject to the limitations set forth in Section 14 of this Termination Agreement:
+
+/s/Roy DiBenerdini
+
+Roy DiBenerdini
+
+Address:
+
+449 Washington Rd.
+
+Barrington, RI 02806
+
+11
+
+Exhibit A
+
+Form 8-K
+
+[Attached]
+
+Ex. A
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 17, 2026
+
+SOBR SAFE, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+000-53316
+
+26-0731818
+
+(State or other
+
+jurisdiction of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+6300 E. Hampden Ave., Suite C-308
+
+Denver, Colorado 80222
+
+(Address of principal executive offices) (zip code)
+
+(844) 762-7723
+
+(Registrant's telephone number, including area code)
+
+(Former name or former address if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock
+
+SOBR
+
+The Nasdaq Stock Market LLC
+
+(Nasdaq Capital Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.02 Termination of Material Definitive Agreement
+
+As previously disclosed in the Current Report on Form 8-K as filed on April 30, 2026 (the "April 2026 8-K") with the Securities and Exchange Commission (the "SEC"), on April 24, 2026, SOBR Safe, Inc. (the "Company") entered into an Agreement and Plan of Merger and Reorganization (the "Merger Agreement") with Clean World Ventures, Inc., a Nevada corporation ("CWV"), Roy DiBenerdini ("Principal"), and SOBR Safe Merger Sub, Inc., a Nevada corporation and wholly owned subsidiary of the Company ("Merger Sub"), pursuant to which, among other matters, and subject to the satisfaction or waiver of the conditions set forth in the Merger Agreement, Merger Sub was to merge with and into CWV, with CWV continuing as a wholly owned subsidiary of the Company and the surviving corporation of the merger (the "Merger"). For a description of the Merger Agreement, please refer to Item 1.01 of the April 2026 8-K, which description is incorporated herein by reference. Such description is qualified in its entirety by reference to the full text of the Merger Agreement, attached as Exhibit 2.1 to the April 2026 8-K, which is incorporated herein by reference.
+
+On September 17, 2026, the Company, CWV, Merger Sub, and Principal terminated the Merger Agreement by entering into a Mutual Termination Agreement and Release (the "Termination Agreement") effective as of the same date. The Termination Agreement also provides for the mutual release by the Parties of claims with respect to, pertaining to, based on, arising out of, resulting from, or relating to the Merger Agreement, all ancillary documents related to the Merger Agreement and the transactions contemplated by the Merger Agreement, except for any claims for breach of the Termination Agreement or the Mutual Non-Disclosure Agreement entered into between the Company and CWV, dated as of April 6, 2026 (the "NDA"). The Parties have agreed to continue to be bound by the terms of the NDA. In addition, the Company will withdraw its registration statement on Form S-4 initially filed with the SEC on June 9, 2026.
+
+The summary of the Termination Agreement set forth under this Item 1.02 is qualified in its entirety by reference to the complete terms and conditions of the Termination Agreement, which is filed as Exhibit 2.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+2.1
+
+Mutual Termination Agreement and Release dated September 17, 2026
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+2
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+SOBR Safe, Inc.
+
+a Delaware corporation
+
+Dated: September _, 2026
+
+By:
+
+Chief Financial Officer
+
+3

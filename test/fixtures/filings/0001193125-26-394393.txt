@@ -1,0 +1,108 @@
+# source: https://www.sec.gov/Archives/edgar/data/105016/000119312526394393/wso-20260912.htm (primary document)
+0000105016false00001050162026-09-122026-09-120000105016us-gaap:CommonStockMember2026-09-122026-09-120000105016us-gaap:CommonClassBMember2026-09-122026-09-12
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 12, 2026
+
+WATSCO, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Florida
+
+1-5581
+
+59-0778222
+
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+2665 South Bayshore Drive
+
+Suite 901
+
+Miami, Florida
+
+33133
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant's Telephone Number, Including Area Code: (305) 714-4100
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbols
+
+Name of each exchange on which registered
+
+Common stock, $0.50 par value
+
+WSO
+
+New York Stock Exchange
+
+Class B common stock, $0.50 par value
+
+WSOB
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 3.02 Unregistered Sales of Equity Securities.
+
+On September 12, 2026, Watsco, Inc., a Florida corporation (the "Company"), entered into an agreement and plan of merger (the "Merger Agreement") together with GGH Cornerstone Acquisition Corp. ("Merger Sub 1"), Cornerstone Acquisition GGH LLC ("Merger Sub 2"), BBH Granite Buyer, Inc. ("BBHGB"), Granite Group Holdings LLC ("Granite Group Holdings") and, together with BBHGB, (the "Surviving Entities"), and the sellers' representative named therein, pursuant to which, Merger Sub 1 will merge with and into BBHGB, and Merger Sub 2 will merge with and into Granite Group Holdings, with BBHGB and Granite Group Holdings surviving the respective mergers (the "Mergers") as wholly owned subsidiaries of the Company. Granite Group Holdings is a diversified distributor of plumbing and HVAC products with approximately $500 million in sales throughout seven states in the Northeast.
+
+Pursuant to the Merger Agreement and upon consummation of the Mergers (the "Closing"), the Company has agreed to pay aggregate consideration in an amount equal to $505.0 million, subject to a customary post-closing purchase price adjustment (as adjusted, the "Purchase Price"). Pursuant to the Merger Agreement, at Closing, the Company will pay 80% of the Purchase Price in cash and 20% shares of the Company's Common stock, par value $0.50 per share ("Common Stock"). The number of shares issued shall equal 20% of the Purchase Price divided by the daily volume-weighted average price of the Common Stock on the New York Stock Exchange for the ten most recent trading days immediately preceding the Closing (the "Consideration Shares"). Closing of the transaction is subject to the satisfaction or waiver of customary closing conditions, including the accuracy of the parties' respective representations and warranties, the performance in all material respects of the parties' respective covenants under the Merger Agreement and the termination or expiration of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended.
+
+Based on the daily volume-weighted average price of the Common Stock on the New York Stock Exchange for the ten most recent trading days ended September 16, 2026, and assuming no adjustments for debt, cash, working capital or transaction expenses, the Company would issue an aggregate of 324,257 Consideration Shares at Closing. The foregoing number of Consideration Shares is only an estimate, and the actual number of Consideration Shares to be issued is subject to Closing and the finalization of the calculations and purchase price adjustments set forth above.
+
+The Consideration Shares have not been registered under the Securities Act of 1933, as amended (the "Securities Act"), and the Company offered the Consideration Shares in reliance upon the exemption from registration contained in Section 4(a)(2) of the Securities Act and rule 506(b) of Regulation D promulgated thereunder. Among other things, the applicable parties to the Merger Agreement represented to the Company that all securityholders entitled to vote on the Mergers are "accredited investors" as defined in Rule 501(a) under the Securities Act.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+WATSCO, INC.
+
+Date:
+
+September 17, 2026
+
+By:
+
+/s/ Ana M. Menendez
+
+Ana M. Menendez, Chief Financial Officer

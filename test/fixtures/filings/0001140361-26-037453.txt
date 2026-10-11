@@ -1,0 +1,142 @@
+# source: https://www.sec.gov/Archives/edgar/data/798359/000114036126037453/ef20082596_8k.htm (primary document)
+false000079835900007983592026-09-222026-09-22
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 22, 2026
+
+CENTERSPACE
+
+(Exact name of Registrant as specified in its charter)
+
+North Dakota
+
+001-35624
+
+45-0311232
+
+(State or Other Jurisdiction of Incorporation or Organization)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+1324 20th Avenue SW, Post Office Box 1988, Minot, ND 58702-1988
+
+(Address of principal executive offices) (Zip code)
+
+(701) 837-4738
+
+(Registrant's telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed from last report)
+
+Check the appropriate box below if the form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+
+☑
+
+Written communications pursuant to Rule 425 under the Securities Act
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
+
+Title of each class
+
+Trading Symbol
+
+Exchange
+
+Common Shares of Beneficial Interest, no par value
+
+CSR
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+As previously disclosed, on September 8, 2026, Centerspace, a North Dakota real estate investment trust ("Centerspace" or the "Company"), entered into an Agreement and Plan of Merger (the "Original Merger Agreement") with Independence Realty Trust, Inc., a Maryland corporation ("IRT"), Independence Realty Operating Partnership, LP, a Delaware limited partnership ("IROP"), Islanders OP Sub, LLC, a Delaware limited liability company and direct wholly owned subsidiary of IROP ("IROP Merger Sub"), and Centerspace, LP, a North Dakota limited partnership (the "Company OP"), pursuant to which (i) a wholly owned subsidiary of IRT to be added to the Original Merger Agreement by joinder ("IRT Merger Sub") would merge with and into Centerspace (the "Company Merger"), with Centerspace surviving the Company Merger as a wholly owned subsidiary of IRT and (ii) following the Company Merger, IROP Merger Sub would merge with and into the Company OP (the "Partnership Merger"), with the Company OP surviving the Partnership Merger as a subsidiary of IROP.
+
+As previously disclosed, prior to the date on which the definitive Form S-4 and joint proxy statement are filed with the Securities and Exchange Commission (the "SEC"), and subject to certain conditions being met, under the Original Merger Agreement, IRT had the right to elect to modify (i) the structure of the Company Merger so that Centerspace merges with and into IRT Merger Sub, with IRT Merger Sub surviving (rather than IRT Merger Sub merging with and into Centerspace), and/or (ii) the structure of the Partnership Merger so that the Company OP merges with and into IROP, with IROP surviving (rather than IROP Merger Sub merging with and into the Company OP) (the "Alternative Structure").
+
+On September 22, 2026, (i) IRT Merger Sub was added to the Original Merger Agreement as a party by joinder and (ii) IRT, IROP, IRT Merger Sub, IROP Merger Sub, Centerspace and the Company OP entered into that certain Amendment to the Merger Agreement (the "Amendment to the Merger Agreement"), pursuant to which IRT has elected to implement the Alternative Structure (solely with respect to the Company Merger). The Amendment to the Merger Agreement includes a waiver by IRT, IROP, IRT Merger Sub and IROP Merger Sub of any representation inaccuracy caused solely by the Alternative Structure.
+
+The foregoing summary description of the Amendment to the Merger Agreement is subject to and qualified in its entirety by reference to the Amendment to the Merger Agreement, a copy of which is attached hereto as Exhibit 2.1, the terms of which are incorporated herein by reference.
+
+Important Additional Information about the Proposed Transaction and Where to Find It
+
+In connection with the proposed transaction, IRT will file with the SEC a registration statement on Form S-4 that will include a joint proxy statement of Centerspace and IRT and a prospectus of IRT, as well as other relevant documents concerning the proposed transaction. The proposed transaction involving Centerspace and IRT will be submitted to Centerspace's shareholders and IRT's shareholders for their consideration. This filing does not constitute an offer to sell or the solicitation of an offer to buy any securities or a solicitation of any vote or approval, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. INVESTORS, SHAREHOLDERS OF CENTERSPACE AND STOCKHOLDERS OF IRT ARE URGED TO READ THE REGISTRATION STATEMENT AND THE JOINT PROXY STATEMENT/PROSPECTUS REGARDING THE TRANSACTION WHEN IT BECOMES AVAILABLE AND ANY OTHER RELEVANT DOCUMENTS FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THOSE DOCUMENTS, BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION. Investors and stockholders will be able to obtain the registration statement and the definitive joint proxy statement/prospectus free of charge from the SEC's website or from Centerspace or IRT. The documents filed by Centerspace with the SEC may be obtained free of charge at Centerspace's website at www.centerspacehomes.com or at the SEC's website at www.sec.gov. The documents filed by IRT with the SEC may be obtained free of charge at IRT's website at www.irtliving.com or at the SEC's website at www.sec.gov. References to either of IRT's or Centerspace's websites do not constitute incorporation by reference of the information contained on the websites and is not, and should not be, deemed part of this filing.
+
+Participants in the Solicitation
+
+Centerspace, IRT, and certain of their respective trustees or directors, as applicable, and executive officers may be deemed to be participants in the solicitation of proxies from the shareholders of Centerspace and stockholders of IRT in connection with the proposed transaction. Information regarding the interests of the trustees or directors, as applicable, and executive officers of Centerspace and IRT and other persons who may be deemed to be participants in the solicitation of shareholders of Centerspace and IRT in connection with the transaction and a description of their direct and indirect interests, by security holdings or otherwise, will be included in the definitive joint proxy statement/prospectus related to the transaction, which will be filed by Centerspace with the SEC. Information regarding Centerspace's trustees and executive officers is available in its definitive joint proxy statement relating to its 2026 Annual Meeting of Shareholders, which was filed with the SEC on April 3, 2026, and other documents filed by Centerspace with the SEC. Information regarding IRT's directors and executive officers is available in its definitive proxy statement relating to its 2026 Annual Meeting of Stockholders, which was filed with the SEC on March 19, 2026, and other documents filed by IRT with the SEC. Other information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by security holdings or otherwise, will be contained in the joint proxy statement/prospectus and other relevant materials filed with the SEC by Centerspace and IRT, respectively. Free copies of these documents may be obtained as described above under "Important Additional Information."
+
+No Offer or Solicitation
+
+This filing shall not constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the U.S. Securities Act of 1933, as amended.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+No.
+
+Description
+
+2.1
+
+Amendment to Agreement and Plan of Merger, dated as of September 22, 2026, among Independence Realty Trust, Inc., Independence Realty Operating Partnership, LP, Islanders Sub, LLC, Islanders OP Sub, LLC, Centerspace and Centerspace, LP.
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Centerspace
+
+By:
+
+/s/ Anne Olson
+
+Anne Olson
+
+Date: September 23, 2026
+
+President and Chief Executive Officer

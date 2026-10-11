@@ -1,0 +1,256 @@
+# source: https://www.sec.gov/Archives/edgar/data/857005/000119312526413124/d174191dex991.htm (EX-99.1)
+EX-99.1 3 d174191dex991.htm EX-99.1
+
+Exhibit 99.1
+
+Schneider Electric to acquire PTC, creating the next level of Energy and Industrial Intelligence
+
+Rueil-Malmaison, France and Boston, United States - October 5, 2026 - Schneider Electric, a global energy technology leader, and PTC Inc. ("PTC") (NASDAQ: PTC), a leader in complex industrial product design, engineering and data management, today announced that they have signed a definitive agreement under which Schneider Electric will acquire PTC ("the transaction").
+
+Key Highlights
+
+
+
+All-cash acquisition at $205 per share for 100% of the share capital of PTC, valuing PTC's equity at approximately $22.6 billion (20.1 billion)
+
+
+
+Implied Enterprise Value of $23.7 billion (21.1 billion), representing a multiple of 21x EV/ Adj. EBITA 2027E and 13x EV/ Adj. EBITA 2027E including full run-rate synergies
+
+
+
+Represents a 42.3% premium to the last closing price and a 46.1% premium to the previous 30-trading days volume-weighted average share price prior to announcement
+
+
+
+Creates a leading, scaled, open and interoperable industrial software and AI franchise, driving business outcomes for customers from any system of design, control, data and intelligence
+
+
+
+Bridges the physical and digital worlds across the lifecycle, from design and build to operate and maintain
+
+
+
+Establishes a unified digital thread fuelled with a contextualized AI Data Foundation across products & machines and processes & energy systems, accelerating Energy & Industrial Intelligence
+
+
+
+Adds strong growth, high-quality recurring revenues supporting Digital Flywheel ambition, attractive margins and robust cash generation, driving compelling shareholder value creation
+
+
+
+250 million of highly executable annual run-rate cost synergies expected to be achieved by Year 3 and approximately 800 million of expected revenue synergies
+
+
+
+Fully aligned with the capital allocation framework set out at the 2025 Capital Markets Day
+
+Page | 1
+
+Olivier Blum, Chief Executive Officer of Schneider Electric, said:
+
+"The acquisition of PTC represents an important step forward in our ambition to lead the new era of Energy and Industrial Intelligence. Together, we are creating the industry's most complete Software & AI powerhouse and highest-quality portfolio bridging the physical and digital worlds. By connecting and contextualizing data across the lifecycle of products and assets, we will create a unique digital thread for the next generation of Industrial AI, helping customers to optimize their systems with greater intelligence from design and build to operate and maintain. Neil Barua and the PTC teams have established an outstanding track record of growth, innovation and customer success. At Schneider Electric, we have built a strong leadership position in industrial software with AVEVA under the leadership of Caspar Herzberg. Together, with Cognite's1 unique AI capabilities, we will accelerate innovation, unlock new opportunities and create long-term value for our customers, employees and shareholders as we shape the future of Energy and Industrial Intelligence."
+
+Neil Barua, President and CEO of PTC, said:
+
+"PTC provides the software the world's leading manufacturers and product companies rely on to design, build, and maintain great products and unlock more value from their product data in an increasingly AI-driven world. Joining Schneider Electric is an incredible opportunity to elevate the scope and impact of what we deliver for our customers globally. We gain substantial scale and resources to accelerate innovation, advance our Intelligent Product Lifecycle vision, and expand our business into more geographies and end markets to serve more customers. This all-cash transaction is the culmination of the PTC Board's commitment to maximize shareholder value. It delivers certain and compelling value to our shareholders and reflects the strength of PTC's business, our strategy, and our outstanding team. I am deeply grateful to our talented and dedicated employees around the world for everything they have done to make PTC what it is today. We look forward to building on this strong foundation and beginning an exciting new chapter with Schneider Electric."
+
+A new Tech era of Intelligence
+
+The world is entering a new era of Energy and Industrial Intelligence, driven by the convergence of the New Energy Landscape and the acceleration of Digitalization & AI, fundamentally reshaping customer needs. As industrial AI moves beyond digital applications and is increasingly embedded in physical products and machines, processes and energy systems, new customer opportunities are created across the lifecycle. By bridging the physical and digital worlds, from design and build to operate and maintain, trusted and contextualized industrial data can increasingly be transformed into actionable intelligence and AI-driven outcomes. This delivers greater value for customers across any system of design, control, data and intelligence.
+
+1
+
+The completion of the Cognite transaction remains subject to customary closing conditions, including the receipt of required regulatory approvals
+
+Page | 2
+
+PTC: a high-quality industrial software & intelligence platform bringing product design and engineering expertise
+
+PTC is a global leader in complex industrial product design, engineering and data management, serving more than 30,000 customers globally. Its leading computer-aided design (CAD), product lifecycle management (PLM), application lifecycle management (ALM) and service lifecycle management (SLM) capabilities help customers design complex physical products and manage their product and engineering data throughout the entire lifecycle, from initial definition and design through to service and optimization. It generated 2.4 billion revenue and ~40% Adj. EBITA margin in CY25, with revenue and ARR expected to grow by ~10% annually through 2029.2 With particular strengths in discrete and hybrid manufacturing, PTC is a high-quality industrial software and intelligence platform with strong growth, margins and cash generation.
+
+PTC complements the unique portfolio Schneider Electric has built step by step
+
+PTC complements Schneider Electric's industrial AI data foundation, which will be further enhanced following its proposed acquisition of Cognite3, by adding the critical product and engineering data fabric to its existing foundation of process and energy data. By connecting engineering intent with real-world operational context, the combination strengthens Schneider Electric's Energy & Industrial Intelligence capabilities and provides the trusted context which AI agents need in order to deliver productivity, resiliency, efficiency and sustainability for customers.
+
+The transaction extends Schneider Electric's proven asset lifecycle platform upstream into product design and engineering, creating an end-to-end industrial software and intelligence platform that helps customers drive continuous improvement. Schneider Electric's global reach, market access and deep Energy and Industry expertise will broaden PTC's customer base, expand end-market exposure and unlock significant bi-directional cross-selling opportunities.
+
+Strong strategic rationale
+
+
+
+Creating a leading, scaled, open and interoperable industrial software and AI franchise, driving business outcomes for customers from any system of design, control, data and intelligence: The transaction with PTC creates one of the largest and most differentiated industrial software portfolios, scaling Software & Services revenues to an estimated 24% of Group revenues on a proforma basis4, with 15,000+ software employees and addressing 50,000+ software customers. Beyond scale, the transaction closes a portfolio gap in product lifecycle and industrial software while preserving an open-by-design approach across vendors and hardware.
+
+2
+
+PTC CY25 financials, excludes ThingWorx and Kepware (revenue only); ARR / revenue growth as per broker consensus CY26E-29E CAGR; Adj. EBITA calculated as non-GAAP Operating Income (excluding amortization) minus stock-based compensation, net. EUR/USD FX rate of 1.1255 as of October 2, 2026
+
+3
+
+The completion of the Cognite transaction remains subject to customary closing conditions, including the receipt of required regulatory approvals
+
+4
+
+Proforma for Software & Services revenue as percentage of proforma Group revenue (including Schneider Electric, Cognite and PTC). The completion of the Cognite transaction remains subject to customary closing conditions, including the receipt of required regulatory approvals
+
+Page | 3
+
+
+
+Bridging the physical and digital worlds across the lifecycle, from design and build to operate and maintain: The combination allows Schneider Electric to incorporate upstream resources into its model, bridging the physical and digital worlds, from design and build to operate and maintain. The combination will position Schneider Electric to help customers design faster, build right the first time, operate more efficiently and continuously improve the next generation of products and systems.
+
+
+
+Establishing a unified digital thread fuelled with a contextualized AI Data Foundation across products & machines and processes & energy systems, accelerating Energy & Industrial Intelligence: PTC brings the products and machines system of design through its CAD solutions and enriches the data fabric with its PLM, ALM and SLM capabilities. PTC adds the intelligence on how products are designed and built to Schneider Electric's operational and energy intelligence expertise, creating a trusted, contextualized and unified AI-ready data foundation spanning products and machines, processes and energy systems.
+
+
+
+Broadening end-market exposure, accelerating digital leadership in Energy and Industry and unlocking substantial bi-directional cross-sell opportunities: The combination will expand Schneider Electric's total addressable market in industrial software by ~3x, including in discrete and hybrid manufacturing, while avoiding meaningful concentration across verticals and sectors. Schneider Electric's scale, global footprint, channel relationships and energy expertise will provide PTC with broader access to end-markets.
+
+
+
+Augmenting key financial metrics: Adding a strong growth profile, high-quality recurring revenues supporting Digital Flywheel ambition, attractive margins and robust cash generation, driving compelling shareholder value creation.
+
+Transaction terms, financing and next steps
+
+Transaction terms
+
+Subject to completion of the closing conditions, PTC shareholders will receive $205 per share in cash, representing a 42.3% premium to PTC's last closing price and a 46.1% premium to the previous 30-trading days volume-weighted average share price prior to announcement. The transaction values 100% of PTC equity at approximately $22.6 billion, which implies a $23.7 billion enterprise value.
+
+Page | 4
+
+Compelling value creation
+
+Schneider Electric estimates the transaction would be accretive to Schneider Electric's financial profile across key metrics, including revenue growth, recurring revenue mix, gross margin, Adjusted EBITA margin and free cash flow conversion.
+
+Schneider Electric is focused on delivering disciplined shareholder value creation and expects to achieve 250 million of highly executable cost synergies by Year 3 and approximately 800 million of revenue synergies. This will be driven by cross-selling across complementary customer footprints, extending channels and end-market access, broadening geographic reach and leveraging AI-enabled joint development of digital thread solutions.
+
+Schneider Electric expects the transaction to be immediately low single-digit accretive to Adj. EPS (before PPA5) in the first year of full consolidation and mid-to high-single-digit accretive to Adj. EPS (before PPA) including full run-rate synergies. Transaction ROCE is expected to exceed WACC by Year 5 post-closing including full run-rate synergies.
+
+Financing
+
+The total cash consideration of approximately 22 billion is secured through a fully committed bridge facility provided by Morgan Stanley and Soci&eacute;t&eacute; G&eacute;n&eacute;rale. Total consideration is expected to be funded via a combination of an equity issuance of approximately 5 to 6 billion and new debt issuance of approximately 16 to 17 billion. The equity issuance is expected to take the form of an Accelerated Bookbuild Offering (ABO) using the existing financial authorization given by the AGM to the Board, while the new debt issuance is expected to be conducted across several currencies.
+
+Confirmation of commitments taken on capital allocation at its 2025 Capital Markets Day:
+
+
+
+Credit ratings: Schneider Electric expects to retain Category A credit ratings. This remains subject to formal confirmation by the ratings agencies.
+
+
+
+Progressive dividends: Schneider Electric expects to continue its policy which has resulted in a progressive dividend for the last 16 years.
+
+
+
+Active portfolio management: Schneider Electric intends to continue its 1.0-1.5 billion revenue disposal program, to be completed by 2030, and will remain agile in acquisitions that accelerate its strategy, while leveraging partnerships and alliances to drive value creation.
+
+
+
+Share buyback: Schneider Electric remains committed to its share buyback program of 2.5-3.5 billion through 2030. The Group expects to complete 600 million of share buyback in 2026 in accordance with its systematic program previously announced, with the expectation for a pause in 2027 and 2028 with acceleration thereafter, before completion of the program by the end of 2030 within the envelope previously announced.
+
+5
+
+Purchase Price Accounting impacts as per Schneider Electric definition
+
+Page | 5
+
+Closing and next steps
+
+The transaction has been unanimously approved by the Boards of Directors of both companies. Closing of the transaction is anticipated by Q3 2027, subject to customary closing conditions, including approval by PTC's shareholders holding at least a majority of outstanding PTC shares at a special shareholder meeting and receipt of required regulatory approvals. The PTC Board of Directors resolved to recommend that the Company's shareholders approve the Merger Agreement.
+
+Schneider Electric Third Quarter revenues
+
+As a result of the transaction, Schneider Electric will bring forward the release of its Third Quarter 2026 revenues to October 16, 2026.
+
+Investor call and further information
+
+Schneider Electric will host a call for investors and financial analysts at 8:00 a.m. Central European Time on October 5, 2026. Participants are advised to join at least 10-15 minutes prior to the commencement of the call to register. Presentation materials will be available ahead of the call on the Schneider Electric website. Please connect to the call via the following link: https://edge.media-server.com/mmc/p/wnakhtk8
+
+Advisors
+
+Morgan Stanley & Co. International Plc is serving as lead financial advisor to Schneider Electric. Goldman Sachs Bank Europe SE is also serving as financial advisor, with Debevoise & Plimpton LLP serving as legal counsel. Evercore is serving as financial advisor to PTC, with Paul, Weiss, Rifkind, Wharton & Garrison LLP serving as legal counsel.
+
+Important information
+
+This press release does not constitute or form any part of an offer to sell, exchange or purchase, or solicitation of an offer to buy or exchange, any securities in the United States, Australia, Canada, Japan and/or South Africa or in any state or jurisdiction in which such an offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.
+
+The distribution of this press release may, in certain states or jurisdictions, be restricted by local legislations. Persons into whose possession this press release comes are required to inform themselves about and to observe any such potential local restrictions.
+
+Page | 6
+
+Any securities referred to herein have not been and will not be registered under the U.S. Securities Act of 1933, as amended (the "Securities Act"), and may not be offered or sold in the United States except pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the Securities Act. There will be no public offering of securities in the United States.
+
+This press release is not a prospectus, information document or other offering documents for purposes of Regulation (EU) 2017/1129 of the European Parliament and of the Council of June 14, 2017, as amended.
+
+Forward-Looking Statements about Schneider Electric
+
+This press release contains forward-looking statements, which reflect Schneider Electric management's present expectations of future events and are subject to a number of factors and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. For a detailed description of these factors and uncertainties, please refer to the section "Risk Factors" in our Universal Registration Document. Any forward-looking statements contained herein are made as of the date of this press release and are not guarantees of future performance. Schneider Electric undertakes no obligation to publicly update or revise any of these forward-looking statements.
+
+Cautionary Statement Regarding Forward-Looking Statements about PTC
+
+This document contains statements that constitute "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, each as amended. All statements other than statements of historical fact, including statements regarding the expected timing of the closing of the proposed transaction, and PTC future operating, financial and growth expectations made in this document are forward-looking. In many cases, you can identify forward-looking statements by terminology, such as "may," "should," "expects," "intends," "plans," "anticipates," "believes," "estimates," "predicts," "potential," "continue" or the negative of such terms and other comparable terminology. There may also be other statements of expectations, beliefs, future plans and strategies, anticipated events or trends and similar expressions concerning matters that are not historical facts. Readers are cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties, many of which are difficult to predict and are generally outside PTC and Schneider Electric's control, that could cause actual performance or results to differ materially from those expressed in, or implied or projected by, the forward-looking statements. Such risks and uncertainties include, but are not limited to, the occurrence of any event, change or other circumstance that could give rise to the termination of the merger agreement, including circumstances requiring PTC to pay the other party a termination fee; the failure to obtain applicable regulatory or PTC shareholder approval in a timely manner or otherwise; the risk that the proposed transaction may not close in the anticipated timeframe or at all due to one or more of the other closing conditions to the transaction not being satisfied or waived; the risk that there may be unexpected costs, charges or expenses resulting from the proposed transaction; risks that the proposed transaction disrupts PTC's current plans and operations; the risk that certain restrictions during the pendency of the proposed transaction may impact PTC's ability to pursue certain business opportunities or strategic transactions; risks related to disruption of management's time and attention from ongoing business operations due to the proposed transaction; the risk that any announcements relating to the proposed transaction could have adverse effects on the market price of PTC's common stock, credit ratings or operating results; the risk that the proposed transaction and its announcement could have an adverse effect on PTC's ability to retain and hire key personnel, retain customers and maintain relationships with its respective business partners, suppliers and customers; and the risk of litigation that could be instituted against the parties to the merger agreement or their respective directors, managers or officers and/or regulatory actions related to the proposed transaction. In addition, the macroeconomic and/or global manufacturing climates may not improve or may deteriorate due to, among other factors, the effects of import tariffs, threats of additional and reciprocal import tariffs, global trade and geopolitical tensions and uncertainty, including
+
+Page | 7
+
+the recent military conflict in Iran, volatile foreign exchange rates, high interest rates or increases in interest rates, inflation, and tightening of credit standards and availability, any of which could cause customers to delay or reduce purchases of new software, adopt competing software solutions, reduce the number of subscriptions they carry, or delay payments to us, which would adversely affect PTC's Annual Run Rate ("ARR") and/or financial results and cash flow and growth; PTC's investments in its software solutions, including the integration of artificial intelligence ("AI") capabilities into its software solutions, may not drive expansion of those solutions and/or generate the ARR and/or cash flow we expect if those capabilities are not made available when or as we expect, if customers are slower to adopt those solutions than we expect, or if customers adopt competing solutions; customers may not build the product data foundations essential for the AI-driven transformation of their business when or as we expect, which could adversely affect PTC's ARR and/or financial results and cash flow and growth; PTC's go-to-market realignment and related initiatives may not generate the ARR and/or financial results or cash flow when or as we expect; and foreign exchange rates may differ materially from those we expect. Other risks and uncertainties that could cause actual results to differ materially from those projected are described from time to time in reports PTC files with the U.S. Securities and Exchange Commission, including PTC's most recent Annual Report on Form 10-K filed on November 21, 2025, Quarterly Reports on Form 10-Q, and other filings with the U.S. Securities and Exchange Commission. Except to the extent required by law, PTC undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+Additional Information and Where to Find It
+
+This communication is being made in respect of the proposed transaction involving PTC and Schneider Electric. In connection with the proposed transaction, PTC intends to file relevant materials with the SEC, including preliminary and definitive proxy statements on Schedule 14A. The definitive proxy statement (if and when available) will be mailed to PTC's shareholders. This communication is not a substitute for the proxy statement or any other document that may be filed by PTC with the SEC or sent to its shareholders in connection with the proposed transaction.
+
+BEFORE MAKING ANY DECISION, PTC SHAREHOLDERS ARE URGED TO CAREFULLY READ THE PRELIMINARY AND DEFINITIVE PROXY STATEMENTS (INCLUDING ANY AMENDMENTS OR SUPPLEMENTS THERETO) AND ANY OTHER RELEVANT DOCUMENTS FILED OR TO BE FILED WITH THE SEC IN CONNECTION WITH THE PROPOSED TRANSACTION OR INCORPORATED BY REFERENCE INTO THE PROXY STATEMENT WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTION AND RELATED MATTERS.
+
+You will be able to obtain a free copy of the proxy statement and other related documents (when available) filed by PTC with the SEC at the website maintained by the SEC at www.sec.gov.
+
+No Offer or Solicitation
+
+This communication is for informational purposes only and is not intended to, and does not constitute or form part of, an offer, invitation or the solicitation of an offer or invitation to purchase, otherwise acquire, subscribe for, sell or otherwise dispose of any securities, or the solicitation of any vote or approval in any jurisdiction, pursuant to the proposed transaction or otherwise, nor shall there be any sale, issuance or transfer of securities in any jurisdiction in contravention of applicable law.
+
+Participants in the Solicitation
+
+PTC and its directors and executive officers and certain of its employees may be deemed to be participants in the solicitation of proxies from PTC's shareholders in connection with the proposed transaction. Information regarding PTC's directors and executive officers is set forth under the captions "Proposal 1: Election of Directors," "Our Executive
+
+Page | 8
+
+Officers," "Corporate Governance and the Board of Directors," "Stock Owned by Directors and Officers" and "Compensation Discussion and Analysis" in the definitive proxy statement for PTC's 2026 Annual Meeting of Shareholders filed with the SEC on December 23, 2025, and in PTC's Current Report on Form 8-K filed with the SEC on February 11, 2026. To the extent holdings of PTC's securities by its directors or executive officers have changed since the amounts set forth in PTC's definitive proxy statement for its 2026 Annual Meeting of Shareholders, such changes have been or will be reflected on Initial Statement of Beneficial Ownership of Securities on Form 3, Statement of Changes in Beneficial Ownership on Form 4, or Annual Statement of Changes in Beneficial Ownership on Form 5 filed with the SEC. These documents may be obtained free of charge from the SEC's website at www.sec.gov. Other information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by security holdings or otherwise, will be contained in the definitive proxy statement and other relevant materials to be filed with the SEC regarding the proposed transaction if and when they become available.
+
+About Schneider Electric
+
+Schneider Electric is a global energy technology leader, driving efficiency and sustainability by electrifying, automating, and digitalizing industries, businesses, and homes. Its technologies enable buildings, data centers, factories, infrastructure, and grids to operate as open, interconnected ecosystems, enhancing performance, resilience, and sustainability. The portfolio includes intelligent devices, software-defined architectures, AI-powered systems, digital services, and expert advisory. With 160,000 employees and 1 million partners in over 100 countries, Schneider Electric is consistently ranked among the world's most sustainable companies.
+
+www.se.com
+
+Follow us on:
+
+Learn more about Advancing Energy Tech on Schneider Electric Insights.
+
+About PTC
+
+PTC (NASDAQ: PTC) is a global software company that enables manufacturers and product companies to digitally transform how they design, manufacture, and service the physical products that the world relies on. Headquartered in Boston, Massachusetts, PTC employs over 7,000 people and supports more than 30,000 customers globally. For more information, please visit www.ptc.com.
+
+Investor and Media contacts
+
+Schneider Electric
+
+Investors:
+
+SEInvestorRelations@se.com
+
+Media:
+
+mediarelations@se.com
+
+schneiderelectric@brunswickgroup.com
+
+PTC
+
+Investor:
+
+investor@ptc.com
+
+Media:
+
+PRteam@ptc.com
+
+Page | 9

@@ -1,0 +1,112 @@
+# source: https://www.sec.gov/Archives/edgar/data/1437107/000119312526415055/d200872dex991.htm (EX-99.1)
+EX-99.1 4 d200872dex991.htm EX-99.1
+
+Exhibit 99.1
+
+STATUTORY NOTICE PURSUANT TO SECTION 204(G) OF THE DELAWARE GENERAL CORPORATION LAW
+
+Notice is hereby given pursuant to Section 204 of the Delaware General Corporation Law (the "DGCL"), that on October 2, 2026, the Board of Directors (the "Board") of Warner Bros. Discovery, Inc., a Delaware corporation (the "Company"), adopted resolutions approving the ratification of certain potentially defective corporate acts, as described below, pursuant to Section 204 of the DGCL.
+
+Pursuant to the Warner Bros. Discovery, Inc. 2005 Non-Employee Director Incentive Plan (as amended and/or restated from time to time, the "Plan"), the Company was authorized to grant awards of restricted stock units ("RSUs") to non-employee directors of the Company ("Nonemployee Directors"), and to issue shares of the Company's Series A common stock, par value $0.01 per share ("Common Stock"), in settlement of such awards. Although Section 11.6 of the Plan provides that no awards may be made under the Plan on or after May 20, 2025 (the "Expiration Date"), following the Expiration Date, awards covering an aggregate of 396,804 RSUs (the "Award Grants") were made to Nonemployee Directors in June 2025 (the "2025 Award Grants") and June 2026, as listed on Schedule 1 to the resolutions attached hereto as Exhibit A. Each Award Grant was approved by the Compensation Committee of the Board prior to grant and was otherwise granted in accordance with the terms and conditions of the Plan. Following completion of the required period of post-award service, an aggregate of 120,000 shares of Common Stock (the "Issued Stock") were issued to certain Nonemployee Directors in settlement of certain of the 2025 Award Grants, as listed on Schedule 2 to the resolutions attached hereto as Exhibit A. The Board determined that the Award Grants and the issuance of the Issued Stock (collectively, the "Post Expiration Grants and Issuances") were potentially "defective corporate acts," and that the Issued Stock may constitute "putative stock," in each case within the meaning of Section 204 of the DGCL.
+
+The Board determined that the Post Expiration Grants and Issuances arose out of a "failure of authorization" (within the meaning of Section 204 of the DGCL). This failure of authorization occurred because the Award Grants were not authorized and effected in accordance with the terms of the Plan prior to the Expiration Date. The Board determined it to be advisable and in the best interests of the Company and its stockholders to approve the ratification of the Post Expiration Grants and Issuances. On October 2, 2026, the Board ratified, pursuant to Section 204 of the DGCL, the Award Grants, as of the original grant dates, and the issuance of the Issued Stock, as of the original issuance dates, and determined that all of the Issued Stock shall be considered duly authorized, validly issued, fully paid and non-assessable as of the time such Issued Stock was originally issued.
+
+A copy of the resolutions approving the ratification of the Post Expiration Grants and Issuances is attached hereto as Exhibit A. The ratification of the Post Expiration Grants and Issuances is not required to be submitted to the Company's stockholders for approval under Section 204 of the DGCL.
+
+Any claim that the defective corporate acts (including all putative stock) ratified pursuant to Section 204 of the DGCL in the resolutions attached hereto as Exhibit A are void or voidable due to a failure of authorization, or that the Court of Chancery of the State of Delaware should declare in its discretion that the ratification not be effective or be effective only on certain conditions, must be brought within 120 days from the date of this notice, October 6, 2026.
+
+1
+
+Exhibit A
+
+Resolutions Approving the Ratification of the Defective Corporate Acts
+
+BACKGROUND
+
+WHEREAS: Warner Bros. Discovery, Inc. (the "Company") entered into an Agreement and Plan of Merger, dated as of February 27, 2026, by and among the Company, Paramount Skydance Corporation, a Delaware corporation ("Buyer"), and Prince Sub Inc., a Delaware corporation and a wholly owned Subsidiary of Buyer (the "Merger Agreement" and the transactions contemplated thereby, the "Merger") (capitalized terms used but not defined herein shall have the respective meanings attributed to such terms in the Merger Agreement).
+
+RATIFICATION OF THE GRANT OF CERTAIN GRANTS AND ISSUANCES
+
+WHEREAS: Pursuant to the Warner Bros. Discovery, Inc. 2005 Non-Employee Director Incentive Plan (as amended and/or restated from time to time, the "Plan"), the Company was authorized to grant Awards of Restricted Stock Units (as such terms are defined in the Plan), and issue Company Stock in settlement of such Awards, to non-employee members of the Board ("Nonemployee Directors").
+
+WHEREAS: Although Section 11.6 of the Plan provides that no Awards may be made under the Plan on or after May 20, 2025 (the "Expiration Date"), following the Expiration Date, the Awards listed on Schedule A to these resolutions (the "Award Grants") were made to Nonemployee Directors in each of June 2025 (the "2025 Award Grants") and June 2026 (the "2026 Award Grants"), with each such Award being approved by the Compensation Committee of the Board (the "Compensation Committee") prior to grant and otherwise granted in accordance with the terms and conditions of the Plan.
+
+WHEREAS: Following completion of the stated period of post-Award service required to receive the benefit of the 2025 Award Grants, Company Stock was issued to certain Nonemployee Directors in settlement of certain of the 2025 Award Grants, as listed on Schedule B to these resolutions (the "Issued Stock").
+
+WHEREAS: The Board has determined that each of the Award Grants may constitute a "defective corporate act" (as such term is defined in Section 204(h) of the Delaware General Corporation Law ("DGCL")) as a result of the failure of the Award Grants to have been authorized and effected in accordance with the terms of the Plan prior to the Expiration Date.
+
+2
+
+WHEREAS: The Board has determined that the Issued Stock may constitute "putative stock" (as such term is defined in Section 204(h) of the DGCL).
+
+WHEREAS: The Board has determined that it is advisable and in the best interests of the Company and its stockholders to approve and ratify the Award Grants, and the issuance of the Issued Stock in all respects.
+
+WHEREAS: Pursuant to Section 204(g) of the DGCL, the Company is required to give prompt notice of the ratification to all holders of valid stock, as of a date within 60 days after the adoption of these resolutions, which notice will be deemed to have been given if disclosed in a document publicly filed by the Company with the Securities and Exchange Commission pursuant to §13, §14 or §15(d) of the Securities Exchange Act of 1934, as amended (the "Exchange Act") (such notice, the "Ratification Notice").
+
+WHEREAS: Pursuant to the terms of the Merger Agreement, certain actions contemplated to be taken in respect of amending the Plan and the 2025 Award Grants, the 2026 Award Grants and the Issued Stock may be subject to the consent of Buyer (any such consent, a "Merger Agreement Consent");
+
+WHEREAS: Pursuant to the terms of the Merger Agreement, at the closing of the transactions contemplated by the Merger Agreement (the "Closing"), the outstanding Award Grants and the Issued Stock will be converted into a right to receive cash payments, in each case based on the per share Merger Consideration.
+
+NOW, THEREFORE, BE IT RESOLVED, as follows:
+
+RESOLVED: That the making of the Award Grants and the issuance of the Issued Stock as of the dates and in the numbers specified on Schedule A and Schedule B, respectively, are the potentially defective corporate acts to be ratified.
+
+FURTHER RESOLVED: That the nature of the "failure of authorization" (as defined in Section 204(g) of the DGCL) in respect of the Award Grants and Issued Stock is the failure of the Award Grants to have been authorized and effected in accordance with the terms of the Plan.
+
+FURTHER RESOLVED: That pursuant to Section 204 of the DGCL, the Board hereby authorizes, ratifies and approves the Award Grants, as of the original grant dates, and the issuance of the Issued Stock as of the original issuance dates, and all such Issued Stock shall be considered duly authorized, validly issued, fully paid and non-assessable at the time such Issued Stock was originally issued.
+
+3
+
+FURTHER RESOLVED: That, having received the Merger Agreement Consents, the Plan is hereby amended (i) to extend the term thereof, effective as of the Expiration Date, until the earlier to occur of (A) the Closing, and (B) the next occurring annual meeting of stockholders and (ii) to provide that the currently outstanding 2025 Award Grants and the 2026 Award Grants shall be settled for a right to receive cash (A) in accordance with the terms and conditions of the Merger Agreement or (B) on the settlement date of the applicable Award Grant, if occurring prior to the Closing in an amount determined based on the fair market value of a share on the date of settlement.
+
+FURTHER RESOLVED: That the Chief Executive Officer, Chief Financial Officer, Chief Legal Officer, Chief People and Culture Officer, Chief Revenue and Strategy Officer, Chief Accounting Officer, Executive Vice President - Total Rewards and Executive Vice President and Secretary (collectively, the "Authorized Officers") be, and each of them hereby is, authorized to file pursuant to §13, §14, or §15(d) of the Exchange Act a Ratification Notice disclosing the foregoing ratification.
+
+4
+
+SCHEDULE A
+
+AWARD GRANTS
+
+YEAR
+
+RSUS GRANT DATE
+
+2025 Award Grants
+
+288,000 June 3, 2025
+
+2026 Award Grants
+
+108,804 June 9, 2026
+
+5
+
+SCHEDULE B
+
+COMMON STOCK ISSUED IN SETTLEMENT OF 2025 AWARD GRANTS
+
+DIRECTOR
+
+RSUS ISSUANCE DATE
+
+Richard W. Fisher
+
+24,000 June 9, 2026
+
+Kenneth W. Lowe
+
+24,000 June 9, 2026
+
+Fazal Merchant
+
+24,000 June 9, 2026
+
+Anthony J. Noto
+
+24,000 June 9, 2026
+
+Daniel E. Sanchez
+
+24,000 June 9, 2026
+
+6

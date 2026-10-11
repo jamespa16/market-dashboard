@@ -1,6 +1,6 @@
 import { fetchPrices } from "./prices.js";
 import { getDeals } from "./feeds.js";
-import { ADVISER_FIRMS } from "./advisers.js";
+import { ADVISER_FIRMS, LAW_FIRMS } from "./advisers.js";
 import { resolveTicker } from "./tickers.js";
 import { getInstitutionalHolders } from "./holders.js";
 import { getEarnings } from "./earnings.js";
@@ -31,12 +31,14 @@ async function handleDeals(req, res, url) {
   const acquirer = url.searchParams.get("acquirer") || undefined;
   const adviser = url.searchParams.get("adviser") || undefined;
   const limit = Number(url.searchParams.get("limit")) || 30;
-  const result = await getDeals({ acquirer, adviser, limit });
+  const unconfirmed = ["1", "true"].includes(url.searchParams.get("unconfirmed"));
+  const result = await getDeals({ acquirer, adviser, limit, unconfirmed });
   sendJson(res, 200, result);
 }
 
 async function handleAdvisersList(req, res) {
-  sendJson(res, 200, { advisers: ADVISER_FIRMS });
+  const lawFirms = LAW_FIRMS.map((f) => f.name);
+  sendJson(res, 200, { advisers: [...ADVISER_FIRMS, ...lawFirms], banks: ADVISER_FIRMS, lawFirms });
 }
 
 async function handleTickerResolve(req, res, url) {

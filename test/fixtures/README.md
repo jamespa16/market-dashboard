@@ -57,3 +57,11 @@ Collected 2026-10-11 with `node scripts/collect-fixtures.js /tmp/candidates.json
    and reuse existing `dedupeGroup` slugs where the deal is already present.
 3. `node --test test/fixtures.test.js` validates the schema and prints parser accuracy. Never invent items.
    When the parser improves, raise `BASELINE` in `test/fixtures.test.js` (ratchet; Phase 2 target is 90%).
+
+## SEC ticker map snapshot
+
+`sec/company_tickers.json.gz` is the full, gzipped `https://www.sec.gov/files/company_tickers.json` captured 2026-10-11
+(`curl -A "ma-dashboard/0.1 (contact: <email>)" https://www.sec.gov/files/company_tickers.json | gzip -9`). It is the full
+file (not a subset) so name ambiguity matches production. `test/fixtures.test.js` reads it with `gunzipSync` and runs the
+production pipeline (`src/pipeline.js`) over every item offline: bad-card rate, group recall, over-merges and card-level
+parse accuracy are asserted for the default (high-confidence) cards.
