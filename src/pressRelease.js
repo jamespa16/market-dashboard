@@ -625,7 +625,7 @@ function stripCoverPage(text) {
 }
 
 function cleanText(text) {
-  return stripCoverPage(String(text ?? ""))
+  return stripCoverPage(String(text ?? "").replace(/\r\n?/g, "\n"))
     .replace(/^# source:.*$/m, "")
     .replace(/^EX-99\.\d\s+\d+\s+\S+\s+[^\n]*$/m, "")
     .replace(/\bExhibit\s+99\.\d\b\.?/gi, "")

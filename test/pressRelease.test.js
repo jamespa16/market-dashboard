@@ -241,7 +241,7 @@ test("labels.json covers every fetched filing and is well formed", () => {
     seen.add(l.adsh);
     assert.ok([null, "cash", "stock", "mixed"].includes(l.consideration), l.adsh);
     assert.ok(Array.isArray(l.financialAdvisers) && Array.isArray(l.legalAdvisers), l.adsh);
-    const text = readFileSync(new URL(`${l.adsh}.txt`, FILINGS), "utf8");
+    const text = readFileSync(new URL(`${l.adsh}.txt`, FILINGS), "utf8").replace(/\r\n/g, "\n");
     assert.match(text.split("\n")[0], /^# source: https:\/\/www\.sec\.gov\/Archives\/edgar\/data\/.+ \(.+\)$/);
     assert.ok(text.slice(text.indexOf("\n") + 1).length <= 40000, `${l.adsh} exceeds the 40k cap`);
   }

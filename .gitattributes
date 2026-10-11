@@ -1,0 +1,3 @@
+# Keep LF everywhere (matches .editorconfig) so fixture text parses identically on Windows checkouts.
+* text=auto eol=lf
+*.gz binary
