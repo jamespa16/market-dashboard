@@ -11,8 +11,33 @@
     "src",
     "public"
   ],
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "node --test",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "check": "npm run lint && npm run format:check && npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamespa16/market-dashboard.git"
+  },
+  "keywords": [
+    "m&a",
+    "mergers",
+    "dashboard",
+    "sec",
+    "edgar"
+  ],
   "engines": {
     "node": ">=18"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.5",
+    "globals": "^17.13.0",
+    "prettier": "^3.9.10"
+  }
 }

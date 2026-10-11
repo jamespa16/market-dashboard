@@ -22,12 +22,16 @@ export function stripHtml(str) {
   // Google News wraps its <description> content as HTML-escaped entities
   // (e.g. "&lt;a href=...&gt;"), so decode first, then strip actual tags.
   const decoded = decodeEntities(str);
-  return decodeEntities(decoded.replace(/<[^>]*>/g, "")).replace(/\s+/g, " ").trim();
+  return decodeEntities(decoded.replace(/<[^>]*>/g, ""))
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function matchTag(item, tag) {
   const re = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "i");
-  return item.match(re)?.[1]?.trim();
+  const raw = item.match(re)?.[1]?.trim();
+  // Unwrap <![CDATA[ ... ]]> sections (their contents are literal text).
+  return raw?.replace(/^<!\[CDATA\[([\s\S]*?)\]\]>$/, "$1");
 }
 
 export function parseRssItems(xml) {

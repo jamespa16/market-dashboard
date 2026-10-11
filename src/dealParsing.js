@@ -21,11 +21,31 @@ const PAIR_PATTERNS = [
 // $470 Million"). Strip that off before treating the remainder as a name.
 function stripTrailingDealContext(phrase) {
   return phrase
-    .replace(/\s+(?:for|in)\s+(?:up to\s+|approximately\s+|about\s+)?\$[\d,.]+\s*(?:billion|million|bn|m)?\b.*$/i, "")
+    .replace(
+      /\s+(?:for|in)\s+(?:an?\s+)?(?:up to\s+|approximately\s+|about\s+)?\$[\d,.]+\s*(?:billion|million|bn|m)?\b.*$/i,
+      ""
+    )
     .trim();
 }
 
-const FILLER_WORDS = new Set(["and", "the", "of", "for", "in", "on", "at", "to", "from", "after", "amid", "its", "a", "an", "with", "by"]);
+const FILLER_WORDS = new Set([
+  "and",
+  "the",
+  "of",
+  "for",
+  "in",
+  "on",
+  "at",
+  "to",
+  "from",
+  "after",
+  "amid",
+  "its",
+  "a",
+  "an",
+  "with",
+  "by",
+]);
 
 // Best-effort sanity check that an extracted phrase reads like a company
 // name rather than a fragment of ordinary headline prose (verbs, sentence
@@ -53,7 +73,10 @@ export function extractCompanyPair(title) {
 }
 
 export function cleanSecDisplayName(displayName) {
-  return displayName.replace(/\s*\(CIK\s*\d+\)\s*$/i, "").replace(/\s*\([A-Z.]{1,6}\)\s*$/, "").trim();
+  return displayName
+    .replace(/\s*\(CIK\s*\d+\)\s*$/i, "")
+    .replace(/\s*\([A-Z.]{1,6}\)\s*$/, "")
+    .trim();
 }
 
 export function extractTickerFromSecName(displayName) {
