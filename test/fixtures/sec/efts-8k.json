@@ -1,0 +1,610 @@
+{
+ "took": 887,
+ "timed_out": false,
+ "hits": {
+  "total": {
+   "value": 345,
+   "relation": "eq"
+  },
+  "max_score": 7.229503,
+  "hits": [
+   {
+    "_index": "edgar_file",
+    "_id": "0001104659-26-113904:tm2627097d1_8k.htm",
+    "_score": 7.229503,
+    "_source": {
+     "ciks": [
+      "0001014739"
+     ],
+     "period_ending": "2026-10-05",
+     "file_num": [
+      "001-11993"
+     ],
+     "display_names": [
+      "Option Care Health, Inc.  (OPCH)  (CIK 0001014739)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-10-06",
+     "biz_states": [
+      "IL"
+     ],
+     "sics": [
+      "8082"
+     ],
+     "form": "8-K",
+     "adsh": "0001104659-26-113904",
+     "film_num": [
+      "261442353"
+     ],
+     "biz_locations": [
+      "Bannockburn, IL"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "FORM 8-K",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "1.01",
+      "7.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001140361-26-037767:ef20082009_8k.htm",
+    "_score": 7.2282634,
+    "_source": {
+     "ciks": [
+      "0001005286"
+     ],
+     "period_ending": "2026-09-27",
+     "file_num": [
+      "000-27446"
+     ],
+     "display_names": [
+      "LIFECORE BIOMEDICAL, INC. \\DE\\  (LFCR)  (CIK 0001005286)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-09-28",
+     "biz_states": [
+      "MN"
+     ],
+     "sics": [
+      "2834"
+     ],
+     "form": "8-K",
+     "adsh": "0001140361-26-037767",
+     "film_num": [
+      "261412084"
+     ],
+     "biz_locations": [
+      "Chaska, MN"
+     ],
+     "file_type": "8-K",
+     "ma_i_individual": null,
+     "file_description": "8-K",
+     "inc_states": [
+      "DE"
+     ],
+     "items": [
+      "1.01",
+      "7.01",
+      "9.01"
+     ]
+    }
+   },
+   {
+    "_index": "edgar_file",
+    "_id": "0001140361-26-037451:ef20082551_8ka.htm",
+    "_score": 7.045516,
+    "_source": {
+     "ciks": [
+      "0000798359"
+     ],
+     "period_ending": "2026-09-08",
+     "file_num": [
+      "001-35624"
+     ],
+     "display_names": [
+      "CENTERSPACE  (CSR)  (CIK 0000798359)"
+     ],
+     "xsl": null,
+     "sequence": 1,
+     "root_forms": [
+      "8-K"
+     ],
+     "file_date": "2026-09-23",
+     "biz_states": [
+      "ND"
+     ],
+     "sics": [
+      "6798"
+     ],
+     "form": "8-K/A",
+     "adsh": "0001140361-26-037451",
+     "film_num": [
+      "261401653"
+     ],
+     "biz_locations": [
+      "Minot, ND"
+     ],
+     "file_type": "8-K/A",
+     "ma_i_individual": null,
+     "file_description": "8-K/A",
+     "inc_states": [
+      "ND"
+     ],
+     "items": [
+      "9.01"
+     ]
+    }
+   }
+  ]
+ },
+ "aggregations": {
+  "entity_filter": {
+   "doc_count_error_upper_bound": 0,
+   "sum_other_doc_count": 183,
+   "buckets": [
+    {
+     "key": "Paramount Skydance Corp  (PSKY)  (CIK 0002041610)",
+     "doc_count": 13
+    },
+    {
+     "key": "SYSCO CORP  (SYY)  (CIK 0000096021)",
+     "doc_count": 11
+    },
+    {
+     "key": "Sysco Holdings Corp  (CIK 0002134688)",
+     "doc_count": 11
+    },
+    {
+     "key": "Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)",
+     "doc_count": 8
+    },
+    {
+     "key": "LIFECORE BIOMEDICAL, INC. \\DE\\  (LFCR)  (CIK 0001005286)",
+     "doc_count": 8
+    },
+    {
+     "key": "Proem Acquisition Corp. I  (PAAC, PAACU, PAACW)  (CIK 0002087446)",
+     "doc_count": 8
+    },
+    {
+     "key": "VerifyMe, Inc.  (VRME)  (CIK 0001104038)",
+     "doc_count": 8
+    },
+    {
+     "key": "MODINE MANUFACTURING CO  (MOD)  (CIK 0000067347)",
+     "doc_count": 7
+    },
+    {
+     "key": "PEOPLES BANCORP INC  (PEBO)  (CIK 0000318300)",
+     "doc_count": 7
+    },
+    {
+     "key": "SOUNDTHINKING, INC.  (SSTI)  (CIK 0001351636)",
+     "doc_count": 7
+    },
+    {
+     "key": "Gentherm Inc  (THRM, THRMV)  (CIK 0000903129)",
+     "doc_count": 6
+    },
+    {
+     "key": "Priority Technology Holdings, Inc.  (PRTH, PRTHU)  (CIK 0001653558)",
+     "doc_count": 6
+    },
+    {
+     "key": "C. H. ROBINSON WORLDWIDE, INC.  (CHRW)  (CIK 0001043277)",
+     "doc_count": 5
+    },
+    {
+     "key": "Capital Bancorp Inc  (CBNK)  (CIK 0001419536)",
+     "doc_count": 5
+    },
+    {
+     "key": "Fathom Holdings Inc.  (FTHM)  (CIK 0001753162)",
+     "doc_count": 5
+    },
+    {
+     "key": "Marygold Companies, Inc.  (MGLD)  (CIK 0001005101)",
+     "doc_count": 5
+    },
+    {
+     "key": "Third Coast Bancshares, Inc.  (TCBX)  (CIK 0001781730)",
+     "doc_count": 5
+    },
+    {
+     "key": "AUDDIA INC.  (AUUD)  (CIK 0001554818)",
+     "doc_count": 4
+    },
+    {
+     "key": "Futurewave Acquisition Corp  (FWAC, FWACR, FWACU, FWACW)  (CIK 0002116105)",
+     "doc_count": 4
+    },
+    {
+     "key": "ISABELLA BANK CORP  (ISBA)  (CIK 0000842517)",
+     "doc_count": 4
+    },
+    {
+     "key": "Jasper Therapeutics, Inc.  (JSPR, JSPRW)  (CIK 0001788028)",
+     "doc_count": 4
+    },
+    {
+     "key": "KIMBERLY CLARK CORP  (KMB)  (CIK 0000055785)",
+     "doc_count": 4
+    },
+    {
+     "key": "OceanLight Acquisition Corp  (OCLT, OCLTR, OCLTU, OCLTW)  (CIK 0002137679)",
+     "doc_count": 4
+    },
+    {
+     "key": "Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)",
+     "doc_count": 4
+    },
+    {
+     "key": "RXO, Inc.  (RXO)  (CIK 0001929561)",
+     "doc_count": 4
+    },
+    {
+     "key": "SYNAPTICS Inc  (SYNA)  (CIK 0000817720)",
+     "doc_count": 4
+    },
+    {
+     "key": "UY Scuti Acquisition Corp.  (UYSC, UYSCR, UYSCU)  (CIK 0002036973)",
+     "doc_count": 4
+    },
+    {
+     "key": "AMC ENTERTAINMENT HOLDINGS, INC.  (AMC)  (CIK 0001411579)",
+     "doc_count": 3
+    },
+    {
+     "key": "Aureus Greenway Holdings Inc  (PUSA)  (CIK 0002009312)",
+     "doc_count": 3
+    },
+    {
+     "key": "CENTERSPACE  (CSR)  (CIK 0000798359)",
+     "doc_count": 3
+    }
+   ]
+  },
+  "sic_filter": {
+   "doc_count_error_upper_bound": 0,
+   "sum_other_doc_count": 68,
+   "buckets": [
+    {
+     "key": "6770",
+     "doc_count": 32
+    },
+    {
+     "key": "2834",
+     "doc_count": 25
+    },
+    {
+     "key": "6022",
+     "doc_count": 21
+    },
+    {
+     "key": "6199",
+     "doc_count": 19
+    },
+    {
+     "key": "3714",
+     "doc_count": 15
+    },
+    {
+     "key": "4833",
+     "doc_count": 14
+    },
+    {
+     "key": "7389",
+     "doc_count": 13
+    },
+    {
+     "key": "3674",
+     "doc_count": 12
+    },
+    {
+     "key": "2836",
+     "doc_count": 11
+    },
+    {
+     "key": "5140",
+     "doc_count": 11
+    },
+    {
+     "key": "7372",
+     "doc_count": 11
+    },
+    {
+     "key": "6798",
+     "doc_count": 9
+    },
+    {
+     "key": "4700",
+     "doc_count": 6
+    },
+    {
+     "key": "6021",
+     "doc_count": 6
+    },
+    {
+     "key": "6500",
+     "doc_count": 6
+    },
+    {
+     "key": "3845",
+     "doc_count": 5
+    },
+    {
+     "key": "4731",
+     "doc_count": 5
+    },
+    {
+     "key": "6036",
+     "doc_count": 5
+    },
+    {
+     "key": "6531",
+     "doc_count": 5
+    },
+    {
+     "key": "7374",
+     "doc_count": 5
+    },
+    {
+     "key": "2670",
+     "doc_count": 4
+    },
+    {
+     "key": "2835",
+     "doc_count": 4
+    },
+    {
+     "key": "6411",
+     "doc_count": 4
+    },
+    {
+     "key": "7370",
+     "doc_count": 4
+    },
+    {
+     "key": "1311",
+     "doc_count": 3
+    },
+    {
+     "key": "3533",
+     "doc_count": 3
+    },
+    {
+     "key": "3730",
+     "doc_count": 3
+    },
+    {
+     "key": "3760",
+     "doc_count": 3
+    },
+    {
+     "key": "4841",
+     "doc_count": 3
+    },
+    {
+     "key": "7830",
+     "doc_count": 3
+    }
+   ]
+  },
+  "biz_states_filter": {
+   "doc_count_error_upper_bound": 0,
+   "sum_other_doc_count": 6,
+   "buckets": [
+    {
+     "key": "NY",
+     "doc_count": 55
+    },
+    {
+     "key": "TX",
+     "doc_count": 48
+    },
+    {
+     "key": "CA",
+     "doc_count": 37
+    },
+    {
+     "key": "FL",
+     "doc_count": 34
+    },
+    {
+     "key": "MD",
+     "doc_count": 15
+    },
+    {
+     "key": "MN",
+     "doc_count": 15
+    },
+    {
+     "key": "MI",
+     "doc_count": 14
+    },
+    {
+     "key": "OH",
+     "doc_count": 13
+    },
+    {
+     "key": "MA",
+     "doc_count": 12
+    },
+    {
+     "key": "NC",
+     "doc_count": 11
+    },
+    {
+     "key": "NJ",
+     "doc_count": 10
+    },
+    {
+     "key": "CO",
+     "doc_count": 8
+    },
+    {
+     "key": "GA",
+     "doc_count": 8
+    },
+    {
+     "key": "IL",
+     "doc_count": 8
+    },
+    {
+     "key": "WI",
+     "doc_count": 7
+    },
+    {
+     "key": "PA",
+     "doc_count": 5
+    },
+    {
+     "key": "UT",
+     "doc_count": 5
+    },
+    {
+     "key": "NV",
+     "doc_count": 4
+    },
+    {
+     "key": "AZ",
+     "doc_count": 3
+    },
+    {
+     "key": "KS",
+     "doc_count": 3
+    },
+    {
+     "key": "ND",
+     "doc_count": 3
+    },
+    {
+     "key": "SC",
+     "doc_count": 3
+    },
+    {
+     "key": "VA",
+     "doc_count": 3
+    },
+    {
+     "key": "DE",
+     "doc_count": 2
+    },
+    {
+     "key": "E9",
+     "doc_count": 2
+    },
+    {
+     "key": "ID",
+     "doc_count": 2
+    },
+    {
+     "key": "KY",
+     "doc_count": 2
+    },
+    {
+     "key": "TN",
+     "doc_count": 2
+    },
+    {
+     "key": "CT",
+     "doc_count": 1
+    },
+    {
+     "key": "L2",
+     "doc_count": 1
+    }
+   ]
+  },
+  "form_filter": {
+   "doc_count_error_upper_bound": 0,
+   "sum_other_doc_count": 0,
+   "buckets": [
+    {
+     "key": "8-K",
+     "doc_count": 345
+    }
+   ]
+  }
+ },
+ "query": {
+  "_source": {
+   "exclude": [
+    "doc_text"
+   ]
+  },
+  "query": {
+   "bool": {
+    "must": [
+     {
+      "match_phrase": {
+       "doc_text": "merger agreement"
+      }
+     }
+    ],
+    "must_not": [],
+    "should": [],
+    "filter": [
+     {
+      "terms": {
+       "root_forms": [
+        "8-K"
+       ]
+      }
+     },
+     {
+      "range": {
+       "file_date": {
+        "gte": "2026-09-20",
+        "lte": "2026-10-10"
+       }
+      }
+     }
+    ]
+   }
+  },
+  "from": 0,
+  "size": 100,
+  "aggregations": {
+   "form_filter": {
+    "terms": {
+     "field": "root_forms",
+     "size": 30
+    }
+   },
+   "entity_filter": {
+    "terms": {
+     "field": "display_names.raw",
+     "size": 30
+    }
+   },
+   "sic_filter": {
+    "terms": {
+     "field": "sics",
+     "size": 30
+    }
+   },
+   "biz_states_filter": {
+    "terms": {
+     "field": "biz_states",
+     "size": 30
+    }
+   }
+  }
+ }
+}

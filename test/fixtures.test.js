@@ -1,7 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { extractCompanyPair } from "../src/dealParsing.js";
+import { extractCompanyPair, classifyHeadline } from "../src/dealParsing.js";
 import { googleItemToDeal, secHitToDeal } from "../src/feeds.js";
 import { dedupeAndMerge } from "../src/dedupe.js";
 
@@ -9,7 +9,7 @@ const fixtures = JSON.parse(readFileSync(new URL("./fixtures/deals.json", import
 
 // Parser accuracy ratchet. Measured value rounded down to the nearest 5%.
 // This must only ever go UP. Phase 2 target is 90% (see ROADMAP.md).
-const BASELINE = 0.45;
+const BASELINE = 0.85;
 
 // Dedupe ratchet: share of cards that are duplicates or non-deals. Must only ever go DOWN.
 const DEDUPE_CEILING = 0.65;
@@ -110,6 +110,36 @@ test("parser accuracy on labeled Google News deals", (t) => {
   );
   for (const m of misses) t.diagnostic(`miss ${m}`);
   assert.ok(accuracy >= BASELINE, `accuracy ${(accuracy * 100).toFixed(1)}% fell below baseline ${BASELINE * 100}%`);
+});
+
+// Classifier floors: measured values rounded down. Ratchet: only ever raise them.
+const MIN_DEAL_RECALL = 0.95;
+const MIN_NONDEAL_REJECTED = 0.9;
+
+test("headline classifier on labeled Google News items", (t) => {
+  const items = fixtures.items.filter((i) => i.source === "google-news");
+  let tp = 0;
+  let fp = 0;
+  let fn = 0;
+  let tn = 0;
+  const errors = [];
+  for (const item of items) {
+    const verdict = classifyHeadline(item.title);
+    if (verdict.isDeal && item.label.isDeal) tp++;
+    else if (verdict.isDeal) (fp++, errors.push(`false positive ${item.id}: "${item.title}" (${verdict.reason})`));
+    else if (item.label.isDeal) (fn++, errors.push(`false negative ${item.id}: "${item.title}" (${verdict.reason})`));
+    else tn++;
+  }
+  const precision = tp / (tp + fp);
+  const recall = tp / (tp + fn);
+  const rejected = tn / (tn + fp);
+  t.diagnostic(
+    `classifier: precision ${(precision * 100).toFixed(1)}% (${tp}/${tp + fp}), recall ${(recall * 100).toFixed(1)}% ` +
+      `(${tp}/${tp + fn}), non-deals rejected ${(rejected * 100).toFixed(1)}% (${tn}/${tn + fp})`
+  );
+  for (const e of errors) t.diagnostic(e);
+  assert.ok(recall >= MIN_DEAL_RECALL, `recall ${recall} below ${MIN_DEAL_RECALL}`);
+  assert.ok(rejected >= MIN_NONDEAL_REJECTED, `non-deal rejection ${rejected} below ${MIN_NONDEAL_REJECTED}`);
 });
 
 // Rebuilds the raw feed item each fixture came from and runs it through the same mapping as src/feeds.js.

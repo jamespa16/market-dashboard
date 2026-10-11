@@ -1,0 +1,146 @@
+# source: https://www.sec.gov/Archives/edgar/data/1907108/000119312526407555/lxeo-20260929.htm (primary document)
+0001907108false00019071082026-09-292026-09-29
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 29, 2026
+
+Lexeo Therapeutics, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-41855
+
+85-4012572
+
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+345 Park Avenue South, Floor 6
+
+New York, New York
+
+10010
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant's Telephone Number, Including Area Code: 212 547-9879
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.0001 par value per share
+
+LXEO
+
+Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Introductory Note
+
+On September 29, 2026, Lexeo Therapeutics, Inc. ("Lexeo" or the "Company") completed the previously announced acquisition of Mantle Therapeutics Inc. ("Mantle"), pursuant to the Agreement and Plan of Merger dated September 16, 2026 (the "Merger Agreement") by and among the Company, Mantle and Magma Merger Sub Inc., a Delaware corporation and a wholly-owned subsidiary of the Company ("Merger Sub"), and Shareholder Representative Services LLC, a Colorado limited liability company, solely in its capacity as representative, agent and attorney in fact of the Sellers. Pursuant to the Merger Agreement, Merger Sub was merged with and into Mantle (the "Merger"), with Mantle continuing as the surviving corporation and wholly owned subsidiary of Lexeo.
+
+The descriptions of the Merger Agreement and the transactions contemplated thereby (including, without limitation, the Merger) in this Current Report on Form 8-K are only a summary, do not purport to be complete and are subject to, and qualified in their entirety by reference to, the full text of the Merger Agreement, a copy of which was filed as Exhibit 2.1 to the Company's Current Report on Form 8-K filed with the Securities and Exchange Commission (the "SEC") on September 22, 2026, which is incorporated herein by reference.
+
+Item 2.01 Completion of Acquisition or Disposal of Assets.
+
+At the effective time of the Merger (the "Effective Time"), each outstanding share of Mantle capital stock (other than shares held by Mantle as treasury shares, shares held by Lexeo or Merger Sub, and Dissenting Shares) was converted into the right to receive an aggregate upfront purchase price consisting of: (i) $5,300,000 in cash, subject to certain adjustments; and (ii) $3,000,000 in shares of Lexeo common stock, par value $0.0001 per share (the "Common Stock"). The Common Stock issued at the Effective Time is not being registered under the Securities Act of 1933, as amended (the "Securities Act"), or any state securities laws, and is issued in reliance on the exemption from registration provided by Section 4(a)(2) under the Securities Act and/or Regulation D promulgated thereunder for transactions not involving a public offering.
+
+Immediately prior to the Effective Time, each outstanding share of Mantle restricted stock vested in full and was cancelled in exchange for the right to receive the same consideration as each share of Mantle capital stock above, subject to withholding. Immediately prior to the Effective Time, each outstanding simple agreement for future equity ("SAFE") of Mantle was cancelled in exchange for the applicable SAFE consideration, determined in accordance with the liquidity event provisions of each SAFE. Each outstanding convertible promissory note of Mantle was cancelled upon payment of the payoff amount determined under the Merger Agreement.
+
+In addition to the consideration payable at closing, the Merger Agreement provides for the following contingent payments, none of which is guaranteed and each of which may never become payable:
+
+•
+
+Additional Cash Payment. An additional one-time aggregate cash payment of $1,000,000, payable only upon the achievement of certain events.
+
+•
+
+Milestone Payments. Up to an aggregate of $12,000,000 payable upon the achievement of specified development and regulatory milestones relating to Mantle's product candidates, over a milestone term of 12 years. Certain of the milestone payments are payable in cash, and certain of the milestone payments are payable in shares of Common Stock valued using a thirty-day trailing volume-weighted average price based on the date of achievement such milestone.
+
+Lexeo makes no guarantees that it will achieve any milestone, and the Merger Agreement does not require Lexeo to devote any particular level of resources to the development or commercialization of Mantle's product candidates beyond the commercially reasonable efforts standard set forth in the Merger Agreement.
+
+Item 3.02 Unregistered Sales of Equity Securities.
+
+The information set forth in Item 2.01 of this Current Report on Form 8-K regarding the issuance of shares of the Company's Common Stock in connection with the Merger is incorporated herein by reference.
+
+The shares of Common Stock issued in connection with the Merger were not registered under the Securities Act of 1933, or any applicable state securities laws and were issued in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act and/or Regulation D promulgated thereunder.
+
+Forward Looking Statements
+
+This report contains certain forward-looking statements regarding the business of Lexeo that are not a description of historical facts within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include statements regarding the achievement of any contingent consideration events by the Company under the Merger Agreement. Words such as "may," "might," "will," "objective," "intend," "should," "could," "can," "would," "expect," "believe," "design," "estimate," "predict," "potential," "develop," "plan" or the negative of these terms, and similar expressions, or statements regarding intent, belief, or current expectations, are forward-looking statements. While Lexeo believes these forward-looking statements are reasonable, undue reliance should not be placed on any such forward-looking statements. These forward-looking statements are based upon current information available to the company as well as certain estimates and assumptions and are subject to various risks and uncertainties (including, without limitation, those set forth in Lexeo's filings with the U.S. Securities and Exchange Commission (SEC)), many of which are beyond the company's control and subject to change. Actual results could be materially different from those indicated by such forward-looking statements as a result of many factors, including but not limited to: risks and uncertainties related to global macroeconomic conditions and related volatility; expectations regarding the initiation, progress, and expected results of Lexeo's preclinical studies, clinical trials and research and development programs; the unpredictable relationship between preclinical study results and clinical study results; delays in submission of regulatory filings or failure to receive regulatory approval; liquidity and capital resources; and other risks and uncertainties identified in Lexeo's Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2026, filed with the SEC on August 12, 2026, and subsequent future filings Lexeo may make with the SEC. New risks and uncertainties may emerge from time to time, and it is not possible to predict all risks and uncertainties. Lexeo claims the protection of the Safe Harbor contained in the Private Securities Litigation Reform Act of 1995 for forward-looking statements. Lexeo expressly disclaims any obligation to update or alter any statements whether as a result of new information, future events or otherwise, except as required by law.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+Number
+
+Description
+
+2.1*+
+
+Agreement and Plan of Merger, dated as of September 16, 2026 by and among Lexeo Therapeutics, Inc., Mantle Therapeutics Inc., Magma Merger Sub Inc., and Shareholder Representative Services LLC (incorporated by reference to Exhibit 2.1 to the Company's Current Report on Form 8-K filed September 22, 2026)
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+* Certain exhibits, schedules, and annexes have been omitted pursuant to Item 601(a)(5) of Regulation S-K. Lexeo agrees to furnish supplementally a copy of any omitted exhibits, schedules, and annexes to the SEC upon its request.
+
++ Portions of this exhibit (indicated by [***]) have been omitted because the registrant has determined that the information is both not material and is the type that the registrant treats as private or confidential.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Lexeo Therapeutics, Inc.
+
+Date:
+
+September 29, 2026
+
+By:
+
+/s/ R. Nolan Townsend
+
+R. Nolan Townsend, Chief Executive Officer

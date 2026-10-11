@@ -1,0 +1,240 @@
+# source: https://www.sec.gov/Archives/edgar/data/834365/000119312526415012/d753652d8k.htm (primary document)
+--12-31 false 0000834365 0000834365 2026-10-06 2026-10-06
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 6, 2026
+
+BioLife Solutions, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-36362 94-3076866
+
+(State or other jurisdiction of
+
+incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer Identification No.)
+
+3303 Monte Villa Parkway,
+
+Bothell, WA 98021
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: (425) 402-1400
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading symbol
+
+Name of exchange on which registered
+
+Common Stock, par value $0.001 per share BLFS The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Explanatory Note
+
+On October 6, 2026, the previously announced acquisition of BioLife Solutions, Inc., a Delaware corporation ("BioLife"), by Repligen Corporation, a Delaware corporation ("Repligen"), was completed, pursuant to the Agreement and Plan of Merger, dated as of July 21, 2026 (the "Merger Agreement"), by and among BioLife, Repligen, Bravo Merger Sub I, Inc., a Delaware corporation and wholly owned subsidiary of Repligen ("Merger Sub 1"), and Bravo Merger Sub II, LLC, a Delaware limited liability company and wholly owned subsidiary of Repligen ("Merger Sub 2").
+
+Pursuant to the Merger Agreement, on October 6, 2026, Merger Sub 1 merged with and into BioLife (the "First Merger"), with BioLife surviving the First Merger as a direct, wholly owned subsidiary of Repligen, and immediately following the First Merger, BioLife merged with and into Merger Sub 2 (the "Second Merger," and, together with the First Merger, the "Mergers"), with Merger Sub 2 surviving the Second Merger as a direct, wholly owned subsidiary of Repligen.
+
+The Merger Agreement and the transactions contemplated thereby, including the Mergers, were previously described in the definitive proxy statement of BioLife, dated as of and filed with the Securities and Exchange Commission (the "SEC") on September 4, 2026 (as supplemented, the "Proxy Statement") and the Registration Statement on Form S-4 of Repligen (Registration No. 333-298546), in the form in which it was declared effective by the SEC on September 4, 2026.
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets.
+
+The information set forth in the "Explanatory Note" of this Current Report on Form 8-K is incorporated by reference into this Item 2.01.
+
+At the effective time of the First Merger (the "First Merger Effective Time"), each share of BioLife's common stock, par value $0.001 per share ("BioLife Common Stock"), issued and outstanding immediately prior to the First Merger Effective Time (other than (i) any shares that were held by BioLife in treasury or owned by Repligen, Merger Sub 1 or Merger Sub 2 (the "Excluded Shares") and (ii) shares with respect to which appraisal rights were properly exercised and perfected, and were not withdrawn, in accordance with Delaware law (the "Dissenting Shares")) (the "BioLife Shares") converted automatically into the right to receive (A) 0.1442 validly issued, fully paid and nonassessable shares of Repligen common stock (such shares of Repligen common stock, the "Stock Consideration") and (B) $11.25 in cash, without interest (the "Cash Consideration" and together with the Stock Consideration, the "Merger Consideration"). No fractional shares of Repligen common stock were issued in the Mergers, and stockholders of BioLife received cash in lieu of any fractional shares as part of the Merger Consideration, as specified in the Merger Agreement.
+
+Immediately prior to the First Merger Effective Time:
+
+•
+
+options to acquire shares of BioLife Common Stock ("BioLife Options") outstanding immediately prior to the First Merger Effective Time, whether vested or unvested, became fully vested and were cancelled in exchange for a payment to the holder thereof in shares of BioLife Common Stock equal to (i) the number of shares of BioLife Common Stock subject to such BioLife Options minus (ii) a number of any shares of BioLife Common Stock equal in value to the aggregate exercise price thereof (net of any shares of BioLife Common Stock equal in value to any applicable tax to be deducted or withheld in respect thereof);
+
+•
+
+awards of restricted stock units of BioLife that were subject solely to time-based vesting ("BioLife RSUs") outstanding immediately prior to the First Merger Effective Time were accelerated, vested in full, and were settled and paid to the holder thereof in shares of BioLife Common Stock (net of any shares of BioLife Common Stock equal in value to any applicable tax to be deducted or withheld in respect thereof);
+
+•
+
+awards of restricted stock units of BioLife that were subject to performance-based vesting ("BioLife PSUs") outstanding immediately prior to the First Merger Effective Time were accelerated, vested in full, and were settled and paid to the holder thereof in shares of BioLife Common Stock (assuming the greater of target or actual (measured as of the latest practicable date prior to the First Merger Effective Time) achievement of the applicable performance goals and net of any shares of BioLife Common Stock equal in value to any applicable tax to be deducted or withheld in respect thereof); and
+
+•
+
+awards of outstanding unvested restricted stock of BioLife ("BioLife RSAs") were accelerated, vested in full, and were released to the holder thereof in shares of BioLife Common Stock (net of any shares of BioLife Common Stock equal in value to any applicable tax to be deducted or withheld in respect thereof).
+
+All shares of BioLife Common Stock issuable pursuant to the BioLife Options, BioLife RSUs, BioLife PSUs and BioLife RSAs as provided above converted automatically into the right to receive the Merger Consideration as of the First Merger Effective Time.
+
+The foregoing summary does not purport to be a complete description and is qualified in its entirety by reference to the full text of the Merger Agreement, which is attached as Exhibit 2.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+The Merger Agreement has been attached as an exhibit to this Current Report on Form 8-K to provide investors and security holders with information regarding its terms. It is not intended to provide any other factual information about BioLife or Repligen or to modify or supplement any factual disclosures about BioLife or Repligen in their public reports filed with the SEC. The Merger Agreement includes representations, warranties and covenants of BioLife and Repligen made solely for the purposes of the Merger Agreement, which may be subject to important qualifications and limitations agreed to by BioLife and Repligen in connection with the negotiated terms of the Merger Agreement. Moreover, some of those representations and warranties may not be accurate or complete as of any specified date, and may be subject to certain disclosures between the parties and a contractual standard of materiality different from those generally applicable to BioLife's or Repligen's SEC filings. In addition, the representations and warranties were made for purposes of allocating risk among the parties to the Merger Agreement and should not be relied upon as establishing factual matters.
+
+Item 3.01
+
+Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+
+The disclosure under the "Explanatory Note" of this Current Report on Form 8-K is incorporated by reference into this Item 3.01.
+
+As a result of the Mergers, BioLife has ceased to exist as a separate legal entity and therefore no longer fulfills the listing requirements of The Nasdaq Capital Market ("Nasdaq"). In connection with the consummation of the Mergers, on October 5, 2026, BioLife notified Nasdaq that it anticipates that the Mergers will close prior to the opening of trading on October 6, 2026 and requested that Nasdaq (i) halt trading of BioLife Common Stock following closing of the after-market trading session at or about 8:00 p.m., Eastern Time, on October 5, 2026, (ii) subject to BioLife's confirmation of closing of the Mergers on October 6, 2026, suspend trading of BioLife Common Stock as of the close of business on October 6, 2026, and (iii) subject to BioLife's confirmation of closing of the Mergers on October 6, 2026, file with the SEC a Notification of Removal from Listing and/or Registration under Section 12(b) of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), on Form 25 to effect the delisting of BioLife Common Stock from Nasdaq and to deregister BioLife Common Stock under Section 12(b) of the Exchange Act. As a result, BioLife Common Stock will not continue to be listed on Nasdaq. On October 6, 2026, BioLife notified Nasdaq that the Mergers had closed.
+
+In addition, BioLife intends to file with the SEC a Certification and Notice of Termination of Registration on Form 15 with respect to BioLife Common Stock requesting the deregistration of BioLife Common Stock under Section 12(g) of the Exchange Act and the corresponding immediate suspension of BioLife's reporting obligations under Sections 13 and 15(d) of the Exchange Act as promptly as practicable, and to cease filing any further periodic reports with respect to BioLife since it no longer exists as a public company.
+
+Item 3.03
+
+Material Modification to Rights of Security Holders.
+
+At the First Merger Effective Time, as a result of the consummation of the First Merger, each holder of the BioLife Shares outstanding immediately prior to the First Merger Effective Time (other than the Excluded Shares, which were cancelled as of the First Merger Effective Time) ceased to have any rights as a stockholder of BioLife (other than (i) in the case of BioLife Shares other than the Dissenting Shares, the right to receive the Merger Consideration for such stockholder's BioLife Shares and (ii) in the case of Dissenting Shares only, the right to receive only the payment provided by Section 262 of the DGCL in respect of such Dissenting Shares).
+
+The disclosures under the "Explanatory Note" and Items 2.01, 3.01 and 5.03 of this Current Report on Form 8-K are incorporated by reference into this Item 3.03.
+
+Item 5.01
+
+Changes in Control of Registrant.
+
+The disclosures under the "Explanatory Note" and Items 2.01, 3.01, 3.03, 5.02 and 5.03 of this Current Report on Form 8-K are incorporated by reference into this Item 5.01.
+
+As a result of the consummation of the Mergers, a change in control of BioLife occurred, and BioLife became a wholly owned subsidiary of Repligen.
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+The disclosures under the "Explanatory Note" and Item 2.01 of this Current Report on Form 8-K are incorporated by reference into this Item 5.02.
+
+Pursuant to the Merger Agreement, effective as of the First Merger Effective Time, each of Roderick de Greef, Cathy Coste, Amy DuRoss, Rachel Ellingson, Joydeep Goswami, MBA, PhD, Tony Hunt and Tim Moore, comprising all of the members of BioLife's board of directors, ceased serving as a member of BioLife's board of directors and each committee thereof. At the First Merger Effective Time, in accordance with the terms of the Merger Agreement, each of the directors and officers of Merger Sub 1 immediately prior to the First Merger Effective Time became the directors and officers of BioLife.
+
+Effective as of the First Merger Effective Time, each of Roderick de Greef, Troy Wichterman, Aby J. Mathew, Todd Berard and Sean Warner, comprising all of BioLife's named executive officers, resigned from their respective positions with BioLife.
+
+Item 5.03
+
+Amendments to Articles of Incorporation or Bylaws; Change of Fiscal Year.
+
+Pursuant to the Merger Agreement, effective as of the First Merger Effective Time, the amended and restated certificate of incorporation of BioLife, as amended, and the amended and restated bylaws of BioLife, were each amended and restated in their entirety, as set forth in Exhibits 3.1 and 3.2, respectively, to this Current Report on Form 8-K, which are incorporated by reference into this Item 5.03.
+
+The disclosures under the "Explanatory Note" and Item 2.01 of this Current Report on Form 8-K are incorporated by reference into this Item 5.03.
+
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+
+BioLife held a special meeting of its stockholders (the "Special Meeting") on October 5, 2026, to vote on the three proposals described in the Proxy Statement. As disclosed in the Proxy Statement, as of the close of business on September 3, 2026, the record date for determining stockholders entitled to notice of and to vote at the Special Meeting (the "Record Date"), there were 48,923,333 shares of BioLife Common Stock, outstanding and entitled to vote at the Special Meeting. A total of 40,994,595 shares of BioLife Common Stock (representing approximately 83.79% of the shares of BioLife Common Stock outstanding on the Record Date and entitled to vote at the Special Meeting) were present virtually or represented by proxy at the Special Meeting, constituting a quorum for the Special Meeting.
+
+The final voting results for each of the proposals submitted to a vote of BioLife's stockholders at the Special Meeting are as follows:
+
+Proposal 1 - Adoption of the Merger Agreement: The stockholders of BioLife adopted the Merger Agreement, pursuant to which Repligen acquired BioLife via the Mergers. The voting results are set forth in the table immediately below:
+
+For
+
+Against
+
+Abstain
+
+40,910,337 83,451 807
+
+Proposal 2 - Advisory Vote (Non-binding) Vote on Merger-Related Compensation for Named Executive Officers: The stockholders of BioLife approved, on an advisory (non-binding) basis, the compensation that may be paid or become payable to BioLife's named executive officers identified in the Proxy Statement that is based on or otherwise relates to the Merger Agreement and the transactions contemplated by the Merger Agreement. The voting results are set forth in the table immediately below:
+
+For
+
+Against
+
+Abstain
+
+35,037,565 5,914,889 42,141
+
+Proposal 3 - Adjournment of the Special Meeting: The stockholders of BioLife approved a proposal to adjourn the Special Meeting to a later date or dates, if necessary or appropriate, including to solicit additional proxies if there were insufficient votes to adopt the Merger Agreement at the time of the Special Meeting. Although this proposal was approved by the stockholders of BioLife, because there were sufficient votes represented at the time of the Special Meeting to approve the proposal to adopt the Merger Agreement, this proposal to approve the adjournment of the Special Meeting is moot. The voting results are set forth in the table immediately below:
+
+For
+
+Against
+
+Abstain
+
+35,145,379 5,562,965 286,251
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No.
+
+Description of Exhibit
+
+2.1* Agreement and Plan of Merger, dated as of July 21, 2026, by and among BioLife Solutions, Inc., Repligen Corporation, Bravo Merger Sub I, Inc., and Bravo Merger Sub II, LLC (incorporated by reference to Exhibit 2.1 to the Current Report on Form 8-K filed by BioLife with the SEC on July 22, 2026)
+
+3.1 Amended and Restated Certificate of Incorporation of BioLife Solutions, Inc.
+
+3.2 Amended and Restated Bylaws of BioLife Solutions, Inc.
+
+104 Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document
+
+*
+
+Portions of this Exhibit have been omitted pursuant to Item 601(a)(5) of Regulation S-K under the Securities Act of 1933, as amended. BioLife will furnish copies of any omitted exhibits and schedules to the SEC upon its request; provided, that BioLife may request confidential treatment pursuant to Rule 24b-2 of the Exchange Act for any exhibits or schedules so furnished.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+BioLife Solutions, Inc.
+
+Date: October 6, 2026
+
+By:
+
+/s/ Troy Wichterman
+
+Name: Troy Wichterman
+
+Title: Chief Financial Officer

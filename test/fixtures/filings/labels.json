@@ -1,0 +1,599 @@
+[
+  {
+    "adsh": "0001104659-26-113904",
+    "acquirer": "Clayton, Dubilier & Rice and McKesson",
+    "target": "Option Care Health",
+    "dealValueUsd": 5800000000,
+    "perSharePrice": 32.05,
+    "consideration": null,
+    "expectedClose": "first half of calendar year 2027",
+    "financialAdvisers": [
+      "Centerview Partners",
+      "Bank of America",
+      "Barclays",
+      "Goldman Sachs",
+      "Jefferies",
+      "Wells Fargo"
+    ],
+    "legalAdvisers": [
+      "Kirkland & Ellis",
+      "Debevoise & Plimpton",
+      "Davis Polk & Wardwell",
+      "Reed Smith"
+    ],
+    "acquirerAlt": "CD&R and McKesson"
+  },
+  {
+    "adsh": "0001140361-26-037767",
+    "acquirer": "Webster Equity Partners",
+    "target": "Lifecore Biomedical",
+    "dealValueUsd": 663700000,
+    "perSharePrice": 6.28,
+    "consideration": "cash",
+    "expectedClose": "end of the fourth quarter 2026",
+    "financialAdvisers": [
+      "Bourne Capital Partners",
+      "Craig-Hallum Capital Group",
+      "Morgan Stanley"
+    ],
+    "legalAdvisers": [
+      "Ballard Spahr",
+      "Zukerman Gore Brandeis & Crossman",
+      "Goodwin Procter"
+    ]
+  },
+  {
+    "adsh": "0001731122-26-001330",
+    "acquirer": "Twin Vee PowerCats",
+    "target": "USFM",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": null,
+    "expectedClose": "fourth quarter of 2026 or the first quarter of 2027",
+    "financialAdvisers": [
+      "Houlihan Capital"
+    ],
+    "legalAdvisers": [
+      "Loeb & Loeb",
+      "Sheppard Mullin Richter & Hampton"
+    ]
+  },
+  {
+    "adsh": "0001140361-26-036855",
+    "acquirer": "Bank7",
+    "target": "Century Financial Services",
+    "dealValueUsd": 137300000,
+    "perSharePrice": null,
+    "consideration": "mixed",
+    "expectedClose": "fourth quarter of 2026",
+    "financialAdvisers": [
+      "Keefe, Bruyette & Woods",
+      "MJC Partners"
+    ],
+    "legalAdvisers": [
+      "Nelson Mullins Riley & Scarborough",
+      "Otteson Shapiro"
+    ],
+    "acquirerAlt": "Bank7 Corp."
+  },
+  {
+    "adsh": "0001419536-26-000145",
+    "acquirer": "Peoples Bancorp",
+    "target": "Capital Bancorp",
+    "dealValueUsd": 728100000,
+    "perSharePrice": 43.75,
+    "consideration": "stock",
+    "expectedClose": "first half of 2027",
+    "financialAdvisers": [
+      "Raymond James",
+      "Stephens"
+    ],
+    "legalAdvisers": [
+      "Dinsmore & Shohl",
+      "Squire Patton Boggs"
+    ]
+  },
+  {
+    "adsh": "0000318300-26-000205",
+    "acquirer": "Peoples Bancorp",
+    "target": "Capital Bancorp",
+    "dealValueUsd": 728100000,
+    "perSharePrice": 43.75,
+    "consideration": "stock",
+    "expectedClose": "first half of 2027",
+    "financialAdvisers": [
+      "Raymond James",
+      "Stephens"
+    ],
+    "legalAdvisers": [
+      "Dinsmore & Shohl",
+      "Squire Patton Boggs"
+    ]
+  },
+  {
+    "adsh": "0001193125-26-413124",
+    "acquirer": "Schneider Electric",
+    "target": "PTC",
+    "dealValueUsd": 22600000000,
+    "perSharePrice": 205,
+    "consideration": "cash",
+    "expectedClose": null,
+    "financialAdvisers": [
+      "Morgan Stanley",
+      "Goldman Sachs",
+      "Evercore"
+    ],
+    "legalAdvisers": [
+      "Debevoise & Plimpton",
+      "Paul, Weiss, Rifkind, Wharton & Garrison"
+    ]
+  },
+  {
+    "adsh": "0001140361-26-038548",
+    "acquirer": "C.H. Robinson",
+    "target": "RXO",
+    "dealValueUsd": 5800000000,
+    "perSharePrice": 30.25,
+    "consideration": "mixed",
+    "expectedClose": "first half of 2027",
+    "financialAdvisers": [
+      "Morgan Stanley",
+      "Goldman Sachs"
+    ],
+    "legalAdvisers": [
+      "Gibson, Dunn & Crutcher",
+      "Paul, Weiss, Rifkind, Wharton & Garrison"
+    ]
+  },
+  {
+    "adsh": "0001193125-26-413203",
+    "acquirer": "C.H. Robinson",
+    "target": "RXO",
+    "dealValueUsd": 5800000000,
+    "perSharePrice": 30.25,
+    "consideration": "mixed",
+    "expectedClose": "first half of 2027",
+    "financialAdvisers": [
+      "Morgan Stanley",
+      "Goldman Sachs"
+    ],
+    "legalAdvisers": [
+      "Gibson, Dunn & Crutcher",
+      "Paul, Weiss, Rifkind, Wharton & Garrison"
+    ]
+  },
+  {
+    "adsh": "0001193125-26-406024",
+    "acquirer": "Transom Capital Group",
+    "target": "SoundThinking",
+    "dealValueUsd": 114000000,
+    "perSharePrice": 8,
+    "consideration": "cash",
+    "expectedClose": "fourth quarter of 2026",
+    "financialAdvisers": [
+      "Tidal Partners"
+    ],
+    "legalAdvisers": [
+      "Cooley",
+      "Kirkland & Ellis"
+    ]
+  },
+  {
+    "adsh": "0001140361-26-038294",
+    "acquirer": "onsemi",
+    "target": "Synaptics",
+    "dealValueUsd": 5700000000,
+    "perSharePrice": 123,
+    "consideration": "cash",
+    "expectedClose": "mid-2027",
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001140361-26-038301",
+    "acquirer": "onsemi",
+    "target": "Synaptics",
+    "dealValueUsd": 5700000000,
+    "perSharePrice": 123,
+    "consideration": "cash",
+    "expectedClose": "mid-2027",
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001213900-26-101651",
+    "acquirer": "WD Capital Partners",
+    "target": "Priority Technology Holdings",
+    "dealValueUsd": 1600000000,
+    "perSharePrice": 8.05,
+    "consideration": "cash",
+    "expectedClose": "first half of 2027",
+    "financialAdvisers": [
+      "Barclays"
+    ],
+    "legalAdvisers": [
+      "Paul, Weiss, Rifkind, Wharton & Garrison",
+      "McDermott Will & Schulte",
+      "Nixon Peabody",
+      "Latham & Watkins"
+    ],
+    "acquirerAlt": "Investor Group led by Thomas Priore"
+  },
+  {
+    "adsh": "0001104659-26-114571",
+    "acquirer": "Viatris",
+    "target": "Pacira BioSciences",
+    "dealValueUsd": 1650000000,
+    "perSharePrice": 36.5,
+    "consideration": "cash",
+    "expectedClose": "end of 2026",
+    "financialAdvisers": [
+      "Morgan Stanley",
+      "Centerview Partners",
+      "Goldman Sachs"
+    ],
+    "legalAdvisers": [
+      "Cravath, Swaine & Moore",
+      "Ashurst Perkins Coie"
+    ]
+  },
+  {
+    "adsh": "0001140361-26-039024",
+    "acquirer": "Viatris",
+    "target": "Pacira BioSciences",
+    "dealValueUsd": 1650000000,
+    "perSharePrice": 36.5,
+    "consideration": "cash",
+    "expectedClose": "end of 2026",
+    "financialAdvisers": [
+      "Morgan Stanley",
+      "Centerview Partners",
+      "Goldman Sachs"
+    ],
+    "legalAdvisers": [
+      "Cravath, Swaine & Moore",
+      "Ashurst Perkins Coie"
+    ]
+  },
+  {
+    "adsh": "0001140361-26-037107",
+    "acquirer": "H.I.G. Capital",
+    "target": "Mistras Group",
+    "dealValueUsd": 866000000,
+    "perSharePrice": 20.35,
+    "consideration": "cash",
+    "expectedClose": "late 2026 or early 2027",
+    "financialAdvisers": [
+      "Baird",
+      "Texas Capital Securities"
+    ],
+    "legalAdvisers": [
+      "Morgan, Lewis & Bockius",
+      "Troutman Pepper Locke",
+      "Kirkland & Ellis"
+    ]
+  },
+  {
+    "adsh": "0001193125-26-397221",
+    "acquirer": "Lexeo Therapeutics",
+    "target": "Mantle Therapeutics",
+    "dealValueUsd": 21300000,
+    "perSharePrice": null,
+    "consideration": "mixed",
+    "expectedClose": "third quarter of 2026",
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001193125-26-407555",
+    "acquirer": "Lexeo Therapeutics",
+    "target": "Mantle Therapeutics",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": "mixed",
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001493152-26-044491",
+    "acquirer": "Madison Dearborn Partners",
+    "target": "Marygold Companies",
+    "dealValueUsd": null,
+    "perSharePrice": 2,
+    "consideration": "cash",
+    "expectedClose": "first half of 2027 or earlier",
+    "financialAdvisers": [
+      "RBC Capital Markets"
+    ],
+    "legalAdvisers": [
+      "Paul, Weiss, Rifkind, Wharton & Garrison",
+      "Morgan, Lewis & Bockius",
+      "Holland & Hart"
+    ]
+  },
+  {
+    "adsh": "0001140361-26-036866",
+    "acquirer": "Lisata Therapeutics",
+    "target": "Marea Therapeutics",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": "stock",
+    "expectedClose": null,
+    "financialAdvisers": [
+      "H.C. Wainwright",
+      "Leerink Partners"
+    ],
+    "legalAdvisers": [
+      "Mintz, Levin, Cohn, Ferris, Glovsky and Popeo",
+      "Goodwin Procter",
+      "Cooley"
+    ]
+  },
+  {
+    "adsh": "0001193125-26-415012",
+    "acquirer": "Repligen",
+    "target": "BioLife Solutions",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": "mixed",
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001193125-26-415015",
+    "acquirer": "Repligen",
+    "target": "BioLife Solutions",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": "mixed",
+    "expectedClose": null,
+    "financialAdvisers": [
+      "Perella Weinberg Partners",
+      "Goldman Sachs",
+      "Centerview Partners"
+    ],
+    "legalAdvisers": [
+      "Goodwin Procter",
+      "K&L Gates"
+    ]
+  },
+  {
+    "adsh": "0001140361-26-036283",
+    "acquirer": "Eli Lilly",
+    "target": "AtaiBeckley",
+    "dealValueUsd": null,
+    "perSharePrice": 6.75,
+    "consideration": "cash",
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001193125-26-415055",
+    "acquirer": "Paramount Skydance",
+    "target": "Warner Bros. Discovery",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": null,
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001104659-26-113913",
+    "acquirer": "Paramount Skydance",
+    "target": "Warner Bros. Discovery",
+    "dealValueUsd": null,
+    "perSharePrice": 31.01666668,
+    "consideration": "cash",
+    "expectedClose": null,
+    "financialAdvisers": [
+      "Centerview Partners",
+      "RedBird Advisors",
+      "Bank of America",
+      "Citi",
+      "M. Klein & Company",
+      "LionTree",
+      "Allen & Company",
+      "J.P. Morgan",
+      "Evercore",
+      "Barclays"
+    ],
+    "legalAdvisers": [
+      "Cravath, Swaine & Moore",
+      "Latham & Watkins",
+      "Wachtell, Lipton, Rosen & Katz",
+      "Debevoise & Plimpton",
+      "Cleary Gottlieb Steen & Hamilton"
+    ],
+    "acquirerAlt": "Skydance"
+  },
+  {
+    "adsh": "0001193125-26-410662",
+    "acquirer": "Liquidity Services",
+    "target": "Auction Holdings",
+    "dealValueUsd": 80000000,
+    "perSharePrice": null,
+    "consideration": "cash",
+    "expectedClose": null,
+    "financialAdvisers": [
+      "Canaccord Genuity"
+    ],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001104659-26-109979",
+    "acquirer": "Zymeworks",
+    "target": "Theravance Biopharma",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": null,
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001193125-26-399383",
+    "acquirer": "Zymeworks",
+    "target": "Theravance Biopharma",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": null,
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001023459-26-000092",
+    "acquirer": "Altaris",
+    "target": "Simulations Plus",
+    "dealValueUsd": null,
+    "perSharePrice": 18.5,
+    "consideration": "cash",
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001104659-26-112870",
+    "acquirer": "Gentherm",
+    "target": "Modine Performance Technologies",
+    "dealValueUsd": 946400000,
+    "perSharePrice": null,
+    "consideration": "stock",
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": [],
+    "targetAlt": "Modine's Performance Technologies Business"
+  },
+  {
+    "adsh": "0001193125-26-410776",
+    "acquirer": "Gentherm",
+    "target": "Modine Performance Technologies",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": "stock",
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": [],
+    "targetAlt": "Modine's Performance Technologies Business"
+  },
+  {
+    "adsh": "0001104659-26-113538",
+    "acquirer": "Skyworks Solutions",
+    "target": "Qorvo",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": "mixed",
+    "expectedClose": null,
+    "financialAdvisers": [
+      "Qatalyst Partners",
+      "Goldman Sachs",
+      "Centerview Partners"
+    ],
+    "legalAdvisers": [
+      "Skadden, Arps, Slate, Meagher & Flom",
+      "Davis Polk & Wardwell"
+    ],
+    "acquirerAlt": "Skyworks"
+  },
+  {
+    "adsh": "0000950103-26-015180",
+    "acquirer": "Skyworks Solutions",
+    "target": "Qorvo",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": "mixed",
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": [],
+    "acquirerAlt": "Skyworks"
+  },
+  {
+    "adsh": "0000002488-26-000182",
+    "acquirer": "AMD",
+    "target": "World Labs",
+    "dealValueUsd": 8200000000,
+    "perSharePrice": null,
+    "consideration": "stock",
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": [],
+    "acquirerAlt": "Advanced Micro Devices"
+  },
+  {
+    "adsh": "0001193125-26-394393",
+    "acquirer": "Watsco",
+    "target": "Granite Group Holdings",
+    "dealValueUsd": 505000000,
+    "perSharePrice": null,
+    "consideration": "mixed",
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001437749-26-031071",
+    "acquirer": "Independence Realty Trust",
+    "target": "Centerspace",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": null,
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001140361-26-037453",
+    "acquirer": "Independence Realty Trust",
+    "target": "Centerspace",
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": null,
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001193125-26-412318",
+    "acquirer": null,
+    "target": null,
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": null,
+    "expectedClose": null,
+    "financialAdvisers": [
+      "Keefe, Bruyette & Woods",
+      "Lucid Capital Markets"
+    ],
+    "legalAdvisers": [
+      "Skadden, Arps, Slate, Meagher & Flom",
+      "Thompson Hine",
+      "Simpson Thacher & Bartlett"
+    ]
+  },
+  {
+    "adsh": "0001477932-26-005700",
+    "acquirer": null,
+    "target": null,
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": null,
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  },
+  {
+    "adsh": "0001437749-26-032044",
+    "acquirer": null,
+    "target": null,
+    "dealValueUsd": null,
+    "perSharePrice": null,
+    "consideration": null,
+    "expectedClose": null,
+    "financialAdvisers": [],
+    "legalAdvisers": []
+  }
+]

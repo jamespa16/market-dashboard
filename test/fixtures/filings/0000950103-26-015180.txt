@@ -1,0 +1,168 @@
+# source: https://www.sec.gov/Archives/edgar/data/1604778/000095010326015180/dp254466_8k.htm (primary document)
+false --04-03 0001604778 0001604778 2026-10-05 2026-10-05 iso4217:USD xbrli:shares iso4217:USD xbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+October 5, 2026
+
+(Date of earliest event reported)
+
+Qorvo, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-36801 46-5288992
+
+(State or Other Jurisdiction
+
+of Incorporation) (Commission File Number) (I.R.S. Employer
+
+Identification Number)
+
+7628 Thorndike Road, Greensboro, North Carolina 27409-9421
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(336) 664-1233
+
+(Registrant's telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common Stock, $0.0001 par value QRVO The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Introductory Note
+
+This Current Report on Form 8-K is being filed in connection with the completion on October 5, 2026 (the "Closing Date"), of the previously announced merger transaction between Qorvo, Inc. ("Qorvo") and Skyworks Solutions, Inc. ("Skyworks"), pursuant to the Agreement and Plan of Merger (as amended from time to time, the "Merger Agreement"), dated as of October 27, 2025, by and among Qorvo, Skyworks, Comet Acquisition Corp., a Delaware corporation and a direct wholly owned subsidiary of Skyworks ("Merger Sub I"), and Comet Acquisition II, LLC, a Delaware limited liability company and a direct wholly owned subsidiary of Skyworks ("Merger Sub II").
+
+Pursuant to the Merger Agreement, on the Closing Date, (i) Merger Sub I merged with and into Qorvo (the "First Merger"), with Qorvo surviving the First Merger as a wholly owned subsidiary of Skyworks (the "Surviving Corporation"), and (ii) immediately following the First Merger, and as the second step in a single integrated transaction with the First Merger, the Surviving Corporation merged with and into Merger Sub II (the "Second Merger," and together with the First Merger, the "Mergers"), with Merger Sub II continuing as the surviving entity in the Second Merger and a wholly owned subsidiary of Skyworks (the "Surviving Company"). In connection with the Mergers, Merger Sub II changed its name to "Qorvo Technologies, LLC". Capitalized terms used but not defined herein have the meanings specified in the Merger Agreement.
+
+The summary of the transactions contemplated by the Merger Agreement in this Current Report on Form 8-K does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Merger Agreement, a copy of which was attached as Exhibit 2.1 to the Current Report on Form 8-K filed by Qorvo with the Securities and Exchange Commission (the "SEC") on October 28, 2025, and is incorporated by reference as Exhibit 2.1 to this Current Report on Form 8-K.
+
+Item 1.02 Termination of a Material Definitive Agreement.
+
+The information in the Introductory Note and Items 2.01, 3.01, 3.03, 5.01, 5.02 and 5.03 of this Current Report on Form 8-K is incorporated herein by reference.
+
+In connection with the Mergers, on the Closing Date, Qorvo terminated the Credit Agreement, dated as of April 23, 2024, by and among Qorvo, as the Borrower, Bank of America, N.A., as Administrative Agent, Swing Line Lender and L/C Issuer, and the other lenders party thereto (the "Credit Agreement"). In connection with the termination of the Credit Agreement, all fees and other amounts (other than obligations not then due and payable or that by their terms survive the termination thereof) outstanding thereunder were paid in full and all commitments to extend credit thereunder were terminated. There were no borrowings outstanding under the Credit Agreement at the time of the termination.
+
+Item 2.01 Completion of Acquisition or Disposition of Assets.
+
+The information set forth in the Introductory Note and Items 1.02, 2.01, 3.01, 3.03, 5.01, 5.02 and 5.03 of this Current Report on Form 8-K is incorporated herein by reference.
+
+Merger Consideration
+
+Pursuant to the terms of the Merger Agreement, concurrently with the effective time of the First Merger (the "Effective Time"), each share of common stock, par value $0.0001 per share, of Qorvo ("Qorvo Common Stock") issued and outstanding immediately prior to the Effective Time (other than shares of Qorvo Common Stock that were held (a) directly or indirectly, by any wholly-owned subsidiary of Qorvo immediately prior to the Effective Time, (b) by Qorvo (or in Qorvo's treasury), and (c) directly or indirectly, by Skyworks, Merger Sub I, Merger Sub II or any other wholly-owned subsidiary of Skyworks immediately prior to the Effective Time) was converted into the right to receive (i) 0.960 (the "Exchange Ratio") shares of common stock, par value $0.25 per share, of Skyworks ("Skyworks Common Stock"), without interest, and (ii) $32.50 in cash, without interest (the "Per Share Cash Amount"), subject to applicable withholding taxes, (the foregoing clauses (i) and (ii), collectively, the "Merger Consideration"). No fractional shares of Skyworks Common Stock are being issued in the Mergers and Qorvo stockholders became entitled to receive cash in lieu of any fractional shares, as specified in the Merger Agreement.
+
+Treatment of Equity Awards
+
+Pursuant to the Merger Agreement, at the Effective Time, each outstanding equity award with respect to Qorvo Common Stock was treated as follows:
+
+· Each outstanding Qorvo restricted stock unit ("Qorvo RSU Award") that (a) was vested but not yet settled as of immediately prior to the Effective Time, (b) by its terms became vested in all respects as a result of the occurrence of the Closing or (c) was held by a non-employee member of the Qorvo board of directors as of immediately prior to the Effective Time (collectively, the "Accelerated Qorvo RSUs"), was cancelled in consideration for the right to receive (i) the Merger Consideration in respect of each share of Qorvo Common Stock that was subject to such Accelerated Qorvo RSU immediately prior to the Effective Time and (ii) an amount in cash equal to all dividend equivalents, if any, accrued but unpaid as of the Effective Time with respect to each such Accelerated Qorvo RSU. The number of shares of Qorvo Common Stock subject to any Accelerated Qorvo RSUs that remained subject to performance-based vesting conditions as of immediately prior to the Closing Date (i.e., any Qorvo RSU Award for which the level of performance vesting had not yet been determined) was determined by assuming, in respect of such Qorvo RSU Award, achievement at target performance, subject to certain exceptions for individuals for whom achievement was assumed at the greater of target performance and actual performance as of immediately prior to the Effective Time.
+
+· Each outstanding Qorvo RSU Award that was not an Accelerated Qorvo RSU (the "Unvested Qorvo RSU Awards"), was assumed by Skyworks and converted automatically into a restricted stock unit award covering shares of Skyworks Common Stock (each, an "Adjusted RSU Award"), on the same terms and conditions as were applicable to such Qorvo RSU Award immediately prior to the Effective Time (other than performance-based vesting conditions, which no longer apply following the Effective Time, with dividend equivalents continuing to accrue in respect of such Adjusted RSU Awards and with all accrued dividend equivalents paid at such time as the Adjusted RSU Award is settled), except that the number of shares of Skyworks Common Stock subject to each such Adjusted RSU Award as of the Effective Time was determined by multiplying (a) the number of shares of Qorvo Common Stock subject to the corresponding Unvested Qorvo RSU Award immediately prior to the Effective Time by (b) an amount equal to the sum of (i) the Exchange Ratio, plus (ii) the quotient obtained by dividing the Per Share Cash Amount by the volume weighted average trading price of Skyworks Common Stock on Nasdaq for the five (5) consecutive trading days ending on the trading day immediately preceding the Closing Date, as calculated by Bloomberg L.P. (such amount, the "Conversion Ratio"), with any fractional shares in the resulting product rounded to the nearest whole share. The number of shares of Qorvo Common Stock subject to any such Unvested Qorvo RSU Award that remain subject to performance-based vesting conditions for which the level of performance vesting had not yet been determined as of immediately prior to the Closing Date, including any accrued but unpaid dividend equivalents, was determined by assuming, in respect of such Unvested Qorvo RSU Award, achievement at target performance, subject to certain exceptions for individuals for whom achievement was assumed at the greater of target performance and actual performance as of immediately prior to the Effective Time. In the event of a termination of employment of any holder of an Adjusted RSU Award by Skyworks, the Surviving Company or one of their affiliates without "cause" or by such holder with "good reason" (each as defined in the applicable Qorvo equity plan or equity award agreement), in each case within the eighteen (18)-month period following the Closing Date, any such Adjusted RSU Awards held by such holder will accelerate and vest in full.
+
+Item 3.01 Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+
+The information set forth in the Introductory Note and Items 1.02, 2.01, 3.03, 5.01, 5.02 and 5.03 of this Current Report on Form 8-K is incorporated herein by reference.
+
+In connection with the Mergers, on October 5, 2026, Qorvo notified the NASDAQ Global Select Market ("Nasdaq") that the Mergers were consummated and requested that Nasdaq halt trading of Qorvo Common Stock prior to the opening of trading on October 5, 2026. Trading of Qorvo Common Stock on Nasdaq halted prior to the opening of trading on October 5, 2026.
+
+In addition, on October 5, 2026, Qorvo requested that Nasdaq file with the SEC a notification of removal from listing and/or registration under Section 12(b) of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), on Form 25 to strike Qorvo Common Stock from listing on Nasdaq and terminate its registration under Section 12(b) of the Exchange Act. Nasdaq is expected to file the Form 25 on October 5, 2026. As a result of the Form 25 filing, Qorvo Common Stock will no longer be listed on Nasdaq.
+
+Qorvo intends to file a certification on Form 15 with the SEC regarding the termination of registration of all shares of Qorvo Common Stock under Section 12(g) of the Exchange Act and the suspension of Qorvo's reporting obligations under Sections 13 and 15(d) of the Exchange Act.
+
+Item 3.03 Material Modification to Rights of Security Holders.
+
+The information set forth in the Introductory Note and Items 1.02, 2.01, 3.01, 5.01, 5.02 and 5.03 of this Current Report on Form 8-K is incorporated herein by reference.
+
+At the Effective Time, each holder of shares of Qorvo Common Stock issued and outstanding immediately prior to the Effective Time ceased to have any rights as a stockholder of Qorvo other than the right to receive the Merger Consideration pursuant to the Merger Agreement, as applicable.
+
+Item 5.01 Changes in Control of Registrant.
+
+The information set forth in the Introductory Note and Items 1.02, 2.01, 3.01, 3.03, 5.02 and 5.03 of this Current Report on Form 8-K is incorporated herein by reference.
+
+As a result of the First Merger, on October 5, 2026, a change in control of Qorvo occurred, and Qorvo became a wholly owned subsidiary of Skyworks.
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+The information in the Introductory Note and Items 1.02, 2.01, 3.01, 3.03, 5.01 and 5.03 of this Current Report on Form 8-K is incorporated herein by reference.
+
+As a result of the Mergers and pursuant to the Merger Agreement, at the Closing, each of the members of Qorvo's Board of Directors as of immediately prior to the Closing resigned and ceased to be directors of Qorvo and members of any committee or subcommittee of Qorvo's Board of Directors, and certain managers of Merger Sub II as of immediately prior to the Closing and an employee of Qorvo became the managers of the Surviving Company.
+
+As of the Closing, certain officers of Merger Sub II as of immediately prior to the Effective Time and an employee of Qorvo became the officers of the Surviving Company.
+
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+The information set forth in the Introductory Note and Items 1.02, 2.01, 3.01, 3.03, 5.01 and 5.02 of this Current Report on Form 8-K is incorporated herein by reference.
+
+Pursuant to the Merger Agreement, following the consummation of the Second Merger, Qorvo ceased to exist and the Surviving Company continued as the surviving entity. The certificate of formation and limited liability company agreement of the Surviving Company are set forth in Exhibits 3.1 and 3.2, respectively, to this Current Report on Form 8-K, which exhibits are incorporated herein by reference.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This document contains "forward-looking statements" within the meaning of the federal securities laws, including Section 27A of the U.S. Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements are based on Qorvo's and Skyworks' current expectations, estimates and projections about the potential benefits of the transaction between Qorvo and Skyworks, their respective businesses and industries, management's beliefs and certain assumptions made by Qorvo and Skyworks, all of which are subject to change. In this context, forward-looking statements often address expected future business and financial performance and financial condition, and often contain words such as "expect," "anticipate," "intend," "plan," "believe," "could," "seek," "see," "will," "may," "would," "might," "potentially," "estimate," "continue," "expect," "target," similar expressions or the negatives of these words or other comparable terminology that convey uncertainty of future events or outcomes. All forward-looking statements by their nature address matters that involve risks and uncertainties, many of which are beyond our control and are not guarantees of future results, such as statements about the anticipated benefits of the transaction. These and other forward-looking statements are not guarantees of future results and are subject to risks, uncertainties and assumptions that could cause actual results to differ materially from those expressed in any forward-looking statements. Accordingly, there are or will be important factors that could cause actual results to differ materially from those indicated in such statements and, therefore, you should not place undue reliance on any such statements and caution must be exercised in relying on forward-looking statements. Important risk factors that may cause such a difference include, but are not limited to: (i) failure to realize the anticipated benefits of the transaction, including as a result of delay in integrating the businesses of Qorvo and Skyworks; (ii) Qorvo's and Skyworks' ability to implement their business strategies; (iii) pricing trends; (iv) potential litigation relating to the transaction that has been or could be instituted against the parties or their respective directors; (v) the risk that disruptions from the transaction will harm Qorvo's or Skyworks' business, including current plans and operations; (vi) the ability of Qorvo or Skyworks to retain and hire key personnel; (vii) potential adverse reactions or changes to business relationships resulting from the transaction (viii) uncertainty as to the long-term value of Skyworks' common stock; (ix) legislative, regulatory and economic developments affecting Qorvo's and Skyworks' businesses; (x) general economic and market developments and conditions; (xi) the evolving legal, regulatory and tax regimes under which Qorvo and Skyworks operate; (xii) potential business uncertainty, including changes to existing business relationships, as a result of the transaction that would affect the parties' financial performance; and (xiii) unpredictability and severity of catastrophic events, including, but not limited to, acts of terrorism or outbreak of war or hostilities, as well as Qorvo's and Skyworks' response to any of the aforementioned factors. These risks, as well as other risks associated with the transaction, are more fully discussed in the joint proxy statement/prospectus previously filed in connection with the transaction and in each of Qorvo's and Skyworks' other filings with the Securities and Exchange Commission. While the list of factors presented here and in the joint proxy statement/prospectus and such other filings are considered representative, no such list should be considered to be a complete statement of all potential risks and uncertainties. Unlisted factors may present significant additional obstacles to the realization of forward-looking statements. Consequences of material differences in results as compared with those anticipated in the forward-looking statements could include, among other things, business disruption, operational problems, financial loss, legal liability to third parties and similar risks, any of which could have a material adverse effect on Qorvo's or Skyworks' consolidated financial condition, results of operations or liquidity. Neither Qorvo nor Skyworks assumes any obligation to publicly provide revisions or updates to any forward-looking statements, whether as a result of new information, future developments or otherwise, should circumstances change, except as otherwise required by securities and other applicable laws.
+
+Item 9.01 Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+Number Description
+
+2.1* Agreement and Plan of Merger, dated as of October 27, 2025, by and among Skyworks Solutions, Inc., Qorvo, Inc., Comet Acquisition Corp. and Comet Acquisition II, LLC (incorporated herein by reference to Exhibit 2.1 to Qorvo's Current Report on Form 8-K filed with the SEC on October 28, 2025).
+
+3.1 Certificate of Formation of Comet Acquisition II, LLC.
+
+3.2 Amended and Restated Limited Liability Company Agreement of Qorvo Technologies, LLC.
+
+104 Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document).
+
+* Schedules have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Registrant hereby undertakes to furnish supplementally a copy of any omitted schedule upon request by the SEC.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Qorvo Technologies, LLC
+
+(as successor by merger to Qorvo, Inc.)
+
+By: /s/ Jason K. Givens
+
+Jason K. Givens
+
+Secretary
+
+Date: October 5, 2026

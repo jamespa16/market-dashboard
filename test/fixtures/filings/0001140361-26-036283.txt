@@ -1,0 +1,220 @@
+# source: https://www.sec.gov/Archives/edgar/data/2081043/000114036126036283/ef20081247_8k.htm (primary document)
+false12-31000208104300020810432026-09-112026-09-11
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 11, 2026
+
+ATAIBECKLEY INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-43037
+
+41-3357923
+
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+c/o atai Life Sciences US, Inc. c/o Industrious NYC, 250 West 34th Street
+
+New York, New York
+
+10119
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant's Telephone Number, Including Area Code: (332) 282-0507
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, $0.01 par value per share
+
+ATAI
+
+The Nasdaq Stock Market LLC (Nasdaq Global Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Introductory Note
+
+As previously disclosed in the Current Report on Form 8-K filed with the U.S. Securities and Exchange Commission (the "SEC")
+
+on July 16, 2026, AtaiBeckley Inc. (the "Company") entered into an Agreement and Plan of Merger, dated as of July 15, 2026 (the "Merger Agreement"), with Eli Lilly and Company, an Indiana corporation ("Parent"), and Albali Acquisition Corporation, a Delaware corporation and indirect wholly owned subsidiary of Parent ("Merger Sub"). Capitalized terms used herein and not otherwise defined herein have the meanings set forth in the Merger Agreement.
+
+On September 11, 2026 (the "Closing Date"), pursuant to the Merger Agreement, Merger Sub merged with and into the Company (the "Merger"), with the Company surviving as a wholly owned subsidiary of Parent.
+
+Pursuant to the Merger Agreement, and upon the terms and subject to the conditions thereof, at the effective time of the Merger (the "Effective Time") each share of the Company's common stock, par value $0.01 per share (the "Common Stock"), issued and outstanding immediately prior to the Effective Time (other than (x) shares held in the treasury of the Company, owned by the Company or any of its subsidiaries, or owned by Parent, Merger Sub or any of their wholly owned subsidiaries, and (y) Dissenting Shares (as defined in the Merger Agreement)) was converted into the right to receive (i) $6.75 (the "Closing Amount") per share in cash, without interest, plus (ii) one contingent value right per share (each, a "CVR" and collectively, the "CVRs"), representing the right to receive up to an aggregate of $2.50 in cash per CVR upon achievement, if any, of specified clinical and regulatory milestones payable in accordance with the terms of a Contingent Value Rights Agreement (the "CVR Agreement") described below (the foregoing clauses (i) and (ii), collectively, the "Merger Consideration"), less any applicable tax withholding.
+
+At or immediately prior to the Effective Time, Parent and Computershare Trust Company, N.A. and Computershare, Inc., as rights agent (the "Rights Agent"), entered into the CVR Agreement. Each CVR represents the right to receive cash payments conditioned on achievement within specified time periods of the following milestones: (i) up to $1.00 per share upon initiation of a Phase 3 clinical trial of VLS-01 prior to the 4th anniversary of the Closing Date, (ii) up to $0.50 per share upon U.S. regulatory approval and DEA rescheduling of BPL-003 prior to the 5th anniversary of the Closing Date and (iii) up to $1.00 per share upon U.S. regulatory approval and DEA rescheduling of VLS-01 prior to the 7th anniversary of the Closing Date. The CVRs are not transferable (except in limited circumstances), will not be registered under the Securities Act of 1933, as amended (the "Securities Act"), or the Securities Exchange Act of 1934, as amended (the "Exchange Act"), will not be listed on any securities exchange, and do not have any voting or dividend rights. The CVRs do not represent any equity or ownership interest in Parent, the Company, or the surviving corporation.
+
+The Company's definitive proxy statement, filed with the SEC on August 10, 2026 (the "Proxy Statement"), contains additional information about the Merger and the Merger Agreement, including information concerning the interests of directors and executive officers of the Company in the Merger. The foregoing description of the Merger Agreement does not purport to be complete and is subject to and qualified in its entirety by reference to the full text of the Merger Agreement, which was filed as Exhibit 2.1 to the Company's Current Report on Form 8-K on July 16, 2026 and is incorporated herein by reference.
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets.
+
+The information set forth in the Introductory Note of this Current Report on Form 8-K is incorporated by reference into this Item 2.01.
+
+On the Closing Date, pursuant to the terms of the Merger Agreement, the Merger was consummated. At the Effective Time, the shares of Common Stock issued and outstanding immediately prior to the Effective Time, subject to certain customary exceptions specified in the Merger Agreement, were converted into the right to receive the Merger Consideration.
+
+In connection with the consummation of the Merger, the Company's equity awards were treated as follows:
+
+•
+
+at the Effective Time, each option to purchase Common Stock granted under a Company equity incentive plan (each, a "Company Stock Option") with a per share exercise price less than the Closing Amount that was outstanding immediately prior to the Effective Time, whether or not vested (each, a "Company Cash-Out Stock Option"), was cancelled and, in exchange therefor, the holder of such Company Cash-Out Stock Option became entitled to receive (A) an amount in cash, without interest and less applicable tax withholdings, equal to the product of (1) the total number of shares subject to such Company Cash-Out Stock Option immediately prior to the Effective Time (for Company Cash-Out Stock Options subject to performance-based vesting, assuming applicable performance goals are achieved in full) multiplied by (2) the excess of the Closing Amount over the applicable exercise price per share under such Company Cash-Out Stock Option and (B) one CVR for each share subject to such Company Cash-Out Stock Option immediately prior to the Effective Time (without regard to vesting);
+
+•
+
+at the Effective Time, each Company Stock Option having an exercise price equal to or greater than the Closing Amount that was outstanding immediately prior to the Effective Time, whether or not vested, was cancelled for no consideration;
+
+•
+
+at the Effective Time, each restricted stock unit granted under a Company equity incentive plan (each, a "Company
+
+RSU") that was outstanding, and unvested, or vested but not yet settled, in each case immediately prior to the Effective Time, was cancelled and, in exchange therefor, the holder of such Company RSU became entitled to receive (A) an amount in cash, without interest and less applicable tax withholdings, equal to the product of (1) the total number of shares subject to such Company RSU immediately prior to the Effective Time multiplied by (2) the Closing Amount and (B) one CVR for each share of Common Stock subject to such Company RSU immediately prior to the Effective Time (without regard to vesting); and
+
+•
+
+each Company equity incentive plan and award agreement thereunder was terminated effective as of the Effective Time.
+
+In connection with the consummation of the Merger, the Company also effected the termination and cancellation of applicable subsidiary equity awards and the wind-up and dissolution of ATAI Life Sciences HSOP GbR, in each case as contemplated by the Merger Agreement.
+
+The foregoing summary of the principal terms of the Merger Agreement does not purport to be complete and is qualified in its entirety by reference to the full copy of the Merger Agreement, which was filed as Exhibit 2.1 to the Company's Current Report on Form 8-K filed on July 16, 2026 and which is incorporated herein by reference.
+
+Item 3.01
+
+Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+
+The information set forth in the Introductory Note and under Item 2.01 of this Current Report on Form 8-K is incorporated by reference into this Item 3.01.
+
+On the Closing Date, the Company (i) notified The Nasdaq Stock Market LLC ("Nasdaq") of the consummation of the Merger and (ii) requested that Nasdaq (x) suspend trading of the Common Stock and (y) file with the SEC a Form 25, Notification of Removal from Listing and/or Registration, to delist the Common Stock from Nasdaq and deregister the Common Stock under Section 12(b) of the Exchange Act.
+
+Following the effectiveness of the Form 25, the Company intends to file with the SEC a Certification and Notice of Termination of Registration on Form 15 under the Exchange Act and the suspension of reporting obligations under Section 13 and Section 15(d) of the Exchange Act.
+
+Item 3.03
+
+Material Modification to Rights of Security Holders.
+
+The information set forth in the Introductory Note and under Items 2.01, 3.01, 5.01 and 5.03 of this Current Report on Form 8-K is incorporated by reference into this Item 3.03.
+
+Item 5.01
+
+Changes in Control of Registrant.
+
+The information set forth in the Introductory Note and under Items 2.01, 3.01, 3.03, 5.02 and 5.03 of this Current Report on Form 8-K is incorporated by reference into this Item 5.01.
+
+As a result of the consummation of the Merger, a change in control of the Company occurred. Following the consummation of the Merger, the Company became a wholly owned subsidiary of Parent.
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+The information set forth in the Introductory Note and under Item 2.01 of this Current Report on Form 8-K is incorporated by reference into this Item 5.02.
+
+In accordance with the terms of the Merger Agreement, at the Effective Time, each of the members of the Company's Board of Directors, each of whom was a director of the Company as of immediately prior to the Effective Time, resigned and ceased to be a director of the Company and a member of any committee of the Company's Board of Directors. In accordance with the terms of the Merger Agreement, at the Effective Time, Christopher Anderson and Jonathan R. Haug, the directors of Merger Sub immediately prior to the Effective Time, became directors of the Company.
+
+In accordance with the terms of the Merger Agreement, at the Effective Time, each of the executive officers of the Company resigned from their positions as officers of the Company. In accordance with the terms of the Merger Agreement, at the Effective Time, the officers of Merger Sub immediately prior to the Effective Time, Jonathan R. Haug as President, Steffanie Lim-Ho as Treasurer, Christopher Anderson as Secretary, Jonathan Groff as Assistant Secretary, Jamie Burnett as Assistant Secretary and Katie Lodato as Assistant Treasurer, became the officers of the Company.
+
+On September 10, 2026, the Board of Directors of the Company approved the grant of a retention bonus to Gerd Kochendoerfer in the amount of $194,000, less applicable deductions and withholdings. Subject to Mr. Kochendoerfer's continued employment with the Company through the Effective Time, the retention bonus will be paid to him on the first regularly scheduled payroll date following the Closing Date that is at least 10 days after the Closing Date.
+
+Item 5.03
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+The information set forth in the Introductory Note and under Item 2.01 of this Current Report on Form 8-K is incorporated by reference into this Item 5.03.
+
+At the Effective Time, the certificate of incorporation and bylaws of the Company were amended and restated in accordance with the terms of the Merger Agreement. The amended and restated certificate of incorporation and the amended and restated bylaws of the Company are filed as Exhibit 3.1 and Exhibit 3.2 to this Current Report on Form 8-K, respectively, and are incorporated by reference into this Item 5.03.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No.
+
+Description
+
+2.1*[§]
+
+Agreement and Plan of Merger, dated as of July 15, 2026, by and among Eli Lilly and Company, Albali Acquisition Corporation and AtaiBeckley Inc. (incorporated by reference to Exhibit 2.1 to the Company's Current Report on Form 8-K filed on July 16, 2026)
+
+3.1
+
+Amended and Restated Certificate of Incorporation of AtaiBeckley Inc.
+
+3.2
+
+Amended and Restated Bylaws of AtaiBeckley Inc.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ATAIBECKLEY INC.
+
+Date: September 11, 2026
+
+By:
+
+/s/ Jonathan R. Haug
+
+Jonathan R. Haug
+
+President
