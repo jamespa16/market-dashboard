@@ -69,6 +69,11 @@ const CORPORATE_SUFFIX = /^(?:inc|corp|corporation|ltd|limited|plc|llc|co|compan
 const GENERIC_PARTY =
   /^(?:(?:\w+\s+){0,2}(?:investors?|buyers?|bidders?|suitors?|consortium|investor group|private equity(?: firm)?|a rival|rival|unnamed \w+|undisclosed \w+|a buyer|an investor group))$/i;
 
+/** True for placeholder parties like "Investor Group" or "private equity firm". */
+export function isGenericParty(name) {
+  return GENERIC_PARTY.test(String(name ?? "").trim());
+}
+
 function cleanName(raw, { isTarget = false } = {}) {
   if (!raw) return "";
   let name = raw.trim();
@@ -226,7 +231,8 @@ export function looksLikeCompanyName(name) {
   const words = name.trim().split(/\s+/);
   if (words.length === 0 || words.length > 6) return false;
   if (/[\d$%]/.test(name)) return false;
-  return words.every((w) => FILLER_WORDS.has(w.toLowerCase()) || /^[A-Z0-9]/.test(w));
+  // Capitalized words, ampersands, and camelCase brands ("ezCater", "iRobot").
+  return words.every((w) => FILLER_WORDS.has(w.toLowerCase()) || /^[A-Z0-9&]/.test(w) || /^[a-z]+[A-Z]/.test(w));
 }
 
 export function extractCompanyPair(title) {

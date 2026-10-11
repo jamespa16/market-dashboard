@@ -36,7 +36,8 @@ export function normalizeEntityName(name) {
     .replace(/[.'’]/g, "")
     .replace(/[^a-z0-9]+/g, " ")
     .split(" ")
-    .filter(Boolean);
+    .filter(Boolean)
+    .map((w) => (w === "brothers" ? "bros" : w));
   // Drop suffix words wherever they appear ("the", "holdings"), but never reduce to nothing.
   const kept = words.filter((w) => !SUFFIXES.has(w));
   return (kept.length ? kept : words).join(" ");
@@ -77,11 +78,13 @@ export function buildTickerMap(json) {
 
   const normalizedNames = [...names.keys()];
 
-  function byName(name) {
+  /** @param {{ exact?: boolean }} [opts] exact: skip the unique-prefix fallback */
+  function byName(name, { exact: exactOnly = false } = {}) {
     const q = normalizeEntityName(name);
     if (!q) return null;
     const exact = names.get(q);
     if (exact) return exact.size === 1 ? ciks.get([...exact][0]) : null;
+    if (exactOnly) return null;
     // Conservative fallback: query is a whole-word leading prefix of exactly one title
     // (e.g. "Kellogg" -> "kellogg"; never "Bank" -> every bank).
     if (q.length < MIN_PREFIX_LEN) return null;

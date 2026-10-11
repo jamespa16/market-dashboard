@@ -21,10 +21,15 @@
           <select id="filter-adviser">
             <option value="">Any adviser</option>
           </select>
+          <label class="filter-toggle" for="filter-unconfirmed">
+            <input id="filter-unconfirmed" type="checkbox" />
+            Show unconfirmed
+          </label>
           <button id="apply-filters">Apply</button>
           <button id="clear-filters" class="secondary">Clear</button>
         </div>
         <div id="deals-status" class="status"></div>
+        <p id="deals-hidden-note" class="status deals-hidden-note" hidden></p>
         <ul id="deals-list"></ul>
         <button id="deals-load-more" class="secondary" hidden>Show more</button>
       </section>

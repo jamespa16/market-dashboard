@@ -102,7 +102,8 @@ const isoDay = (d) => d.toISOString().slice(0, 10);
  * At 8 req/s that is 2-3 s.
  * Failures in one query don't abort the rest; they're reported in `errors`.
  * @returns {Promise<{ hits: object[], errors: {label:string, error:Error}[], requests: number }>}
- *   each hit is a normalizeHit() object plus `queries: string[]` (which queries found it).
+ *   each hit is a normalizeHit() object plus `queries: string[]` (which queries found it) and
+ *   `exhibits: {fileType, url, description}[]` (EX-99.x documents the search returned for that filing).
  */
 export async function discoverDealFilings({ days = 30, maxPages = 3, now = new Date(), fetchJson } = {}) {
   const enddt = isoDay(now);
@@ -123,14 +124,20 @@ export async function discoverDealFilings({ days = 30, maxPages = 3, now = new D
     for (const hit of res.hits) {
       if (q.filter && !q.filter(hit)) continue;
       if (hit.form === "8-K/A") continue; // amendments don't announce deals
-      const prev = byAdsh.get(hit.adsh);
-      if (!prev) byAdsh.set(hit.adsh, { ...hit, queries: [q.label] });
-      else {
-        if (!prev.queries.includes(q.label)) prev.queries.push(q.label);
+      let entry = byAdsh.get(hit.adsh);
+      if (!entry) {
+        entry = { ...hit, queries: [q.label], exhibits: [] };
+        byAdsh.set(hit.adsh, entry);
+      } else {
+        if (!entry.queries.includes(q.label)) entry.queries.push(q.label);
         // Prefer the main document (fileType === form) over exhibits as the representative hit.
-        if (prev.fileType !== prev.form && hit.fileType === hit.form) {
-          Object.assign(prev, hit, { queries: prev.queries });
+        if (entry.fileType !== entry.form && hit.fileType === hit.form) {
+          Object.assign(entry, hit, { queries: entry.queries, exhibits: entry.exhibits });
         }
+      }
+      // Keep press-release exhibit URLs so enrichment can skip the filing-index request.
+      if (/^EX-99/i.test(hit.fileType ?? "") && hit.url && !entry.exhibits.some((e) => e.url === hit.url)) {
+        entry.exhibits.push({ fileType: hit.fileType, url: hit.url, description: hit.description });
       }
     }
   }

@@ -38,8 +38,10 @@ export function createSecClient({
 } = {}) {
   const acquire = createRateLimiter({ maxPerSecond, now, sleep });
   // Retries inside fetchWithRetry go through this too, so they also count against the limit.
+  let requestCount = 0;
   const limitedFetch = async (url, init) => {
     await acquire();
+    requestCount++;
     return fetchImpl(url, init);
   };
 
@@ -70,7 +72,7 @@ export function createSecClient({
     (await ok(url, { ...opts, headers: { Accept: "application/json", ...opts?.headers } })).json();
   const secFetchText = async (url, opts) => (await ok(url, opts)).text();
 
-  return { secFetch, secFetchJson, secFetchText };
+  return { secFetch, secFetchJson, secFetchText, requestCount: () => requestCount };
 }
 
 // Default singleton used by the app.
@@ -78,3 +80,5 @@ const defaultClient = createSecClient();
 export const secFetch = defaultClient.secFetch;
 export const secFetchJson = defaultClient.secFetchJson;
 export const secFetchText = defaultClient.secFetchText;
+/** Number of HTTP requests (including retries) the app has sent to SEC so far. */
+export const secRequestCount = defaultClient.requestCount;
