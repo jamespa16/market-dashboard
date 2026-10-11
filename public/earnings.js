@@ -19,7 +19,9 @@ function formatSurprise(v) {
 }
 
 function formatMoney(v) {
-  return v == null ? "—" : new Intl.NumberFormat(undefined, { notation: "compact", maximumFractionDigits: 1 }).format(v);
+  return v == null
+    ? "—"
+    : new Intl.NumberFormat(undefined, { notation: "compact", maximumFractionDigits: 1 }).format(v);
 }
 
 export function initEarningsPanel() {

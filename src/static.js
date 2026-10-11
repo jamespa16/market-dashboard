@@ -10,26 +10,66 @@ export const MIME_TYPES = {
   ".js": "text/javascript; charset=utf-8",
   ".css": "text/css; charset=utf-8",
   ".json": "application/json; charset=utf-8",
+  ".svg": "image/svg+xml",
+  ".png": "image/png",
+  ".ico": "image/x-icon",
+  ".woff2": "font/woff2",
 };
 
-export async function serveStatic(req, res) {
-  let filePath = req.url === "/" ? "/index.html" : req.url;
-  filePath = path.join(PUBLIC_DIR, path.normalize(filePath));
+function sendText(res, status, message, extraHeaders = {}) {
+  res.writeHead(status, {
+    "Content-Type": "text/plain; charset=utf-8",
+    "X-Content-Type-Options": "nosniff",
+    ...extraHeaders,
+  });
+  res.end(message);
+}
 
-  // Prevent path traversal outside of the public dir.
-  if (!filePath.startsWith(PUBLIC_DIR)) {
-    res.writeHead(403);
-    res.end("Forbidden");
+export async function serveStatic(req, res) {
+  if (req.method !== "GET" && req.method !== "HEAD") {
+    sendText(res, 405, "Method Not Allowed", { Allow: "GET, HEAD" });
     return;
   }
 
+  let pathname;
   try {
-    const content = await fs.readFile(filePath);
-    const ext = path.extname(filePath);
-    res.writeHead(200, { "Content-Type": MIME_TYPES[ext] || "application/octet-stream" });
-    res.end(content);
+    // Strip query string and hash, then decode percent-encoding.
+    pathname = decodeURIComponent(new URL(req.url, "http://localhost").pathname);
   } catch {
-    res.writeHead(404);
-    res.end("Not found");
+    sendText(res, 400, "Bad Request");
+    return;
   }
+
+  if (pathname.includes("\0")) {
+    sendText(res, 400, "Bad Request");
+    return;
+  }
+
+  if (pathname === "/") pathname = "/index.html";
+
+  // Prevent path traversal: the result must be inside PUBLIC_DIR (or be PUBLIC_DIR itself).
+  const filePath = path.resolve(PUBLIC_DIR, "." + pathname);
+  if (filePath !== PUBLIC_DIR && !filePath.startsWith(PUBLIC_DIR + path.sep)) {
+    sendText(res, 403, "Forbidden");
+    return;
+  }
+
+  let content;
+  try {
+    const stat = await fs.stat(filePath);
+    if (!stat.isFile()) throw new Error("not a regular file");
+    content = await fs.readFile(filePath);
+  } catch {
+    sendText(res, 404, "Not found");
+    return;
+  }
+
+  const ext = path.extname(filePath).toLowerCase();
+  res.writeHead(200, {
+    "Content-Type": MIME_TYPES[ext] || "application/octet-stream",
+    "Content-Length": content.length,
+    "X-Content-Type-Options": "nosniff",
+  });
+  // Node omits the body for HEAD responses automatically; end() still sends headers.
+  res.end(req.method === "HEAD" ? undefined : content);
 }

@@ -88,15 +88,15 @@ V1 ships when every box below is ticked. Each is checkable, so this list doubles
 
 **Correctness**
 
-- [ ] A labeled set of 100 real headlines and filings, kept as fixtures, with expected acquirer, target and dedupe groups
+- [x] A labeled set of 100 real headlines and filings, kept as fixtures, with expected acquirer, target and dedupe groups
 - [ ] Parser extracts acquirer and target correctly on 90%+ of the labeled set
 - [ ] Fewer than 1 in 20 cards on a typical day is a duplicate or a non-deal
-- [ ] Unit tests for `dealParsing`, `advisers`, dedupe and cache; run with built-in `node --test`, no new dependency
+- [x] Unit tests for `dealParsing`, `advisers`, dedupe and cache; run with built-in `node --test`, no new dependency
 
 **Reliability**
 
 - [ ] Any one source failing still renders the page, with a visible "source unavailable" notice
-- [ ] Upstream calls have timeouts (10 s) and one retry with backoff
+- [x] Upstream calls have timeouts (10 s) and one retry with backoff
 - [ ] A nightly CI job hits each live source and fails loudly when a format changes
 
 **Performance**
@@ -106,8 +106,8 @@ V1 ships when every box below is ticked. Each is checkable, so this list doubles
 
 **Security**
 
-- [ ] Server binds to `127.0.0.1` by default; `--host` opts in to LAN access
-- [ ] Static handler strips query strings and rejects paths outside `public/`
+- [x] Server binds to `127.0.0.1` by default; `--host` opts in to LAN access
+- [x] Static handler strips query strings and rejects paths outside `public/`
 - [ ] Deal links validated as `https:` and escaped before going into `href` (titles are escaped today; links are not)
 - [ ] Chart.js vendored, or pinned to an exact version with an SRI hash (today it loads `chart.js@4`, any 4.x)
 

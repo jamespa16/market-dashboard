@@ -4,7 +4,9 @@ import { ADVISER_FIRMS } from "./advisers.js";
 import { resolveTicker } from "./tickers.js";
 import { getInstitutionalHolders } from "./holders.js";
 import { getEarnings } from "./earnings.js";
-import { NotFoundError } from "./yahooSession.js";
+import { NotFoundError } from "./marketData/index.js";
+
+const VALID_RANGES = new Set(["1d", "5d", "1mo", "3mo", "6mo", "1y", "2y", "5y", "ytd", "max"]);
 
 function sendJson(res, status, body) {
   res.writeHead(status, { "Content-Type": "application/json" });
@@ -14,9 +16,13 @@ function sendJson(res, status, body) {
 async function handlePrices(req, res, url) {
   const symbol = (url.searchParams.get("symbol") || "NVDA").toUpperCase();
   const range = url.searchParams.get("range") || "1mo";
+  if (!VALID_RANGES.has(range)) {
+    return sendJson(res, 400, { error: `Invalid range. Use one of: ${[...VALID_RANGES].join(", ")}` });
+  }
   try {
     sendJson(res, 200, await fetchPrices(symbol, range));
   } catch (err) {
+    if (err instanceof NotFoundError) return sendJson(res, 404, { error: err.message });
     sendJson(res, 502, { error: err.message });
   }
 }

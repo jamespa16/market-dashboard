@@ -1,0 +1,2051 @@
+{
+  "version": 1,
+  "collectedAt": "2026-10-11T18:20:37.708Z",
+  "labelingGuide": "isDeal=true when the item reports a specific M&A transaction between named parties in which one acquires control of (>50% of, or all of) a company, or a material business/asset package, and the item is a DEAL EVENT: (a) signing/announcement of a definitive agreement; (b) a formal public offer, tender offer or takeover bid (including improved/extended offers); (c) an amendment/revision of agreed terms; (d) a shareholder approval, go-shop expiry or similar status step of that deal; (e) completion/closing. Completed deals count and share the dedupeGroup of their announcement. Asset purchases count only when the assets are a material business or asset package (e.g. oil & gas assets, a retail network); minority or non-controlling stakes, small property/equipment purchases and spectrum/licence-only grabs do not. SPAC business combinations and fund-to-fund mergers count as deals. isDeal=false for: rumors, talks, reports of exploration, non-binding or preliminary proposals; withdrawn, dropped or terminated deals; litigation, regulatory, political or labor commentary about a pending deal; merger-arbitrage and investment-analysis commentary; earnings releases (even if they mention a deal); law-firm investor alerts; and SEC 8-K hits that merely mention a merger agreement (e.g. credit facilities). For deals, acquirer/target are canonical company names as a human would write them (acquirer = the party paying/absorbing, target = the company or business acquired; for mergers the surviving/public parent is the acquirer). Names are taken from the headline where possible, otherwise from other outlets covering the same deal or from the SEC filing text. dedupeGroup is a slug shared by every item (Google News or SEC) that describes the same deal, including its amendments and completion; null for non-deals. For SEC items, title is synthesised as \"<registrant> — <form> filing (<items>)\" in the same way src/feeds.js does; the registrant may be either the acquirer or the target.",
+  "items": [
+    {
+      "id": "g001",
+      "source": "google-news",
+      "title": "GE HealthCare to Acquire SOFIE Biosciences, Establishing a 'Final Mile' Footprint for PET Radiopharmaceutical Supply in the U.S.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEJlanVZWS1vbDd5ZHJSYjdya2xfbXAxLWVfWnd6dEpiU2dUQTlxVGNnYldPZlpfa0NJWFdQYzlYT1NQQzl4LWp0TmpxeTFYdEpFNGdqNDFqcEJUeUlJT2VyV2ZtMkJ0Rk5Ec1hnRmlrUDQ5dnNrU0F0dWVuNmppY3kxRmdKOHhvY2VJLTRxdENJSjk0SkNNX1dmMDRBTFRPeXlXVjFsM1VjZ05VTVFhNVF4OXJlOFktQk5tMU9BeDZmaV9SWWZBZU03SmY0dw?oc=5",
+      "sourceName": "GE HealthCare",
+      "publishedAt": "2026-10-05T12:00:54.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "GE HealthCare",
+        "target": "SOFIE Biosciences",
+        "dedupeGroup": "ge-sofie"
+      }
+    },
+    {
+      "id": "g002",
+      "source": "google-news",
+      "title": "GE HealthCare to acquire Sofie Biosciences for $945M",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcjBncWttRzdmLVhSVzBQQ3BNdG9PR0FFVmd2b3lqdXMwN0tFMkZaTk5QOXByS19UV3dJbFVMNmVQbUJURW04SWpmRFpTQ0x0NlhycnFNM3pPTmJZdGRjZ1dtV21TeUNfT01TcXI5dVQtZWN4SDlkTlNjTTlVR2tXVEhkQlB4QUhYYk5Pd0FlRTBIVnlBTXpn?oc=5",
+      "sourceName": "MedTech Dive",
+      "publishedAt": "2026-10-06T04:20:05.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "GE HealthCare",
+        "target": "Sofie Biosciences",
+        "dedupeGroup": "ge-sofie"
+      }
+    },
+    {
+      "id": "g003",
+      "source": "google-news",
+      "title": "C.H. Robinson to acquire RXO in $5.8 billion deal",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGltUFVweGdMQkdXMXdKVGRoNVJ2MEhBM1lEUzFtczlpQU5IX1g0eV9JeHJzTmdrYWhYR0w2RFdHQW1LdUVSZmNkWUxSX093eFllemNpR045ckdMNnlXYk5zQ1hIU0MxME1HbkpBbkNHNHR4dWN4WS1SeWFBUmQtcmRrd2gxTnoyZ2xZ?oc=5",
+      "sourceName": "Eden Prairie Local News",
+      "publishedAt": "2026-10-06T19:57:42.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "C.H. Robinson",
+        "target": "RXO",
+        "dedupeGroup": "chrw-rxo"
+      }
+    },
+    {
+      "id": "g004",
+      "source": "google-news",
+      "title": "RXO to Be Acquired by C.H. Robinson Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS0dxb0l1ZGJwa1BJYzY5WnRua045WVBSVE8xUktJQ05zRDlWMTNUcFlkV2p4YlRTYVhmcjRmQjZ4YnBTSTc0MVRVcG1CNzVpNlpJSjRCNkk2TWVQV2xVbzUzeC1zWUNHOVg3YXVBamt6S2M5RUJzS2pKYU1MMlExY2VSbll4SnBMb0xiMWM2OU80a1k3NnBsWGhwazk?oc=5",
+      "sourceName": "TipRanks",
+      "publishedAt": "2026-10-05T12:53:53.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "C.H. Robinson",
+        "target": "RXO",
+        "dedupeGroup": "chrw-rxo",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g005",
+      "source": "google-news",
+      "title": "Schneider Electric to Acquire PTC in All-Cash Deal",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHdIR1FBOE1KenM2UjFYYUtoZXl1c0FZeHlKUEhuWUtyTkZDMnJQZG9ud0pUUllhd2RmVTBmMG0yVGZBNU9KOUtRbnBYRHp3ODFIMm00V1F4ZjQtanBMeUQ2N2RHR0RzQmhzeFN3cHZRSjd4T2YwTjBRUnhOWXE2ZzZhTExmbG9Rd0JubzhGakIwMmRna1MzRHZIRUdqVDZJUlpwRUhhTTY?oc=5",
+      "sourceName": "Bloomberg.com",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Schneider Electric",
+        "target": "PTC",
+        "dedupeGroup": "schneider-ptc"
+      }
+    },
+    {
+      "id": "g006",
+      "source": "google-news",
+      "title": "PTC to Be Acquired by Schneider Electric in $22.6 Billion Deal",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHNNN2Z6S0h0bFFwQVJiNVplb1lyVUNPMUdNVlI1bWs1aHdfOUN2NFYtVUcwaW9CUDBWb0x4ZFFHNjU3cmpmOFJmcmJfbXVmcGpzLTNLRDB3SVpWSHVYa2xrODdCUDduckhCUHFha1oxeW5LRkhUVEE4SVhmZHpiQWZ5ZjBzM2lMV3d0Nm94SmcwWUtwZW5BV2IwRQ?oc=5",
+      "sourceName": "Paul, Weiss",
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Schneider Electric",
+        "target": "PTC",
+        "dedupeGroup": "schneider-ptc",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g007",
+      "source": "google-news",
+      "title": "Viatris Agrees to Acquire Pacira BioSciences, Advancing Its Innovative Medicines Strategy and Becoming a Leader in Non-Opioid Pain Therapies",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRzZKY0RTZi1lZS1wN0Vwd3VKSFM5VC1Sd2tYcWppNW05SjRMQXBHQ0dTOGhTZUt0WFhSN1lKWG1UR29laW53ZkRqNDZYUzhfVTk1X1pIdGJldWo2SnpidFZuTktqUWZ1UUM4d2dnZ3ptSE9tZFpyMTNqQkxOcmVDcUV1NWYzZ2NyR18zcFU1anBJdFlDb0lPbGV4RE10ZXVkcHZUa2pPeTdOSGg2TExUdUhUOU41aXdWR2dwQ0hCVlpHeUJubmJXc3FrREdLOUMySWVyMzZSeU5DbFlvdTFZelRyQndVQVBNZE8tek1lcDFMTzczelRhSm53ZkxNczVoM2o2MUtIc1BQYlZG?oc=5",
+      "sourceName": "Viatris Newsroom",
+      "publishedAt": "2026-10-08T11:46:42.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Viatris",
+        "target": "Pacira BioSciences",
+        "dedupeGroup": "viatris-pacira"
+      }
+    },
+    {
+      "id": "g008",
+      "source": "google-news",
+      "title": "Viatris to Acquire Pacira BioSciences in $1.65B Deal",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDdtYk43X3JSUXpsdnpwY25vQzNEVnkwdzB0ZnVVM2J6SFNjQnNNMEo1Y0ViN0h5WDQ0RFY4ZXVrT2ctbGozZFlSSkIxcjF5S0tpUWpNdWpmZWRUY0YwTEtYaG9MV2JkbnZVRlFzMUdmVGlXNm1jWWtPeGlCZ19VeWJycjlTdFk4T0FTUzYtRU51UGtkbnZVbExHa2o3dG14djZpa3Z5QzZ4UGN0cjFmdjFWUE1xR0M5MXVaeV8wWHA2N1UtaGc?oc=5",
+      "sourceName": "Genome Web",
+      "publishedAt": "2026-10-09T14:32:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Viatris",
+        "target": "Pacira BioSciences",
+        "dedupeGroup": "viatris-pacira"
+      }
+    },
+    {
+      "id": "g009",
+      "source": "google-news",
+      "title": "Pacira BioSciences to Be Acquired by Viatris in $36.50-Per-Share All-Cash Tender Offer",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaTZZdmstVWcyNVl0LURmOUVfSy1jbGFST2dzM2kwUVJ3cU1rdHNJOHVVUGJLOHFCbzliTVE0R3JXbnJPTnc3RzI0MGpid2pud3RZRk1ZU1dQMm5MT1Jvd0pKMUl4X2IxTWZ1RWYtY1NVV3NtYnZWM08yekFPYndjaHZyMzN4TDdvYnJOOE12ZjlUUVdMVWxGRjcyU1AwbXdiZ0xaZHpzS0JKUWRnM0xDaDgyZE5SdWJ2ODMyV2wya1pkZldxVHFmZjlwUHQ2d20xZHllRFVXX1Q1WDZSMjNCYg?oc=5",
+      "sourceName": "TradingView",
+      "publishedAt": "2026-10-08T13:33:01.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Viatris",
+        "target": "Pacira BioSciences",
+        "dedupeGroup": "viatris-pacira",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g010",
+      "source": "google-news",
+      "title": "onsemi and Synaptics Announce Revised Merger Agreement",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkpyNVlRRUNYR3Y0cTVxR0k1M2VPV2ZQQkRsSnFHeUlWQ3NaTVAxZUZBbVJwUUZWajdzYVBLdXROQW12VGNERjhPUk14Q2JrbmpHdWxJaFRxTFJNTzRQcGl4SUloR09UeVZHaXljY1I2QVNZeklDSExpNmVHVE1DUE1sZ19XVElHWWxVU1A5VHRpak9Rb1ptYlZmRjVRaHNzbENRTjlTSHM?oc=5",
+      "sourceName": "Yahoo Finance",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "onsemi",
+        "target": "Synaptics",
+        "dedupeGroup": "onsemi-synaptics",
+        "notes": "Revised/amended agreement counts as deal status event"
+      }
+    },
+    {
+      "id": "g011",
+      "source": "google-news",
+      "title": "Onsemi, Synaptics Stocks Rally on Revised Merger Agreement",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2h3d19pQXlSRlEwLXlQZlZIMHVYdW5OQVNsMXRRM1BiUU8zbkI3NmRXVGZoRVMxVmVZaU5lenB2ZDB3ZWxKRmxqZzJKanNYVnJjVFlaazBWSFlvRndXQzlfYUJoNXhYaUZRTXZQcUZlaDc4THR1NVMzVk0xS0Q5azJDVGgzWDkxQ1lnRjEwclpfbk9KU0dRLTRQdkRHRTM4dXJuS1NvbjhpTDZXNlE?oc=5",
+      "sourceName": "Investopedia",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "onsemi",
+        "target": "Synaptics",
+        "dedupeGroup": "onsemi-synaptics",
+        "notes": "Revised agreement; no verb pattern"
+      }
+    },
+    {
+      "id": "g012",
+      "source": "google-news",
+      "title": "Lifecore Biomedical to be Acquired by Webster Equity Partners",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORlNMbXBhbzFWSHViZWlJZm9EQ29lbjRiOFkzZzNIdjRPQ3BDcnBRZ3U2NFZLUmluU09TNEtLUXNiTG95Y215MjRfM3JkZVdpTXdVU2VIcFFLVzNiZ2ZLWXJXcFM1VTNfQXMwQUp3V1JOSldwb3A5aG8wYUQtVFAwZlRKYVZBemlJazZLcF9UR2xueXljM00yU0hKTlhyNlc4dEFaTU9aMHZOV1JqZWVFQXlITlZaZWRjMG5CRTBGckxLLVlGQlN0RUZMVVR0N2lnZjBF?oc=5",
+      "sourceName": "GlobeNewswire",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Webster Equity Partners",
+        "target": "Lifecore Biomedical",
+        "dedupeGroup": "webster-lifecore",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g013",
+      "source": "google-news",
+      "title": "Lifecore Biomedical to Be Acquired by Webster Equity Partners for Up to $663 Million",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGRob3VmQUdGM0Q2WUt6Qno0YmFINU1TU0x5Z0drZGJpeEZOcmJ2enpDX21DeWlHbk0ycTFFMjFZb0RWN0RRbzZ1NGp1SG9qR2JJY2EtMFZnUDItOGU4Y0dEeFE5czk4bEpZcnFjUWFRUDdNNXVma0xfNm1xQkhfVXhLUFlhTmZHaHlVdVR5SWtwWHFhS0pJaWhnYVhyZXJ6TVRBM3d6eEtGRGRj?oc=5",
+      "sourceName": "Yahoo Finance",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Webster Equity Partners",
+        "target": "Lifecore Biomedical",
+        "dedupeGroup": "webster-lifecore",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g014",
+      "source": "google-news",
+      "title": "SoundThinking to Be Acquired by Transom Capital Group in $8.00 Per Share Cash Deal Plus CVR for Up to $3.00 More",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNjZ3VTZ0UEtsaTZlQ3JuWW5IUmhjU2NSMjdKdUFXMV90NEluX0g5OEhwWnloUXdPb1g4bkdJUjdLZUp2TV9RVFBJa3Z0VjJkRGt1cDZnaUxMVWF3ZEVNZE1leTNPUFVlVWtXaldiVzRxRzVXVjFhZUhnaTFkT0dHTmY0bmFXX3VRbDFjeTc0QmtyVHloUXhKbXF5MF94R3g2dHFxUmZabkN1WGh1SDEwUWp4TWVSLUFzcHVQSE4zbHl6czJEaUdJTU1BUTFlcXpQc1Jyczd0WnlUZE83VFE?oc=5",
+      "sourceName": "Quiver Quantitative",
+      "publishedAt": "2026-09-29T11:42:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Transom Capital Group",
+        "target": "SoundThinking",
+        "dedupeGroup": "transom-soundthinking",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g015",
+      "source": "google-news",
+      "title": "SoundThinking To Be Acquired By Transom Capital For Up To $159 Million",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHlsbTBVdTd0cEI5WXEwQUdvSWFJczdKQ084a3N5djJWTGdDSHJNVy1qV1ByNEo1dXIyQW5kTlFWN3VfZG43a3NtY3ZXQXVvV2RjQnhXcU9hNmU1MmtGNkNkXzhidUZyUEdVdGI4el9YT1N5ZmYySGRQRThONFNyZV9xUjY3S042Y0Vqc0k4Njg1TTDSAZgBQVVfeXFMTkxETlVTYUFUYzlSbEp6RVZXMWFLaEpwQVNKVmlZR1NnUkx2aFVhLVVBRW5WSEhSbFJZanVKdXlxMlVzeHZzTG5RNnFKSy1oaUhYTndQZ1N5d29JdVY1SWJpMkN4SHZxYjd4R1VsRk9OX1JaTWl2OUxRU2dtMEVfZ1RpejljYnJTVWZRNVlqUmVmV3J5MnZBM3g?oc=5",
+      "sourceName": "Pulse 2.0",
+      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Transom Capital Group",
+        "target": "SoundThinking",
+        "dedupeGroup": "transom-soundthinking",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g016",
+      "source": "google-news",
+      "title": "Marygold Companies to be acquired by Madison Dearborn Partners in all-cash deal",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM2NrOTVqaGZjWGVUZlBtdjczWlVINjkxM3o1MDMybk1OZDd0TzZ5c040SFhSX1FVS1UzZ19TQ0xKVExVMTFWdmZOQTQzYWRuRTc1cjNBM0Nmdkkxc1R5c1R2Y05NeWtydjFrV3MwazRwMlFBbU5vVDE2cFRXT21QZ29OM0toa3FpQ3BFS3hDblhLSjBLTUgyZmNYZHF0XzZZTnBwN0FETUJfNEtTaTM3ek00V253aWM2V3gteHdES3FHeGdrdnlIZlAtVEpqWnc?oc=5",
+      "sourceName": "Investing.com",
+      "publishedAt": "2026-09-25T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Madison Dearborn Partners",
+        "target": "Marygold Companies",
+        "dedupeGroup": "mdp-marygold",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g017",
+      "source": "google-news",
+      "title": "Marygold Companies to Be Acquired by Madison Dearborn",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXQtRUxwUXR1bDBFTGhCbzFJYnhRSndBNjZxSGtlYWltanVJYjlUX0JRTVF6YmZaQU9scXlDdmFRVFY4VzBlY1BDdzMtTDFjVE5HeDZDZnN5WWRJRTUyU3lQRjFQU2szdk9na0c3TUE3Q0xRbU9xa1d1cXdENGZXckxMdC1lTHdjVTQ5ckpOUG5FQ21nbHI5eG5pcjJXcnN6azlMNTRjanE?oc=5",
+      "sourceName": "TipRanks",
+      "publishedAt": "2026-09-30T10:52:36.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Madison Dearborn Partners",
+        "target": "Marygold Companies",
+        "dedupeGroup": "mdp-marygold",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g018",
+      "source": "google-news",
+      "title": "Slate Grocery REIT To Be Acquired By Brixmor And Everview Partners For $2.3 Billion",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTllX2UzeWlMaEtmZnJSYjg2N1lCSHpodXJ0MjlqVWdmUUZudktuWFI4WTdXclVrdmxOTzJBRDZ6Z1JXVmRha2w5Z0VBLTZpZ1JGLUdRWC1hVWFYQWMtUC1iN21LeFNxZkZHTkgzcmpoOHFHaWFSZlVkR3J5cmtBSHB5NVNhZ0swbEFGSGFkQmpnNmdOWi1lMTZHbEw0Q1hMMlYyR9IBqgFBVV95cUxPU1hyM3BiZ0NMbDdiRW5RQm5IUm1UOExfemxsLVI1eTFxS2JmOTBOaGZXd08wZ2t1eFNPMlBXOWY3NXprNnVqSlZ4NUw1eUFGM1BNcUFaT2xkU0g5eHFzbFJCckFRaTlRaUVjS3pzUVNBZDYxUUtBb3BHTG13OXlSTjFRWlhFd19MUGtXdXVUSDA2dnNCV0RlR1hhbndSWk9laVNXSEhLb2VJdw?oc=5",
+      "sourceName": "Pulse 2.0",
+      "publishedAt": "2026-09-29T02:09:45.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Brixmor and Everview Partners",
+        "target": "Slate Grocery REIT",
+        "dedupeGroup": "brixmor-slate",
+        "notes": "Passive voice; joint acquirers"
+      }
+    },
+    {
+      "id": "g019",
+      "source": "google-news",
+      "title": "Brixmor And Everview To Acquire Slate Grocery REIT For $2.3 Billion",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFZYVlhxMWdRS0FDeFcxRmNVVjhXdlV3TVBaTkFHcTJZbUIwMnBKc3lZYi1FSUVqc3pPM0VpSVZDN05Bd0E4cFB4SGdKZm9nN1hxMmpHODBBOTVmUnBLX19VQkJIbTFCTE05SDJzdUdQNDFJQjBsdXVxeHVVNzVPNGhjUWpGV2FKcE5ORjh0WdIBlAFBVV95cUxOcldBZUlSTXpORjVKS0pPZ25QaHhtdWMweXRNNnNQZVBwazl5Z1o3TlRlWmkySEhwVkF0Slc0akhBTllNRVZWdzZxQkk2SzAzWHJ4UDg3czZBUWVlVzZGS1ZCSnBkdXJ4LVNPR1lFYU1VUWpvajg1WVJRelBNc2NGN1F3d0U2NUZMNXRjTzA0ak9FeG9X?oc=5",
+      "sourceName": "Pulse 2.0",
+      "publishedAt": "2026-10-03T18:53:38.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Brixmor and Everview Partners",
+        "target": "Slate Grocery REIT",
+        "dedupeGroup": "brixmor-slate",
+        "notes": "Joint acquirers"
+      }
+    },
+    {
+      "id": "g020",
+      "source": "google-news",
+      "title": "Cenovus Energy Agrees to Acquire Athabasca Oil in CA$5.7 Billion Deal",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUVXbUthUV83V2VGWDduS0dpcF9ZYXNfLWNWMUFnY3VsbmJmemZwY3dWLWYyU0x3emg1eGhva3FlM093RjlqbWhvRmhIRTFQMWVGWmVZOEFZRVFKcnBBTkNPZ3h5dkN5ZUxQNW9kMU1DRklWWTFBU0VfMzZUNWZaMGF2bEF2RzBuSGFuMThiX21qb2c5ak5xUE1CeDI?oc=5",
+      "sourceName": "Yahoo Finance",
+      "publishedAt": "2026-10-05T10:46:12.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Cenovus Energy",
+        "target": "Athabasca Oil",
+        "dedupeGroup": "cenovus-athabasca"
+      }
+    },
+    {
+      "id": "g021",
+      "source": "google-news",
+      "title": "Athabasca Oil Announces Agreement to be Acquired by Cenovus Energy",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcnR1dmZRSGhWR2FmQ3BUS19WSWxtenpiNVBwbnRiZjNVMVRQWEhpTm1MV3lzeVlQTTY1cHN2THNoU2lPbGRyM0JxMDAzSWZlU3dlVHVsLVFVTDFYNFJWSUpvejNkY1JFLTNwRnZqOWxXd0NrV09rZXM4ZXMxT3Ftc29QVVRuVUszVjBoUGJMQXRXWHBBYTRETlVwTUsxc3pJQ1R4MTVwQ0JGT0Z2Z2xpY3p1S3ZDdnhMUUNJbkZyX2NHc0VQR0JZQzBNaElrS0I5X0hOaA?oc=5",
+      "sourceName": "GlobeNewswire",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Cenovus Energy",
+        "target": "Athabasca Oil",
+        "dedupeGroup": "cenovus-athabasca",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g022",
+      "source": "google-news",
+      "title": "AMD to acquire World Labs in all-stock transaction valued at approximately $8.2 billion",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMjZtLU84WXJEdnAtWWF0bVZaSHFRdnpDUVRuUUJVTXZwWE5ZakpTSG5kQTIxRjA1cFNqM3ViS0dheVAyeDZNVV8xdC1UWGFfX3FRUjNKaklTUkFvVkpiTGhzUVVRc1JVVjBxa3BvRFY1XzRvTlNTYkVIUUFXU0lBcHQtaWt2dGZZMDlpUTJoMm82cTY1aHZTSVZQUUw1RHZLZWx4aV84X0FvaEVFN1VZWDYyb1Y2bURYQndvQ3FNeGI2cDN1RE5B?oc=5",
+      "sourceName": "CNBC",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "AMD",
+        "target": "World Labs",
+        "dedupeGroup": "amd-world-labs"
+      }
+    },
+    {
+      "id": "g023",
+      "source": "google-news",
+      "title": "AMD agrees to acquire World Labs for $8.2B in stock",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wNUtLRVd5SF9vclRmQS13dmlwVTI5d204LURYTVhINFBKZl8yNmxiM1U3WGhTVmg2MVZRa3JodUtLSVVLMHZZVEVMbzhqUHBEM2dNZkFKNkNVUmlYOVRzUzQ1aFIxMHlWR0dUVDc4VU52bWREMXFBQ3Z5OEtlRG8?oc=5",
+      "sourceName": "Axios",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "AMD",
+        "target": "World Labs",
+        "dedupeGroup": "amd-world-labs"
+      }
+    },
+    {
+      "id": "g024",
+      "source": "google-news",
+      "title": "KKR to acquire Gen II Fund Services for $5.1 billion in private-markets push",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV19uMnBpbHI5OVh4cU0yWF9JbHFNRkJlLVNsT3Q2dFRmQ0RxY1l1THJtT25Cb1pBMW5yVnQycy1JM0xYM3RId3VCdlkydFRndGpfVmlHaVQ1bUM0Vi1fdGZqYmRmTlFfNnJfZHp3ajl6OWtXcTlpYU44a0h5aG92S3M0dnF5Skt4NUx0WWxKSHoxdw?oc=5",
+      "sourceName": "Yahoo Finance",
+      "publishedAt": "2026-10-06T02:07:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "KKR",
+        "target": "Gen II Fund Services",
+        "dedupeGroup": "kkr-gen-ii"
+      }
+    },
+    {
+      "id": "g025",
+      "source": "google-news",
+      "title": "Gen II Fund Services to be acquired by KKR for $5.1bn",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlBPZ0ozNUlmY1dOZFMyVURESy1aQTI5TDJjcGxVdzBZcEJUUFZ0NWIxVDFZV1VZVEtRSXZlOHZoUldQbG42RjFqN2lrX1pXWDdLTVRLdGhKdEpzUU41Tjc2TG1hUWl6VTBUcjZGdU0yUGhEblNzNm1sUlJoNWlaMlprcE8wcFk1cjhpT1RhNmRmdWNuVGhXWmd3QU4wODQ?oc=5",
+      "sourceName": "Global Custodian",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "KKR",
+        "target": "Gen II Fund Services",
+        "dedupeGroup": "kkr-gen-ii",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g026",
+      "source": "google-news",
+      "title": "TowneBank to acquire NC bank for $154M",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTGJOUWozZ3ZHY192dXZrbjJLaWJaNEtTLWNMUDM3SFFHS3hqamhmTDAzWkpkbTlRellLQmlSWk5OZExmWUZkcWxCYkczc1doRXNxSWZaaVd4b0FiQ3lRSWpwZTFDbi1US09xb3JORGtBbGVkMzFsSjB6cl9LakRuYg?oc=5",
+      "sourceName": "Virginia Business",
+      "publishedAt": "2026-10-06T13:43:07.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "TowneBank",
+        "target": "blueharbor bank",
+        "dedupeGroup": "towne-blueharbor",
+        "notes": "Headline says 'NC bank'; name blueharbor bank comes from other outlets of same deal"
+      }
+    },
+    {
+      "id": "g027",
+      "source": "google-news",
+      "title": "TowneBank Agrees to Acquire blueharbor bank for Approximately $154 Million",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1J6U2d0NXpudG1ZaDZNTzY2clYxcTYyVDdLTVU1T1lESGhrMG9LMVpza09JMHpSVG9rTkdYM3JDbEZCc2Vjd2lrZ3JQQmZmTWNuMjNCOEdvc3d2WEdOWHRGUl9aUF80RGE5WmJEbkg1U181QTJGZFAtaXRaak1HMnJJb0VqZ2kwUExxZWVhQVBPUWZwdUp3dFI5TjB1bEpId3BaTmczUEQ?oc=5",
+      "sourceName": "Yahoo Finance",
+      "publishedAt": "2026-10-06T14:50:31.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "TowneBank",
+        "target": "blueharbor bank",
+        "dedupeGroup": "towne-blueharbor"
+      }
+    },
+    {
+      "id": "g028",
+      "source": "google-news",
+      "title": "SAP to acquire workforce data firm TechWolf",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGc4eU9vMjVLaTlOUldnZmZaV0ZNdEhaMUpNSVFHWVVaekZaWW04V04zLTJjSHNjVVlBUl9VRlJLZmhsMW1tMUcxMTZqWGFialUyNFBxcWR3ZXpJR0ZhS1p5NW9fUHZ5LTY3Y1ZjR2w4MUpfRkFsemJkUkNReE9GT2hZMU14eVZCTlhZOFBB?oc=5",
+      "sourceName": "Reuters",
+      "publishedAt": "2026-10-06T12:19:43.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "SAP",
+        "target": "TechWolf",
+        "dedupeGroup": "sap-techwolf"
+      }
+    },
+    {
+      "id": "g029",
+      "source": "google-news",
+      "title": "SAP agrees to acquire AI work intelligence firm TechWolf",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHZnX3lxT0xVV0FkdzQ1a3ZBLXBJY0g5cktFck5WVGpnM0pOUE9jaHlsaVFOaWZEUnJVQnBSeFNNSmJFOEFfOTAzSF84dHhyXzhkcm5hTVhGRUR4a182SlVkR0VfWE1ySjVoR2FabXdhdHdvUjVIeW1KcG9rd3JoZWVHblBaV01kTXJmakZSOVdXaDk0VUtMVHBZRVVQWTA?oc=5",
+      "sourceName": "Yahoo Finance",
+      "publishedAt": "2026-10-07T09:17:23.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "SAP",
+        "target": "TechWolf",
+        "dedupeGroup": "sap-techwolf"
+      }
+    },
+    {
+      "id": "g030",
+      "source": "google-news",
+      "title": "TD SYNNEX to Acquire BlueStar",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iUVBkUUdjLVpGS3JoMjJvbF9pVXZUekZ6d0Zrc0sxOUlEQXFvTFdfLTUtc1FNUmVRdTBOMlVNNHRPeERzcDNvSlFQV0ltSnRTd19NcUZ2VHhGbzFLLWxhOVdodnFOMmxnOHNDTUVJMFZlUQ?oc=5",
+      "sourceName": "AVNetwork",
+      "publishedAt": "2026-10-07T15:23:08.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "TD SYNNEX",
+        "target": "BlueStar",
+        "dedupeGroup": "tdsynnex-bluestar"
+      }
+    },
+    {
+      "id": "g031",
+      "source": "google-news",
+      "title": "BlueStar enters into an agreement to be acquired by TD SYNNEX",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbVZqNmFTZjZ0Qm41aFUtZXBFUGRNY29EZ2VPTXdTYjhZOE42UzN1YTBtT1pKbXRnVEdDbkNzMjl3TjBVa1lFcFpkSDExdEdiT2xlNEcxek91U0t3a3V2Q1ZzSEx3aUVRWTFLaEZhRVhJNUtfV21yTzJ6bUFyTVRyT19iUUJIVkZOZDltcFRtaGdEY1VqRVNDOXZIQ2tUUQ?oc=5",
+      "sourceName": "DevPro Journal",
+      "publishedAt": "2026-10-07T18:38:03.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "TD SYNNEX",
+        "target": "BlueStar",
+        "dedupeGroup": "tdsynnex-bluestar",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g032",
+      "source": "google-news",
+      "title": "BioLife Solutions Shareholders Approve Repligen Merger Agreement",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM2U4UzUtZ3l0bHFLWWJGVzg5RF9QeFNnNXlCUGdYTVR0UUZYRzNJZFd1cXdkZGJkaHR0allVSUNMOXdpa2JERTZZOExIU3U2RUpvcnBRWEN2LUxvTktIc2R2RTVzMmp6d3NXMnJaa0dleG44SnBjNXlGVFhBUml0MFpwaHdvbXFLRjN1azQwZ2JaNFFxQ3p6bUJFZFlqNVY0WGF2M3hxWWRsT0UxNlJuU0YtZGwzckdFTG5iX0I1S0VGdw?oc=5",
+      "sourceName": "TradingView",
+      "publishedAt": "2026-10-05T17:02:04.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Repligen",
+        "target": "BioLife Solutions",
+        "dedupeGroup": "repligen-biolife",
+        "notes": "Shareholder approval = deal status event; headline has no verb pattern"
+      }
+    },
+    {
+      "id": "g033",
+      "source": "google-news",
+      "title": "Paramount closes $110 billion deal to acquire Warner Bros. Discovery, creating Skydance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTklkUV9pUE92dER2eFBrVHhKWFRXNWZnWEIzQkhIX2FqZVc5dGY5NDc2YU1qaWRGeUx1d2RlR1JUZmJUN0ktYUNRcjEwMmJRUVdRd3ZtUjE0NXl3YXR6bERzd3ZKMzNoWklvc0VCLTZtZUdMRFpFTGlESDdDbFd2RA?oc=5",
+      "sourceName": "CBS News",
+      "publishedAt": "2026-10-06T15:15:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Paramount",
+        "target": "Warner Bros. Discovery",
+        "dedupeGroup": "paramount-wbd",
+        "notes": "Completed deal counts"
+      }
+    },
+    {
+      "id": "g034",
+      "source": "google-news",
+      "title": "Paramount closes deal to acquire Warner Brothers Discovery",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeFRpb0U4MEwxTzFCbXZRY3ZZZnRqLWVsYU1GWWhFbDRIR2h1SVd3OTBLSXh0ZlJtQXFNX0IyMkd5bFNmZXhKbDFqNXlaRkF2bE44aE1vQ3VzUEY2V0c0ejZkOEdDWk5tNWltM3psdHFJeGVkcEZ4WVdtaERHanVoTVBucXVvb3RTQVN5SlZ30gGmAUFVX3lxTFBlWTZfYWN3eEM2Q2stb3ZTYzNFMXVjX2toQTQzU3c1VlZyX0JrNElIMkkwVk9CREVKWUNHdVc3ZllDOFZRdTB3c2Y0djhSZHV0WDd4MGNhekR5OVlaWDNra0lMVG9hYkg3QmVqWnN4Y09mU01RS3pXaURtYU9Fdm8xWmcyX2F4ZFlBUU82VFpaQktwNVNPdDEtUEQ3RVQ4VDVXMGZDSWc?oc=5",
+      "sourceName": "WJTV",
+      "publishedAt": "2026-10-06T14:11:55.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Paramount",
+        "target": "Warner Bros. Discovery",
+        "dedupeGroup": "paramount-wbd",
+        "notes": "Completed deal counts"
+      }
+    },
+    {
+      "id": "g035",
+      "source": "google-news",
+      "title": "Copart Announces Extension of Tender Offer to Acquire ACV",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQckhjYnNoakY2TzRNV2J0QUJVOHhvaWpaaXZIdVdjYzNwZ3N0YjlSSkZveTZxMXpqUHhldE9oUm5OX2pjU3ZOX3d0NDNIYjZhTlM3Uy1EZGpMeEpfQ2FvTm5pWUsyaTd4Y0lDRGRoeU9RWkZFNy1TWFQwRTY5WmR3dnI0d3NISUR5M1p0aHhqRnV1TEVlWFFjYWstb3pnLTdGWUZ2Q0FoMA?oc=5",
+      "sourceName": "Yahoo Finance",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Copart",
+        "target": "ACV",
+        "dedupeGroup": "copart-acv",
+        "notes": "Tender offer extension is a status event on a live deal"
+      }
+    },
+    {
+      "id": "g036",
+      "source": "google-news",
+      "title": "Copart Announces Extension of Tender Offer to Acquire ACV",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaTVOZ0dZWmM1ZnRrZmpnZWxVVmczSXlleFBMZm4yaVd1NWlfRXR0QzVXWENjUmJ4MjRRWU5LNTRhOFA2dkVTcG1EeGVxR2JXVjBMSkh3V1ZPRVFIRmk5MHNNUDdIVDV0SDJuQUxYTnI3MVhPc1pwN0ROQ1U3amFCTFlWekppRkpFTWM3dG1RMVlHUQ?oc=5",
+      "sourceName": "Yahoo Finance UK",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Copart",
+        "target": "ACV",
+        "dedupeGroup": "copart-acv",
+        "notes": "Tender offer extension is a status event on a live deal"
+      }
+    },
+    {
+      "id": "g037",
+      "source": "google-news",
+      "title": "Boots to be acquired by Canadian investors",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjUyRXNjM195dFVyQXQ4alJPSzNYVzQzNWhwN0tqay1zbnhkOFRiSzFfWXJhWFp4Wl9hYWZYc2V6WUpqUHNBbmpUbjBXNDhmMDhPVVU1RzVBckdpYU5idER2M2gySnA2cVNfZXNPcFJqXzBXZUNDU214bVZlN28tYXBNQjc3YXJTYXM2TVE4T21DSGVI?oc=5",
+      "sourceName": "The Pharmaceutical Journal",
+      "publishedAt": "2026-10-08T18:07:45.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Wittington Investments (Weston family)",
+        "target": "Boots",
+        "dedupeGroup": "weston-boots",
+        "notes": "Passive; headline names only 'Canadian investors'"
+      }
+    },
+    {
+      "id": "g038",
+      "source": "google-news",
+      "title": "Boots to be acquired by Wittington Investments for $8.9bn",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmxEd0hNVnI2WDRkOTctQnotaFZjelplNTBOSmhVV3pQUW5NUXprVUZMUnJVLWU2aVhDSkhLM0o2c0ZmYkdIMks1QXluQ0Mxc2tZYjAwTlF5ckVISVhzYlpIWlNhdVRiNUNMMk1QWHcteW1aZk1VOEFhVG5hLWpYdDhpX0VHZDhWTUJRck5pUWl4algySERxa0h3Y0tza0E3ZnJjb2MtTzdEZFh6U2V4YVZDdw?oc=5",
+      "sourceName": "East Midlands Business Link",
+      "publishedAt": "2026-10-07T13:50:29.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Wittington Investments",
+        "target": "Boots",
+        "dedupeGroup": "weston-boots",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g039",
+      "source": "google-news",
+      "title": "Valley National Bank to acquire fintech Bluevine for $340M",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUVaOS1kXzFNNVgyc3ZZRGN2ekpnLWpPWW80aDlWTkRVOEY4aUNYMEVwS3R3MDloVkNmZTFlRFpIM0VJQVFlVVRNbFJ5c25YNnVrR3hzTFdteUVfNkFiM1dMLWVxS0hMeDVBbk1uT1BHX3hTSGR2R2EwaWZDdVM4WngwY08zTkJIZEFvd0hLZDgwMlJ6dXNpdm9VZTQtdUhEWlhWcGd3VE80MC01ZktGVVlycU4?oc=5",
+      "sourceName": "Banking Dive",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Valley National Bank",
+        "target": "Bluevine",
+        "dedupeGroup": "valley-bluevine"
+      }
+    },
+    {
+      "id": "g040",
+      "source": "google-news",
+      "title": "Bluevine Agrees to $340 Million Acquisition by Valley National Bank",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS3QyX2hRMERFV19tVVBvc09sd1RGWmNDLVdPOVFLc1pxQ2l4RGFrU24wYTBPX2JmTjJGTHJzMEluMndoaktERk5nMHh3S2Fma3o5clh4ZUowcUttb0diazRTeGp2SmRhTDJrQkUtYmdZSDhIV01Xa19UUlNjOEFPd2MxOC1kLXl4RVQwSGFVSzl5QQ?oc=5",
+      "sourceName": "Finovate",
+      "publishedAt": "2026-09-30T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Valley National Bank",
+        "target": "Bluevine",
+        "dedupeGroup": "valley-bluevine",
+        "notes": "Passive/nominalized: 'Bluevine Agrees to ... Acquisition by Valley National Bank'"
+      }
+    },
+    {
+      "id": "g041",
+      "source": "google-news",
+      "title": "Sangoma Technologies Corporation Enters into Definitive Agreement to be Acquired by BRC Group Holdings, Inc.",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSUZZaFZLTEFOUGFwUzRjTTh6T3Nod1RjMDhWMVgybnJZa1N3bHdSUFJValpDTWdHdC1MRF9jM09SV2pNMm9KOHE0UlBiZ1V5ODNlMWFkTXkxUUVEU3ZfV2dab3hRaDdscktUaWVmcl9MNUE3VHBuY3JsQ2t2QkpmTC1jVE54aURTUElCV3lxaXpVejhXdHB1akU1NGROT2xKX1NKaHZoS0YtWFdtYkF1NlgxelZxWU01XzFnSmpDU2k2aGZObm9xLXVqMUZuY3JuTWlxNVB0Y2llTVQxaEQ3THVDOXhzcHVFSnJwWFFlWVNiVUZhMU53?oc=5",
+      "sourceName": "Business Wire",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "BRC Group Holdings",
+        "target": "Sangoma Technologies",
+        "dedupeGroup": "brc-sangoma",
+        "notes": "Passive voice"
+      }
+    },
+    {
+      "id": "g042",
+      "source": "google-news",
+      "title": "BRC Group Holdings, Inc. Agrees to Acquire Sangoma Technologies Corporation to Scale Communications Portfolio",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZVQtRzlSaWR2Y2F5WUVBZVh2Wlc3UldIc0NpN3BkMk1ENkY5a2l1ODNsV3d6UUpKWk9NMG5WMDlxRkFXNzU0MFVCdDZjVFdVNHo3WHRKV1ZoQVF5a19nVWJLUk1yVkhnUnlUTHZ2VUJrbHVqRE1uTHJSOE9RWjBZM0ZGeWgxZUhLdlBMb1cxLXpBc3U0?oc=5",
+      "sourceName": "Yahoo Finance",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "BRC Group Holdings",
+        "target": "Sangoma Technologies",
+        "dedupeGroup": "brc-sangoma"
+      }
+    },
+    {
+      "id": "g043",
+      "source": "google-news",
+      "title": "Option Care Health Receives $5.8 Billion Acquisition Offer, Stock Price Soars 33% in a Single Day",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkxQYVdXYnBQMm5Da2poTzNQVUlZbk5VYTRNNzdObEFIc0tZbEpGaUVOUFFPa3B6dk9ZUWlQVE0xcGVSM1ZYU3JsZ1hKbWVCZDBGbUF2NTdkek1TYjNzWFlzZGs0VzBmR0J0cFB5TnlHOU1ZaFZmZzNkd2hsZjNSVTBpcXA1bzV4bHNFb2t0MF9MbDNRSU9oUG1PU1huZUZNZWtxWEhXU2o4aUtyeGh5THl4RGtOVmM1aXBINjFVaFZTRGFNY1E?oc=5",
+      "sourceName": "NAI500",
+      "publishedAt": "2026-10-07T07:33:15.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Clayton, Dubilier & Rice and McKesson",
+        "target": "Option Care Health",
+        "dedupeGroup": "cdr-option-care",
+        "notes": "Headline says 'offer' but the 8-K shows a signed merger agreement"
+      }
+    },
+    {
+      "id": "g044",
+      "source": "google-news",
+      "title": "USFM and Twin Vee Amend Merger Agreement",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUG44X2hVNWFXWDE2QnpDTkxSUzlxRGJBSTRfakVXOHBBRlE1OFJwa1UzOENMWk9SRjZJUjNmTVZqbGExR2JWbHdIYjBuZDZJeVlQRXkybW5HYzhYT09EcUR0U3J2bG9PR2Foa0dyNERZZlEzSVJWZUtvWkwwa1U5a0RtV1dPdUNyRDNkTFlGa0ZoaXkxdVE?oc=5",
+      "sourceName": "Yahoo Finance",
+      "publishedAt": "2026-10-08T11:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Twin Vee PowerCats",
+        "target": "USFM",
+        "dedupeGroup": "twin-vee-usfm",
+        "notes": "Amended merger agreement; direction ambiguous (Twin Vee is the public parent)"
+      }
+    },
+    {
+      "id": "g045",
+      "source": "google-news",
+      "title": "Bank7 Agrees to Acquire 100% of Century Financial Services",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEV2QTFYblA2RjNHdEJYWE5wNkNGOFA4RHhmaUR1VEkxR2IyN0hkNEhEUG5rNlcyTVBXLWlEQUFNSkNUU0FhOXRmcVR6eUNUdjhfcFVMZWtZQjEyaFBLMjBpV1ZUcUxUSU91NlpLVTZ0eFVNaXBQYllwV25jOEhoX3hNSVpHMkUyVUgteFRjLU1KNU5HRlNHNm5SdThYQQ?oc=5",
+      "sourceName": "Yahoo Finance",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Bank7",
+        "target": "Century Financial Services",
+        "dedupeGroup": "bank7-century"
+      }
+    },
+    {
+      "id": "g046",
+      "source": "google-news",
+      "title": "After one failed acquisition attempt, Lisata finds lifeline in Marea merger",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2dFS1VoQ1FkYUNJZjZJdHhGSDBfNURqTEVYV3ltMF85bDdCNS1zOHpHM0NNYTc1Y2pHalpfVWN1WlY5TTV3NjM0YmZUeTBIOUxSVGRQMjdUckotSllOMWtlV1NOb2dWSGliOXp6dmQzZ1YweXRUcWdQYVBwdjdoaVpRQm1tTG51dW1DYWx3QWVmTWV1bERJenhoamZSd05PVG5TSGJtMzlxQ0dGaUE?oc=5",
+      "sourceName": "Fierce Biotech",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Lisata Therapeutics",
+        "target": "Marea Therapeutics",
+        "dedupeGroup": "lisata-marea",
+        "notes": "No verb pattern; acquirer Lisata named only in subject"
+      }
+    },
+    {
+      "id": "g047",
+      "source": "google-news",
+      "title": "Curaleaf Enhances Offer to Acquire Aurora Cannabis in Takeover Bid",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOElmb2E0Smx1dG5JNDI3UWVEbThSRlJlY0NmVllnUTFOaTlNQktUamlZOVNhRFBoYmplc0pWTURsRTNTajhnSWVkNEcweGhzLTN6UFZ3RkJJdno0NU5pN2wxWVdHUWdFYnpGS0NMWXVXS0lnX2U5SnhOSnJTYy1DSU1lU0ZUMDNTS1c0VDdNclVFS0JVTFhSdnNuMmlnTFpaU2RSVEVmSlBLdW1wOXBZTVZKUVRveW5ZTkt3RFhqMWxxTk5Db0J6WkpKcm1CT3hjc0hTekxmRmo5QUJJUzRCY2lkcXplQmtjWHFuY2dLMy1iUHhvQTdrY0EwOFlFTFE?oc=5",
+      "sourceName": "Cannabis Business Times",
+      "publishedAt": "2026-10-05T23:33:23.000Z",
+      "label": {
+        "isDeal": true,
+        "acquirer": "Curaleaf",
+        "target": "Aurora Cannabis",
+        "dedupeGroup": "curaleaf-aurora",
+        "notes": "Formal public takeover bid (improved offer) counts; unsolicited"
+      }
+    },
+    {
+      "id": "g048",
+      "source": "google-news",
+      "title": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOTYxUnZPS1BaUTl3NU4tc1pXVEQwNVNKQjA5MllqWmJIejF4TmxUUmVpR2NNTXFWNmNTTHJPZjdSU25FZGdwSnZWX0RNY09OMEZCNUdjdUEzU19tLWRob3BGeXgyZEhlX195bUZGM19DXzF6aGV6NU9LTGNENDhOVnoxXzVScjJEZWNKeHZHbmZER2tCaUpHM1hVc3ppcXQtWDNaYlFYeEhoNzFiS0swYkplSkY?oc=5",
+      "sourceName": "Reuters",
+      "publishedAt": "2026-10-08T22:13:51.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Regulatory/political reaction to a proposal, not a deal announcement"
+      }
+    },
+    {
+      "id": "g049",
+      "source": "google-news",
+      "title": "People Inc. withdraws buyout to acquire MGM",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPamFxdWRQNGI0RWI4Z1lFZmtfX0FQZkxyejQyVEk1ek1YZjV6eHhneEdCTnB3dTVqcjdaOTJYUEZqWGFSV1I4UnVVb2NtcnJxX010UWc5UmZvNEk5RVBOQUphV0hOQzNnbFVVOG1IM1BDNC10UUMwMGs3Tm5kTy0taEZra0NpTmx2TExR?oc=5",
+      "sourceName": "FOX5 Vegas",
+      "publishedAt": "2026-09-23T07:00:00.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Buyout withdrawn; deal no longer exists"
+      }
+    },
+    {
+      "id": "g050",
+      "source": "google-news",
+      "title": "Bed Bath & Beyond drops $53M deal to acquire Fathom",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd3M3NE9Ud2FlM2NGbW1NWEY5SEtGUE8yTGplOUROMm9ic3hzX0FMd3hjSHZfZE83VUFYM0R1TGQtZEd6ejBzQm1mMW9sVnNvTVB2U2htQ2RMYVJoS2E2Sng1RlRZbXhEblZoVWR4TTNBMnJSTWFYRHN1bEhmTW82dno5S0pzN3ZnUGloMndZclZyRE41cFFkZnBB?oc=5",
+      "sourceName": "RealEstateNews.com",
+      "publishedAt": "2026-10-05T19:34:49.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Deal dropped/terminated"
+      }
+    },
+    {
+      "id": "g051",
+      "source": "google-news",
+      "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFAzNzlXTG5BbHZkbU5EX3lMZEl6Z3ZROVJPbE5NbFNwdXQtZ3N3cDlCYTNBVlg2VF9fTVE5RnIxS0I3b0dUejNudmZseG03RzVCdTBBS3hWaWM5S05KYV9WLWVOMENkODV0N2RXQzctank0bVpfSWo1bjNmbGg0Wi1RWFA?oc=5",
+      "sourceName": "Financial Times",
+      "publishedAt": "2026-10-10T18:14:28.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Talks only (rumor/report); no agreement"
+      }
+    },
+    {
+      "id": "g052",
+      "source": "google-news",
+      "title": "Gen Digital submits preliminary offer to acquire GoDaddy in potential Valley mega-deal",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHF3NnZBd2FPLUhQYzR5SGRrOXhLRmd5RlIwWnpSRmMzSm90MXh0M0ZsZFdaOEtmbDlibTJobkotVmZkU1BjTk5fNWJuQjJnSEtrLTNLTWNmeEFNR044TkkxaXFaSTFSalV6eTItd014b0FmZnF4ZjZzU0FrSkRER3JOeC1UYVI2bFBKSE9uZlNBSU9i?oc=5",
+      "sourceName": "KTAR News 92.3 FM",
+      "publishedAt": "2026-10-03T02:07:55.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Preliminary non-binding offer"
+      }
+    },
+    {
+      "id": "g053",
+      "source": "google-news",
+      "title": "Starbucks says it’s focused on turnaround after report it explored Chipotle merger",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdE4tZlJrYXpISkx1OWEtb0x3N0Q5ZXJsMGdhdi1KTGRCWEhPbTQyR1NlbmV1Q2JDckpLQUN6ZEoxSjNzMHF6WmRQUEZ3c1FUTFFIdkVjb0tGd3ltZDY0ZWU4UU8ycXZENkxqWkxZYmpGUTVaSy1rWUhGQ1dRa3NCY2Zqby1IWmJUN0I1NklyZ0tFSVI4WXhGY2xR?oc=5",
+      "sourceName": "NBC News",
+      "publishedAt": "2026-10-08T21:22:38.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Report that company explored a merger; rumor"
+      }
+    },
+    {
+      "id": "g054",
+      "source": "google-news",
+      "title": "Silver Lake Takes On Carl Icahn and the Merger Arbitrage World in Endeavor Fight",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdWJOLTF0NG1zaDlnRU9XWldPbGVraW5rR0NvejhrdXc1dFFKTEpyN211TmdFREVlVV9pVGlYT0Z5dmNKS0VzN1BSRkIwd2l0UWJLZkJFamo5OVJoR2ZuX1o2RFNIVExsMWMxQUxBTjhHTnZrSm50aHpvOEpMMURRZmFjTVdkWXk1ZlNKamYzYUNtTEFIdTVZdlMtQ1VDcG1DbXYyZDVqWHZDbzQ5VzJQZ21fTlpjWVZsVThxNWNR?oc=5",
+      "sourceName": "WSJ",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Merger-arbitrage market commentary (mentions Endeavor)"
+      }
+    },
+    {
+      "id": "g055",
+      "source": "google-news",
+      "title": "Paramount-Warner Bros. merger moves forward after judge approves settlement | CNN Business",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0NHMFNfSzFtbENOTlUtU1Boa01NUmZteklkRnVNLU5oRG9qbnRza0cwTlR5by1CdHhOM3N2bGNwVHhPdm1xVHZmUlNZTWxhT3hhTUFZV3BZYk9RUUR5TkNKQ0xuVFc5NjROakYxTHV4Rk5tbHQyd3dIbzlHcjRWak9n?oc=5",
+      "sourceName": "CNN",
+      "publishedAt": "2026-09-30T07:00:00.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Legal/regulatory step in an existing deal; commentary class, not an announcement/close/vote"
+      }
+    },
+    {
+      "id": "g056",
+      "source": "google-news",
+      "title": "Priority Technology Legal Alert: Priority Technology Holdings (PRTH) Investors are Notified of the Ongoing Investigation into Thomas Priore's $8.05 per share Take Private Deal",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNa05Bam5YMEFjUlF1WXczRkR1dTdBbE9MQzNrY3IyMkcxOHpCaHV6aUVkVzZ2SC1MaDVHUTkxOEhPSmtVSVlwaVZBOTJNRmhNb2ZlUkdXMktFelZvWWI3aWRYTW5PLTFKWmV0bnp3dXA1ejdCNEQtTmJCZk5oclg5VWhQUHpDX3VoeG5RUTZES090a3ZpdGpHdnUzYzEtc0hJd3hqUW1qVkdNZ180dW40UWpKdkgwYUJYMHBRYnBIYy0yWW5kVzlNOTI4ZWdaajlMWjhualJZMVNpUEZpXzNGWVc5UGxXdUJFRktXaWxJbjVwM3pVU2hsazE3TmhuY3F0Wl9mZjBPanpEdnpvVFVrZE9ZM0htUlVzb0c2M2x1VDNyTUJnVVhQRnRKNnpjN1huUllVWjE2bEJYamFMaWRHTHZDLTNEeS1WZE8ybzZXR0dOZw?oc=5",
+      "sourceName": "TradingView",
+      "publishedAt": "2026-09-29T10:06:00.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Shareholder law-firm alert about Priority Technology take-private"
+      }
+    },
+    {
+      "id": "g057",
+      "source": "google-news",
+      "title": "Silver Lake Takes On Carl Icahn and the Merger Arbitrage World in Endeavor Fight",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdWJOLTF0NG1zaDlnRU9XWldPbGVraW5rR0NvejhrdXc1dFFKTEpyN211TmdFREVlVV9pVGlYT0Z5dmNKS0VzN1BSRkIwd2l0UWJLZkJFamo5OVJoR2ZuX1o2RFNIVExsMWMxQUxBTjhHTnZrSm50aHpvOEpMMURRZmFjTVdkWXk1ZlNKamYzYUNtTEFIdTVZdlMtQ1VDcG1DbXYyZDVqWHZDbzQ5VzJQZ21fTlpjWVZsVThxNWNR?oc=5",
+      "sourceName": "WSJ",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Merger-arbitrage market commentary"
+      }
+    },
+    {
+      "id": "g058",
+      "source": "google-news",
+      "title": "Why Arcosa Inc. (ACA) Offers a Merger Arbitrage Opportunity",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0xMdW5BSERQVEVIVVdvTk9lbnpBS1dVdEliREtYZzlBMjFDNUJTMmdUYUxZQVVscllVZ29VOHZoU3dBV2QxZjBPTFRhc2JPSW02VW10VW5BdGZYUGlJOXJHV1RSQ0Z1Ri1rUzMtYkVvanBFcEVJV0lEeTh1dnFjZEk2VXFQOVM4cEpITEIwZUZBNnND?oc=5",
+      "sourceName": "Yahoo Finance",
+      "publishedAt": "2026-09-30T07:00:00.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Merger-arbitrage investment commentary"
+      }
+    },
+    {
+      "id": "g059",
+      "source": "google-news",
+      "title": "Organon: A Merger-Arbitrage Hold With Limited Upside",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYk9UbWY3Q1JiYU5hRm5pNWJpTzNhd1E5QzZST3ZHNmhVcDZsTjJ6OFZRR2k3MFVGUjY5UV91SkJsNWF1bGVqVXg2UjEzdFZYay1lVW5NZzJUVmU4alNjZkM4ZFU4VmdhOVgwQU1INUY0VElXQ0s5VmVOdUxGTGhWVEZ4Qk1MQTVyckhHQjRqc1RWQ0xmcG5B?oc=5",
+      "sourceName": "Seeking Alpha",
+      "publishedAt": "2026-09-12T07:00:00.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Merger-arbitrage investment commentary"
+      }
+    },
+    {
+      "id": "g060",
+      "source": "google-news",
+      "title": "Worthington Steel Reports First Quarter Fiscal 2027 Results",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzRNb2ZOSDlMcGdKN3QwOEVOdVVYanRqT3ZRUzNCWFZJbjB6RFVZZ3NTaFdFT21rcFI1d1lhblNsdkQ5SXUtQnZ1R3ZlVjZSX1JiNkFlbzIzazgwMmw3OUhNM3pVM0FhclBWcVN3Vk9CdEc0UnF6RFF4T0pGQ3d6MmpKVUR4Q1pGTlNQMm9PbWZEb3BYSjUtZDk0aUUxdmozR3dBdW45cmxHZ2xMcFRnYTFJYlo0VEE?oc=5",
+      "sourceName": "Business Wire",
+      "publishedAt": "2026-10-06T20:04:00.000Z",
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Earnings release"
+      }
+    },
+    {
+      "id": "s001",
+      "source": "sec-edgar",
+      "title": "Option Care Health, Inc. — 8-K filing (1.01, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1014739/000110465926113904/tm2627097d1_8k.htm",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "adsh": "0001104659-26-113904",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-06",
+      "display_names": [
+        "Option Care Health, Inc. (OPCH) (CIK 0001014739)"
+      ],
+      "ciks": [
+        "0001014739"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Clayton, Dubilier & Rice and McKesson",
+        "target": "Option Care Health",
+        "dedupeGroup": "cdr-option-care"
+      }
+    },
+    {
+      "id": "s002",
+      "source": "sec-edgar",
+      "title": "LIFECORE BIOMEDICAL, INC. \\DE\\ — 8-K filing (1.01, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1005286/000114036126037767/ef20082009_8k.htm",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "adsh": "0001140361-26-037767",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-28",
+      "display_names": [
+        "LIFECORE BIOMEDICAL, INC. \\DE\\ (LFCR) (CIK 0001005286)"
+      ],
+      "ciks": [
+        "0001005286"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Webster Equity Partners",
+        "target": "Lifecore Biomedical",
+        "dedupeGroup": "webster-lifecore"
+      }
+    },
+    {
+      "id": "s003",
+      "source": "sec-edgar",
+      "title": "Twin Vee PowerCats, Co. — 8-K filing (1.01, 5.02, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1855509/000173112226001330/e7999_8-k.htm",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "adsh": "0001731122-26-001330",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "5.02",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-08",
+      "display_names": [
+        "Twin Vee PowerCats, Co. (VEEE) (CIK 0001855509)"
+      ],
+      "ciks": [
+        "0001855509"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Twin Vee PowerCats",
+        "target": "USFM",
+        "dedupeGroup": "twin-vee-usfm",
+        "notes": "Amended and restated merger agreement"
+      }
+    },
+    {
+      "id": "s004",
+      "source": "sec-edgar",
+      "title": "Bank7 Corp. — 8-K filing (1.01, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1746129/000114036126036855/ef20081983_8k.htm",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "adsh": "0001140361-26-036855",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-17",
+      "display_names": [
+        "Bank7 Corp. (BSVN) (CIK 0001746129)"
+      ],
+      "ciks": [
+        "0001746129"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Bank7",
+        "target": "Century Financial Services",
+        "dedupeGroup": "bank7-century"
+      }
+    },
+    {
+      "id": "s005",
+      "source": "sec-edgar",
+      "title": "Capital Bancorp Inc — 8-K filing (1.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1419536/000141953626000145/cbnk-20260929.htm",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "adsh": "0001419536-26-000145",
+      "form": "8-K",
+      "items": [
+        "1.01"
+      ],
+      "file_date": "2026-09-30",
+      "display_names": [
+        "Capital Bancorp Inc (CBNK) (CIK 0001419536)"
+      ],
+      "ciks": [
+        "0001419536"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Peoples Bancorp",
+        "target": "Capital Bancorp",
+        "dedupeGroup": "peoples-capital"
+      }
+    },
+    {
+      "id": "s006",
+      "source": "sec-edgar",
+      "title": "PEOPLES BANCORP INC — 8-K filing (1.01, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/318300/000031830026000205/pebo-20260930.htm",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "adsh": "0000318300-26-000205",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-30",
+      "display_names": [
+        "PEOPLES BANCORP INC (PEBO) (CIK 0000318300)"
+      ],
+      "ciks": [
+        "0000318300"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Peoples Bancorp",
+        "target": "Capital Bancorp",
+        "dedupeGroup": "peoples-capital"
+      }
+    },
+    {
+      "id": "s007",
+      "source": "sec-edgar",
+      "title": "PTC INC. — 8-K filing (1.01, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/857005/000119312526413124/d174191d8k.htm",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "adsh": "0001193125-26-413124",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-05",
+      "display_names": [
+        "PTC INC. (PTC) (CIK 0000857005)"
+      ],
+      "ciks": [
+        "0000857005"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Schneider Electric",
+        "target": "PTC",
+        "dedupeGroup": "schneider-ptc"
+      }
+    },
+    {
+      "id": "s008",
+      "source": "sec-edgar",
+      "title": "RXO, Inc. — 8-K filing (1.01, 8.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1929561/000114036126038548/ef20083265_8k.htm",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "adsh": "0001140361-26-038548",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "8.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-05",
+      "display_names": [
+        "RXO, Inc. (RXO) (CIK 0001929561)"
+      ],
+      "ciks": [
+        "0001929561"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "C.H. Robinson",
+        "target": "RXO",
+        "dedupeGroup": "chrw-rxo"
+      }
+    },
+    {
+      "id": "s009",
+      "source": "sec-edgar",
+      "title": "C. H. ROBINSON WORLDWIDE, INC. — 8-K filing (1.01, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1043277/000119312526413203/d115124d8k.htm",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "adsh": "0001193125-26-413203",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-05",
+      "display_names": [
+        "C. H. ROBINSON WORLDWIDE, INC. (CHRW) (CIK 0001043277)"
+      ],
+      "ciks": [
+        "0001043277"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "C.H. Robinson",
+        "target": "RXO",
+        "dedupeGroup": "chrw-rxo"
+      }
+    },
+    {
+      "id": "s010",
+      "source": "sec-edgar",
+      "title": "SOUNDTHINKING, INC. — 8-K filing (1.01, 5.02, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1351636/000119312526406024/d107296d8k.htm",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "adsh": "0001193125-26-406024",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "5.02",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-29",
+      "display_names": [
+        "SOUNDTHINKING, INC. (SSTI) (CIK 0001351636)"
+      ],
+      "ciks": [
+        "0001351636"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Transom Capital Group",
+        "target": "SoundThinking",
+        "dedupeGroup": "transom-soundthinking"
+      }
+    },
+    {
+      "id": "s011",
+      "source": "sec-edgar",
+      "title": "ON SEMICONDUCTOR CORP — 8-K filing (1.01, 8.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1097864/000114036126038294/ef20083030_8k.htm",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "adsh": "0001140361-26-038294",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "8.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-01",
+      "display_names": [
+        "ON SEMICONDUCTOR CORP (ON) (CIK 0001097864)"
+      ],
+      "ciks": [
+        "0001097864"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "onsemi",
+        "target": "Synaptics",
+        "dedupeGroup": "onsemi-synaptics",
+        "notes": "Amended and restated merger agreement"
+      }
+    },
+    {
+      "id": "s012",
+      "source": "sec-edgar",
+      "title": "SYNAPTICS Inc — 8-K filing (1.01, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/817720/000114036126038301/ef20083029_8k.htm",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "adsh": "0001140361-26-038301",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-01",
+      "display_names": [
+        "SYNAPTICS Inc (SYNA) (CIK 0000817720)"
+      ],
+      "ciks": [
+        "0000817720"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "onsemi",
+        "target": "Synaptics",
+        "dedupeGroup": "onsemi-synaptics",
+        "notes": "Amended and restated merger agreement"
+      }
+    },
+    {
+      "id": "s013",
+      "source": "sec-edgar",
+      "title": "Priority Technology Holdings, Inc. — 8-K filing (1.01, 5.02, 8.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1653558/000121390026101651/ea0306047-8k_priority.htm",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "adsh": "0001213900-26-101651",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "5.02",
+        "8.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-21",
+      "display_names": [
+        "Priority Technology Holdings, Inc. (PRTH, PRTHU) (CIK 0001653558)"
+      ],
+      "ciks": [
+        "0001653558"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "WD Capital Partners",
+        "target": "Priority Technology Holdings",
+        "dedupeGroup": "wd-priority",
+        "notes": "Take-private"
+      }
+    },
+    {
+      "id": "s014",
+      "source": "sec-edgar",
+      "title": "Pacira BioSciences, Inc. — 8-K filing (1.01, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1396814/000110465926114571/tm2627240d2_8k.htm",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "adsh": "0001104659-26-114571",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-08",
+      "display_names": [
+        "Pacira BioSciences, Inc. (PCRX) (CIK 0001396814)"
+      ],
+      "ciks": [
+        "0001396814"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Viatris",
+        "target": "Pacira BioSciences",
+        "dedupeGroup": "viatris-pacira"
+      }
+    },
+    {
+      "id": "s015",
+      "source": "sec-edgar",
+      "title": "Viatris Inc — 8-K filing (1.01, 8.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1792044/000114036126039024/ef20083514_8k.htm",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "adsh": "0001140361-26-039024",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "8.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-08",
+      "display_names": [
+        "Viatris Inc (VTRS) (CIK 0001792044)"
+      ],
+      "ciks": [
+        "0001792044"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Viatris",
+        "target": "Pacira BioSciences",
+        "dedupeGroup": "viatris-pacira"
+      }
+    },
+    {
+      "id": "s016",
+      "source": "sec-edgar",
+      "title": "Mistras Group, Inc. — 8-K filing (1.01, 5.02, 7.01, 8.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1436126/000114036126037107/ef20082419_8k.htm",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "adsh": "0001140361-26-037107",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "5.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-18",
+      "display_names": [
+        "Mistras Group, Inc. (MG) (CIK 0001436126)"
+      ],
+      "ciks": [
+        "0001436126"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "H.I.G. Capital",
+        "target": "Mistras Group",
+        "dedupeGroup": "hig-mistras"
+      }
+    },
+    {
+      "id": "s017",
+      "source": "sec-edgar",
+      "title": "Lexeo Therapeutics, Inc. — 8-K filing (1.01, 8.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1907108/000119312526397221/lxeo-20260916.htm",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "adsh": "0001193125-26-397221",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "8.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-22",
+      "display_names": [
+        "Lexeo Therapeutics, Inc. (LXEO) (CIK 0001907108)"
+      ],
+      "ciks": [
+        "0001907108"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Lexeo Therapeutics",
+        "target": "Mantle Therapeutics",
+        "dedupeGroup": "lexeo-mantle"
+      }
+    },
+    {
+      "id": "s018",
+      "source": "sec-edgar",
+      "title": "Lexeo Therapeutics, Inc. — 8-K filing (2.01, 3.02, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1907108/000119312526407555/lxeo-20260929.htm",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "adsh": "0001193125-26-407555",
+      "form": "8-K",
+      "items": [
+        "2.01",
+        "3.02",
+        "9.01"
+      ],
+      "file_date": "2026-09-29",
+      "display_names": [
+        "Lexeo Therapeutics, Inc. (LXEO) (CIK 0001907108)"
+      ],
+      "ciks": [
+        "0001907108"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Lexeo Therapeutics",
+        "target": "Mantle Therapeutics",
+        "dedupeGroup": "lexeo-mantle",
+        "notes": "Completion of acquisition"
+      }
+    },
+    {
+      "id": "s019",
+      "source": "sec-edgar",
+      "title": "Marygold Companies, Inc. — 8-K filing (1.01, 5.03, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1005101/000149315226044491/form8-k.htm",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "adsh": "0001493152-26-044491",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "5.03",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-28",
+      "display_names": [
+        "Marygold Companies, Inc. (MGLD) (CIK 0001005101)"
+      ],
+      "ciks": [
+        "0001005101"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Madison Dearborn Partners",
+        "target": "Marygold Companies",
+        "dedupeGroup": "mdp-marygold"
+      }
+    },
+    {
+      "id": "s020",
+      "source": "sec-edgar",
+      "title": "LISATA THERAPEUTICS, INC. — 8-K filing (1.01, 2.01, 3.02, 5.02, 5.03, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/320017/000114036126036866/ef20082158_8k.htm",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "adsh": "0001140361-26-036866",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.01",
+        "3.02",
+        "5.02",
+        "5.03",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-17",
+      "display_names": [
+        "LISATA THERAPEUTICS, INC. (LSTA) (CIK 0000320017)"
+      ],
+      "ciks": [
+        "0000320017"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Lisata Therapeutics",
+        "target": "Marea Therapeutics",
+        "dedupeGroup": "lisata-marea",
+        "notes": "Completion of acquisition"
+      }
+    },
+    {
+      "id": "s021",
+      "source": "sec-edgar",
+      "title": "BIOLIFE SOLUTIONS INC — 8-K filing (2.01, 3.01, 3.03, 5.01, 5.02, 5.03, 5.07, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/834365/000119312526415012/d753652d8k.htm",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "adsh": "0001193125-26-415012",
+      "form": "8-K",
+      "items": [
+        "2.01",
+        "3.01",
+        "3.03",
+        "5.01",
+        "5.02",
+        "5.03",
+        "5.07",
+        "9.01"
+      ],
+      "file_date": "2026-10-06",
+      "display_names": [
+        "BIOLIFE SOLUTIONS INC (BLFS) (CIK 0000834365)"
+      ],
+      "ciks": [
+        "0000834365"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Repligen",
+        "target": "BioLife Solutions",
+        "dedupeGroup": "repligen-biolife",
+        "notes": "Completion of merger (filed by target)"
+      }
+    },
+    {
+      "id": "s022",
+      "source": "sec-edgar",
+      "title": "REPLIGEN CORP — 8-K filing (2.01, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/730272/000119312526415015/d240327d8k.htm",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "adsh": "0001193125-26-415015",
+      "form": "8-K",
+      "items": [
+        "2.01",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-06",
+      "display_names": [
+        "REPLIGEN CORP (RGEN) (CIK 0000730272)"
+      ],
+      "ciks": [
+        "0000730272"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Repligen",
+        "target": "BioLife Solutions",
+        "dedupeGroup": "repligen-biolife",
+        "notes": "Completion of merger (filed by acquirer)"
+      }
+    },
+    {
+      "id": "s023",
+      "source": "sec-edgar",
+      "title": "AtaiBeckley Inc. — 8-K filing (2.01, 3.01, 3.03, 5.01, 5.02, 5.03, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/2081043/000114036126036283/ef20081247_8k.htm",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "adsh": "0001140361-26-036283",
+      "form": "8-K",
+      "items": [
+        "2.01",
+        "3.01",
+        "3.03",
+        "5.01",
+        "5.02",
+        "5.03",
+        "9.01"
+      ],
+      "file_date": "2026-09-11",
+      "display_names": [
+        "AtaiBeckley Inc. (ATAI) (CIK 0002081043)"
+      ],
+      "ciks": [
+        "0002081043"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Eli Lilly",
+        "target": "AtaiBeckley",
+        "dedupeGroup": "lilly-atai",
+        "notes": "Completion of merger"
+      }
+    },
+    {
+      "id": "s024",
+      "source": "sec-edgar",
+      "title": "Warner Bros. Discovery, Inc. — 8-K filing (1.01, 1.02, 2.01, 2.03, 3.01, 3.03, 5.01, 5.02, 5.03, 8.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1437107/000119312526415055/d200872d8k.htm",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "adsh": "0001193125-26-415055",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "1.02",
+        "2.01",
+        "2.03",
+        "3.01",
+        "3.03",
+        "5.01",
+        "5.02",
+        "5.03",
+        "8.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-06",
+      "display_names": [
+        "Warner Bros. Discovery, Inc. (WBD) (CIK 0001437107)"
+      ],
+      "ciks": [
+        "0001437107"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Paramount Skydance",
+        "target": "Warner Bros. Discovery",
+        "dedupeGroup": "paramount-wbd",
+        "notes": "Completion of merger"
+      }
+    },
+    {
+      "id": "s025",
+      "source": "sec-edgar",
+      "title": "Paramount Skydance Corp — 8-K filing (1.01, 1.02, 2.01, 2.03, 3.02, 5.02, 5.03, 5.07, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926113913/tm2626659d7_ex10-1.htm",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "adsh": "0001104659-26-113913",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "1.02",
+        "2.01",
+        "2.03",
+        "3.02",
+        "5.02",
+        "5.03",
+        "5.07",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-06",
+      "display_names": [
+        "Paramount Skydance Corp (PSKY) (CIK 0002041610)"
+      ],
+      "ciks": [
+        "0002041610"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Paramount Skydance",
+        "target": "Warner Bros. Discovery",
+        "dedupeGroup": "paramount-wbd",
+        "notes": "Merger agreement referenced in compensation/closing filing; registrant is the acquirer"
+      }
+    },
+    {
+      "id": "s026",
+      "source": "sec-edgar",
+      "title": "LIQUIDITY SERVICES INC — 8-K filing (1.01, 2.01, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1235468/000119312526410662/lqdt-20261001.htm",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "adsh": "0001193125-26-410662",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.01",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-01",
+      "display_names": [
+        "LIQUIDITY SERVICES INC (LQDT) (CIK 0001235468)"
+      ],
+      "ciks": [
+        "0001235468"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Liquidity Services",
+        "target": "Auction Holdings",
+        "dedupeGroup": "liquidity-auction-holdings",
+        "notes": "Roles inferred: registrant's subsidiary is the merger sub; unsure of acquirer/target direction"
+      }
+    },
+    {
+      "id": "s027",
+      "source": "sec-edgar",
+      "title": "Theravance Biopharma, Inc. — 8-K filing (1.01, 2.01, 3.01, 3.03, 5.01, 5.02, 5.03, 8.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1583107/000110465926109979/tm2625984d1_8k.htm",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "adsh": "0001104659-26-109979",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.01",
+        "3.01",
+        "3.03",
+        "5.01",
+        "5.02",
+        "5.03",
+        "8.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-23",
+      "display_names": [
+        "Theravance Biopharma, Inc. (TBPH) (CIK 0001583107)"
+      ],
+      "ciks": [
+        "0001583107"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Zymeworks",
+        "target": "Theravance Biopharma",
+        "dedupeGroup": "zymeworks-theravance"
+      }
+    },
+    {
+      "id": "s028",
+      "source": "sec-edgar",
+      "title": "Zymeworks Inc. — 8-K filing (1.01, 2.01, 2.03, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1937653/000119312526399383/d270232d8k.htm",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "adsh": "0001193125-26-399383",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.01",
+        "2.03",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-23",
+      "display_names": [
+        "Zymeworks Inc. (ZYME) (CIK 0001937653)"
+      ],
+      "ciks": [
+        "0001937653"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Zymeworks",
+        "target": "Theravance Biopharma",
+        "dedupeGroup": "zymeworks-theravance",
+        "notes": "Completion of merger"
+      }
+    },
+    {
+      "id": "s029",
+      "source": "sec-edgar",
+      "title": "Simulations Plus, Inc. — 8-K filing (2.01, 3.01, 3.03, 5.01, 5.02, 5.03, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1023459/000102345926000092/slp-20261006.htm",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "adsh": "0001023459-26-000092",
+      "form": "8-K",
+      "items": [
+        "2.01",
+        "3.01",
+        "3.03",
+        "5.01",
+        "5.02",
+        "5.03",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-06",
+      "display_names": [
+        "Simulations Plus, Inc. (SLP) (CIK 0001023459)"
+      ],
+      "ciks": [
+        "0001023459"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Altaris",
+        "target": "Simulations Plus",
+        "dedupeGroup": "altaris-simulations-plus",
+        "notes": "Completion of merger"
+      }
+    },
+    {
+      "id": "s030",
+      "source": "sec-edgar",
+      "title": "MODINE MANUFACTURING CO — 8-K filing (1.01, 2.01, 5.02, 7.01, 8.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/67347/000110465926112870/tm2626618d1_8k.htm",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "adsh": "0001104659-26-112870",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.01",
+        "5.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-01",
+      "display_names": [
+        "MODINE MANUFACTURING CO (MOD) (CIK 0000067347)"
+      ],
+      "ciks": [
+        "0000067347"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Gentherm",
+        "target": "Modine Performance Technologies",
+        "dedupeGroup": "gentherm-modine-pt",
+        "notes": "Reverse Morris Trust completion"
+      }
+    },
+    {
+      "id": "s031",
+      "source": "sec-edgar",
+      "title": "Gentherm Inc — 8-K filing (1.01, 2.01, 2.03, 5.02, 5.03, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/903129/000119312526410776/d214921d8k.htm",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "adsh": "0001193125-26-410776",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.01",
+        "2.03",
+        "5.02",
+        "5.03",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-01",
+      "display_names": [
+        "Gentherm Inc (THRM, THRMV) (CIK 0000903129)"
+      ],
+      "ciks": [
+        "0000903129"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Gentherm",
+        "target": "Modine Performance Technologies",
+        "dedupeGroup": "gentherm-modine-pt",
+        "notes": "Reverse Morris Trust completion"
+      }
+    },
+    {
+      "id": "s032",
+      "source": "sec-edgar",
+      "title": "SKYWORKS SOLUTIONS, INC. — 8-K filing (2.01, 5.02, 8.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/4127/000110465926113538/tm2626934d1_8k.htm",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "adsh": "0001104659-26-113538",
+      "form": "8-K",
+      "items": [
+        "2.01",
+        "5.02",
+        "8.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-05",
+      "display_names": [
+        "SKYWORKS SOLUTIONS, INC. (SWKS) (CIK 0000004127)"
+      ],
+      "ciks": [
+        "0000004127"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Skyworks Solutions",
+        "target": "Qorvo",
+        "dedupeGroup": "skyworks-qorvo",
+        "notes": "Completion of merger"
+      }
+    },
+    {
+      "id": "s033",
+      "source": "sec-edgar",
+      "title": "Qorvo, Inc. — 8-K filing (1.02, 2.01, 3.01, 3.03, 5.01, 5.02, 5.03, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1604778/000095010326015180/dp254466_8k.htm",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "adsh": "0000950103-26-015180",
+      "form": "8-K",
+      "items": [
+        "1.02",
+        "2.01",
+        "3.01",
+        "3.03",
+        "5.01",
+        "5.02",
+        "5.03",
+        "9.01"
+      ],
+      "file_date": "2026-10-05",
+      "display_names": [
+        "Qorvo, Inc. (QRVO) (CIK 0001604778)"
+      ],
+      "ciks": [
+        "0001604778"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Skyworks Solutions",
+        "target": "Qorvo",
+        "dedupeGroup": "skyworks-qorvo",
+        "notes": "Completion of merger"
+      }
+    },
+    {
+      "id": "s034",
+      "source": "sec-edgar",
+      "title": "ADVANCED MICRO DEVICES INC — 8-K filing (3.02)",
+      "link": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000182/amd-20260926.htm",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "adsh": "0000002488-26-000182",
+      "form": "8-K",
+      "items": [
+        "3.02"
+      ],
+      "file_date": "2026-09-28",
+      "display_names": [
+        "ADVANCED MICRO DEVICES INC (AMD) (CIK 0000002488)"
+      ],
+      "ciks": [
+        "0000002488"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "AMD",
+        "target": "World Labs",
+        "dedupeGroup": "amd-world-labs",
+        "notes": "Item 3.02 unregistered share issuance disclosing the merger"
+      }
+    },
+    {
+      "id": "s035",
+      "source": "sec-edgar",
+      "title": "WATSCO INC — 8-K filing (3.02)",
+      "link": "https://www.sec.gov/Archives/edgar/data/105016/000119312526394393/wso-20260912.htm",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "adsh": "0001193125-26-394393",
+      "form": "8-K",
+      "items": [
+        "3.02"
+      ],
+      "file_date": "2026-09-17",
+      "display_names": [
+        "WATSCO INC (WSO, WSO-B) (CIK 0000105016)"
+      ],
+      "ciks": [
+        "0000105016"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Watsco",
+        "target": "Granite Group Holdings",
+        "dedupeGroup": "watsco-granite",
+        "notes": "Acquisition of plumbing/HVAC distributor; target named via 'Granite Group Holdings'"
+      }
+    },
+    {
+      "id": "s036",
+      "source": "sec-edgar",
+      "title": "INDEPENDENCE REALTY TRUST, INC. — 8-K filing (1.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926031071/irt20260921c_8k.htm",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "adsh": "0001437749-26-031071",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-23",
+      "display_names": [
+        "INDEPENDENCE REALTY TRUST, INC. (IRT) (CIK 0001466085)"
+      ],
+      "ciks": [
+        "0001466085"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Independence Realty Trust",
+        "target": "Centerspace",
+        "dedupeGroup": "irt-centerspace",
+        "notes": "Amendment to merger agreement"
+      }
+    },
+    {
+      "id": "s037",
+      "source": "sec-edgar",
+      "title": "CENTERSPACE — 8-K filing (1.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/798359/000114036126037453/ef20082596_8k.htm",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "adsh": "0001140361-26-037453",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "9.01"
+      ],
+      "file_date": "2026-09-23",
+      "display_names": [
+        "CENTERSPACE (CSR) (CIK 0000798359)"
+      ],
+      "ciks": [
+        "0000798359"
+      ],
+      "label": {
+        "isDeal": true,
+        "acquirer": "Independence Realty Trust",
+        "target": "Centerspace",
+        "dedupeGroup": "irt-centerspace",
+        "notes": "Amendment to merger agreement"
+      }
+    },
+    {
+      "id": "s038",
+      "source": "sec-edgar",
+      "title": "BC Partners Lending Corp — 8-K filing (1.01, 2.01, 2.03, 7.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1726548/000119312526412318/d54925d8k.htm",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "adsh": "0001193125-26-412318",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.01",
+        "2.03",
+        "7.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-02",
+      "display_names": [
+        "BC Partners Lending Corp (CIK 0001726548)"
+      ],
+      "ciks": [
+        "0001726548"
+      ],
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "False positive: credit-facility amendment, not an M&A deal"
+      }
+    },
+    {
+      "id": "s039",
+      "source": "sec-edgar",
+      "title": "SOBR Safe, Inc. — 8-K filing (1.02, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226005700/sobr_ex21.htm",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "adsh": "0001477932-26-005700",
+      "form": "8-K",
+      "items": [
+        "1.02",
+        "9.01"
+      ],
+      "file_date": "2026-09-18",
+      "display_names": [
+        "SOBR Safe, Inc. (SOBR) (CIK 0001425627)"
+      ],
+      "ciks": [
+        "0001425627"
+      ],
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Termination of a merger agreement (SOBR Safe); deal no longer exists"
+      }
+    },
+    {
+      "id": "s040",
+      "source": "sec-edgar",
+      "title": "Fathom Holdings Inc. — 8-K filing (1.01, 1.02, 2.03, 8.01, 9.01)",
+      "link": "https://www.sec.gov/Archives/edgar/data/1753162/000143774926032044/ex_1022318.htm",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "adsh": "0001437749-26-032044",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "1.02",
+        "2.03",
+        "8.01",
+        "9.01"
+      ],
+      "file_date": "2026-10-05",
+      "display_names": [
+        "Fathom Holdings Inc. (FTHM) (CIK 0001753162)"
+      ],
+      "ciks": [
+        "0001753162"
+      ],
+      "label": {
+        "isDeal": false,
+        "acquirer": null,
+        "target": null,
+        "dedupeGroup": null,
+        "notes": "Termination of Fathom merger agreement; deal no longer exists"
+      }
+    }
+  ]
+}

@@ -24,9 +24,7 @@ export function initChartPanel({ onSymbolLoaded } = {}) {
 
   function render(data) {
     titleEl.textContent = `${data.symbol} — last month`;
-    priceEl.textContent = data.regularMarketPrice
-      ? `${data.regularMarketPrice.toFixed(2)} ${data.currency}`
-      : "";
+    priceEl.textContent = data.regularMarketPrice ? `${data.regularMarketPrice.toFixed(2)} ${data.currency}` : "";
 
     const labels = data.points.map((p) =>
       new Date(p.date).toLocaleDateString(undefined, { month: "short", day: "numeric" })
